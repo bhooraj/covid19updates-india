@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+    	{% include google-analytics.html %}
+    {% endif %}
+    	
+  </body>
+</html>

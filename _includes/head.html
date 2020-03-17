@@ -1,0 +1,73 @@
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ '/public/css/poole.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/public/css/syntax.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/public/css/hyde.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/public/css/forms.css' | relative_url }}">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/public/bhooraj-logo.png' | relative_url }}">
+                                 <link rel="shortcut icon" href="{{ '/public/bhooraj-logo.png' | relative_url }}">
+
+  <!--JQuery-->
+  <script
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+      {% if page.datatable == true %}
+    <!-- Include the standard DataTables bits -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.20/datatables.min.css"/>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.20/datatables.min.js"></script> 
+    <!-- First, this walks through the tables that occur between ...-begin
+         and ...-end and add the "datatable" class to them.
+         Then it invokes DataTable's standard initializer
+         Credit here: http://www.beardedhacker.com/blog/2015/08/28/add-class-attribute-to-markdown-table/
+      -->
+    <script>
+      $(document).ready(function(){
+          $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          $("table").attr("id","displayT");
+          $('#displayT').DataTable( {
+              paging: false,
+              stateSave: true,
+              searching: true
+          });
+       });
+    </script>
+    {% endif %}
+
+    <script type="text/javascript">
+      window.onload = function calC(argument) {
+        var x = document.getElementsByTagName("table")[0].rows, totalCases = 0, totalRecovered = 0, totalDeaths = 0 ;
+        var y = x.length;
+        for(i = 1; i < y; i++)
+          {
+            totalCases += parseInt(x[i].cells[1].innerHTML);
+            totalRecovered += parseInt(x[i].cells[2].innerHTML);
+            totalDeaths += parseInt(x[i].cells[3].innerHTML);
+          }
+        document.getElementById("totalcases").innerHTML = "Total Cases &colon;" + totalCases;
+        document.getElementById("totalrecovered").innerHTML = "Total Recovered / Discharged &colon;" + totalRecovered;
+        document.getElementById("totaldeaths").innerHTML = "Total Deaths &colon;" + totalDeaths;
+      }
+    </script>
+</head>

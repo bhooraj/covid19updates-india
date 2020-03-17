@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rogue
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            COVID-19 Updates from India
+tagline:          'With State-wise / UT data'
+description:      'Updates on Coronovirus (COVID-19) cases in India'
+url:              https://covid19updates-india.bhooraj.com
+baseurl:          /
+
+author:
+  name:           'Ravi Gupta'
+  url:            https://www.ravigupta.me/
+
+paginate:         2
+paginate_path: /page:num/
+
+# Custom vars
+version:          0.1
+
+github:
+  repo:           https://github.com/bhooraj/covid19updates-india
+
+google_analytics: #gaID
