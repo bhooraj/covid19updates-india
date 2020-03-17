@@ -17,7 +17,7 @@ title: About
 - Shubhra Gupta
 
 *For reporting updates and discrepancies, please mail to us using the following form:*
-<form action="https://submit-form.com/V_vlUCYFeFEcNf1OF9rwX" target="_self">
+<form action="https://submit-form.com/_" target="_self">
   <label>
   	Your email:
   	<input type="email" name="email" required />
