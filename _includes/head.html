@@ -66,10 +66,10 @@
             totalDeaths += parseInt(x[i].cells[3].innerHTML);
           }
         totalActive = (totalCases - (totalRecovered + totalDeaths));
-        document.getElementById("totalcases").innerHTML = "Total Cases &colon;" + totalCases;
-        document.getElementById("totalrecovered").innerHTML = "Total Recovered / Discharged &colon;" + totalRecovered;
-        document.getElementById("totaldeaths").innerHTML = "Total Deaths &colon;" + totalDeaths;
-        document.getElementById("totalactive").innerHTML = "Total Active Cases &colon;" + totalActive;
+        document.getElementById("totalcases").innerHTML = "Total Cases&colon; " + totalCases;
+        document.getElementById("totalrecovered").innerHTML = "Total Recovered / Discharged&colon; " + totalRecovered;
+        document.getElementById("totaldeaths").innerHTML = "Total Deaths&colon; " + totalDeaths;
+        document.getElementById("totalactive").innerHTML = "Total Active Cases&colon; " + totalActive;
       }
     </script>
     {% endif %}
