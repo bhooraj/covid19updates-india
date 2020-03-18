@@ -18,7 +18,6 @@ title: About
 
 *For reporting updates and discrepancies, please mail to us using the following form:*
 <form action="https://submit-form.com/_" target="_blank">
-  <div class="g-recaptcha" data-sitekey="6LcrEuIUAAAAAAGuiWdIKz-FtoZKN7MNLEAb8xoN"></div>
   <label>
   	Your email:
   	<input type="email" name="email" required />
@@ -27,5 +26,6 @@ title: About
   	Message:
   	<textarea name="message" required></textarea>
   </label>
+  <div class="g-recaptcha" data-sitekey="6LcrEuIUAAAAAAGuiWdIKz-FtoZKN7MNLEAb8xoN"></div>
   <button type="submit">Send</button>
 </form>
