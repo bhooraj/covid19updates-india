@@ -26,4 +26,4 @@ version:          0.1
 github:
   repo:           https://github.com/bhooraj/covid19updates-india
 
-google_analytics: #gaID
+google_analytics: UA-144707193-2
