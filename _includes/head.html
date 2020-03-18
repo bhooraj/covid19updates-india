@@ -54,7 +54,7 @@
        });
     </script>
     {% endif %}
-
+    {% if page.title == "Home" %}
     <script type="text/javascript">
       window.onload = function calC(argument) {
         var x = document.getElementsByTagName("table")[0].rows, totalCases = 0, totalRecovered = 0, totalDeaths = 0 ;
@@ -70,5 +70,6 @@
         document.getElementById("totaldeaths").innerHTML = "Total Deaths &colon;" + totalDeaths;
       }
     </script>
+    {% endif %}
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
