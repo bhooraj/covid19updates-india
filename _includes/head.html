@@ -57,7 +57,7 @@
     {% if page.title == "Home" %}
     <script type="text/javascript">
       window.onload = function calC(argument) {
-        var x = document.getElementsByTagName("table")[0].rows, totalCases = 0, totalRecovered = 0, totalDeaths = 0 ;
+        var x = document.getElementsByTagName("table")[0].rows, totalCases = 0, totalRecovered = 0, totalDeaths = 0, totalActive = 0 ;
         var y = x.length;
         for(i = 1; i < y; i++)
           {
@@ -65,9 +65,11 @@
             totalRecovered += parseInt(x[i].cells[2].innerHTML);
             totalDeaths += parseInt(x[i].cells[3].innerHTML);
           }
+        totalActive = (totalCases - (totalRecovered + totalDeaths));
         document.getElementById("totalcases").innerHTML = "Total Cases &colon;" + totalCases;
         document.getElementById("totalrecovered").innerHTML = "Total Recovered / Discharged &colon;" + totalRecovered;
         document.getElementById("totaldeaths").innerHTML = "Total Deaths &colon;" + totalDeaths;
+        document.getElementById("totalactive").innerHTML = "Total Active Cases &colon;" + totalActive;
       }
     </script>
     {% endif %}
