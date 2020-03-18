@@ -18,6 +18,13 @@ title: About
 
 *For reporting updates and discrepancies, please mail to us using the following form:*
 <form action="https://submit-form.com/_" target="_blank">
+  <input
+    type="checkbox"
+    name="Name"
+    style="display:none"
+    tabindex="-1"
+    autocomplete="off"
+  />
   <label>
   	Your email:
   	<input type="email" name="email" required />
