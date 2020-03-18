@@ -12,6 +12,8 @@ tagline:          'With State-wise / UT data'
 description:      'Updates on Coronovirus (COVID-19) cases in India'
 url:              https://covid19updates-india.bhooraj.com
 baseurl:          /
+plugins:
+  - jekyll-sitemap
 
 author:
   name:           'Ravi Gupta'
