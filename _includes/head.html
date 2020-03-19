@@ -61,9 +61,9 @@
         var y = x.length;
         for(i = 1; i < y; i++)
           {
-            totalCases += parseInt(x[i].cells[1].innerHTML);
-            totalRecovered += parseInt(x[i].cells[2].innerHTML);
-            totalDeaths += parseInt(x[i].cells[3].innerHTML);
+            totalCases += (parseInt(x[i].cells[1].innerHTML) + parseInt(x[i].cells[2].innerHTML));
+            totalRecovered += parseInt(x[i].cells[3].innerHTML);
+            totalDeaths += parseInt(x[i].cells[4].innerHTML);
           }
         totalActive = (totalCases - (totalRecovered + totalDeaths));
         document.getElementById("totalcases").innerHTML = "Total Cases&colon; " + totalCases;
