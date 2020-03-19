@@ -11,3 +11,5 @@ language: Hindi
 <img src="/public/images/sneeze_print_hi_color.png" alt="छींकने और खाँसने का सही तरीका"> 
 <p>इस पोस्टर का Free Licence के अंतर्गत प्रकाशन करने के लिए <a href="https://meduza.io/en">Meduza</a> का धन्यवाद। हिन्दी में अनुवाद करने के लिए CG Salamander, Shivani Tiwary, <a href="https://www.ravigupta.me/">Ravi Gupta</a> का धन्यवाद।</p>
 <p>यह पोस्टर अन्य भाषाओं में यहाँ उपलब्ध है&colon; <a href="https://pesho-ivanov.github.io/#Sneeze">https://pesho-ivanov.github.io/#Sneeze</a></p>
+
+***More info will be added to this page soon.***
