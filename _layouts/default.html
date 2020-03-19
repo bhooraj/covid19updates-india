@@ -1,5 +1,9 @@
 <!DOCTYPE html>
+{% if page.language == "Hindi" %}
+<html lang="hi" xml:lang="hi" xmlns="http://www.w3.org/1999/xhtml">
+{% else %}
 <html lang="en-us">
+{% endif %}
 
   {% include head.html %}
 
