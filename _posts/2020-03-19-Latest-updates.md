@@ -4,6 +4,7 @@ layout: post
 ### 19<sup>th</sup> March, 2020
 - China hits a Coronavirus milestone: No new local infections. [[Source](https://timesofindia.indiatimes.com/world/china/china-hits-a-coronavirus-milestone-no-new-local-infections/articleshow/74703255.cms)]
 - Chandigarh reports first COVID-19 case. [[Source](https://www.thehindu.com/news/national/coronavirus-live-updates-march-19-2020/article31105138.ece)]
+- Section 144 imposed in Noida till April 5, mass gathering banned. [[Source](https://www.livemint.com/news/india/coronavirus-in-noida-section-144-imposed-mass-gathering-banned-11584585228542.html)]
 
 ### 18<sup>th</sup> March, 2020
 - Centre asks private hospitals to reserve beds for isolation. [[Source](http://timesofindia.indiatimes.com/articleshow/74681875.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)]
