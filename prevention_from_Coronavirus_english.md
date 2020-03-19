@@ -10,7 +10,7 @@ title: Prevention from Coronavirus
 <img src="/public/images/sneeze_print_en_color.png" alt="Poster with instructions on sneezing and coughing correctly"> 
 <p>This poster is available here in other languages&colon; <a href="https://pesho-ivanov.github.io/#Sneeze">https://pesho-ivanov.github.io/#Sneeze</a></p>
 
-***Below are some more preventive measures as suggested by WHO.*** [[Source](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)]*
+***Below are some more preventive measures as suggested by WHO.*** [[Source](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)]
 
 ## Wash your hands frequently
 
@@ -46,4 +46,4 @@ Stay home if you feel unwell. If you have a fever, cough and difficulty breathin
 
 Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider, your national and local public health authority or your employer on how to protect yourself and others from COVID-19.
 
-***Why?** National and local authorities will have the most up to date information on whether COVID-19 is spreading in your area. They are best placed to advise on what people in your area should be doing to protect themselves.
+**Why?** National and local authorities will have the most up to date information on whether COVID-19 is spreading in your area. They are best placed to advise on what people in your area should be doing to protect themselves.
