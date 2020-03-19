@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
+### Prime Ministers address to the Nation on 19<sup>th</sup> March, 2020 :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XvxUlaioCC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 ### 19<sup>th</sup> March, 2020
+- "Janata Curfew" on sunday from 7 AM To 9 PM, says PM Modi. [[Source](https://www.ndtv.com/india-news/pm-modi-on-coronavirus-pandemic-the-world-is-passing-through-a-huge-crisis-more-countries-affected-t-2197582)]
 - China hits a Coronavirus milestone: No new local infections. [[Source](https://timesofindia.indiatimes.com/world/china/china-hits-a-coronavirus-milestone-no-new-local-infections/articleshow/74703255.cms)]
 - Chandigarh reports first COVID-19 case. [[Source](https://www.thehindu.com/news/national/coronavirus-live-updates-march-19-2020/article31105138.ece)]
 - Section 144 imposed in Noida till April 5, mass gathering banned. [[Source](https://www.livemint.com/news/india/coronavirus-in-noida-section-144-imposed-mass-gathering-banned-11584585228542.html)]
