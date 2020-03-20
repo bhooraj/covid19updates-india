@@ -7,6 +7,8 @@ layout: post
 ### 20<sup>th</sup> March, 2020
 - Cinema halls, gyms in Telangana to be closed till March 31. [[Source](https://www.thenewsminute.com/article/covid-19-cinema-halls-gyms-telangana-be-closed-till-march-31-120665)]
 - Karnataka: Crew of bus which Covid-19 patient took to Madikeri, kin under watch. [[Source](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-crew-of-bus-which-covid-19-patient-took-to-madikeri-kin-under-watch/articleshow/74717025.cms)]
+- Delhi Metro To Be Closed On Sunday As Part Of PM's "Janata Curfew" Move. [[Source](https://www.ndtv.com/india-news/delhi-metro-to-remain-closed-on-sunday-as-part-of-pms-janta-curfew-move-to-fight-coronavirus-2197994)]
+- Mumbai, Pune, Nagpur shut down in wake of coronavirus. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/mumbai-pune-nagpur-shut-down-in-wake-of-coronavirus/articleshow/74727175.cms)]
 
 ### 19<sup>th</sup> March, 2020
 - "Janata Curfew" on sunday from 7 AM To 9 PM, says PM Modi. [[Source](https://www.ndtv.com/india-news/pm-modi-on-coronavirus-pandemic-the-world-is-passing-through-a-huge-crisis-more-countries-affected-t-2197582)]
