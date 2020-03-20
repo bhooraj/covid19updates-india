@@ -4,7 +4,7 @@ layout: post
 ### PM Modi's Address to the Nation on 19<sup>th</sup> March, 2020 :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XvxUlaioCC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 19<sup>th</sup> March, 2020
+### 20<sup>th</sup> March, 2020
 - Cinema halls, gyms in Telangana to be closed till March 31. [[Source](https://www.thenewsminute.com/article/covid-19-cinema-halls-gyms-telangana-be-closed-till-march-31-120665)]
 - Karnataka: Crew of bus which Covid-19 patient took to Madikeri, kin under watch. [[Source](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-crew-of-bus-which-covid-19-patient-took-to-madikeri-kin-under-watch/articleshow/74717025.cms)]
 
