@@ -7,6 +7,10 @@ layout: post
 ### ‘Be responsible citizens’: AIIMS Director on Kanika Kapoor's party row. Watch the video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 21<sup>th</sup> March, 2020
+- 10,000 deaths globally, 5 deaths and over 200 confirmed cases of COVID-19 in India and China reports no new local cases again. [[Source](https://www.firstpost.com/health/10000-deaths-globally-5-deaths-and-over-200-confirmed-cases-of-covid-19-in-india-and-china-reports-no-new-local-cases-again-8171121.html)]
+- U.P Police to file FIR against Kanika Kapoor who has been tested positive for COVID-19. [[Source](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/u-p-police-to-file-fir-against-kanika-kapoor-who-has-been-tested-positive-for-covid-19/articleshow/74736342.cms)]
+
 ### 20<sup>th</sup> March, 2020
 - Several Politicians In Self-Quarantine After Kanika Kapoor Tests Positive For Coronavirus. [[Source](https://www.outlookindia.com/website/story/india-news-four-politicians-in-self-quarantine-after-kanika-kapoor-tests-positive-for-coronavirus/349166)]
 - No passenger trains on Janta Curfew day? Indian Railways cancels over 3,700 train services. [[Source](https://www.financialexpress.com/infrastructure/railways/no-passenger-trains-on-janta-curfew-day-indian-railways-cancels-train-services-details-here/1904932/)]
