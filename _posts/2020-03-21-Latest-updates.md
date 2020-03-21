@@ -11,6 +11,8 @@ layout: post
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 21<sup>th</sup> March, 2020
+- 2 With no Foreign travel link test positive [Source](https://www.ndtv.com/india-news/coronavirus-india-update-covid-19-cases-rise-to-258-in-india-after-biggest-single-day-spike-2198376)]
+- "Stay in whichever city you are," says PM a day before janata curfew [[Source](https://www.ndtv.com/india-news/pm-modi-day-before-janata-curfew-over-coronavirus-says-request-you-to-stay-in-whichever-city-you-are-2198580)]
 - On Janta Curfew day, Bengal govt wants all teachers in schools. [[Source](https://www.hindustantimes.com/india-news/on-janta-curfew-day-bengal-govt-wants-all-teachers-in-schools/story-2caRQs7VbGVcDTwzvq3esL.html)]
 - Indigo Reduces, GoAir Suspends Flights on Sunday As PM Modi Announces Janta Curfew. [[Source](https://www.news18.com/news/auto/indigo-reduces-goair-suspends-flights-on-sunday-as-pm-modi-announces-janta-curfew-2544987.html)]
 - 10,000 deaths globally, 5 deaths and over 200 confirmed cases of COVID-19 in India and China reports no new local cases again. [[Source](https://www.firstpost.com/health/10000-deaths-globally-5-deaths-and-over-200-confirmed-cases-of-covid-19-in-india-and-china-reports-no-new-local-cases-again-8171121.html)]
