@@ -10,6 +10,11 @@ layout: post
 ### ‘Be responsible citizens’: AIIMS Director on Kanika Kapoor's party row. Watch the video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 22<sup>nd</sup> March, 2020
+- Country Gears up for 14-Hour Shutdown during 'Janata Curfew' Today to Curb Coronavirus Spread [[Source](https://www.news18.com/news/india/coronavirus-pandemic-live-updates-coronavirus-outbreak-india-news-covid-19-gujarat-andhra-pradesh-kanika-kapoor-2545147.html)]
+- Pvt labs with USFDA-approved kits can start testing for Covid-19 [[Source](https://timesofindia.indiatimes.com/india/pvt-labs-with-usfda-approved-kits-can-start-testing-for-covid-19/articleshow/74754107.cms)]
+- Covid-19 restrictions: Delhi-bound flight with 100 Indians turned back to Amsterdam [[Source](https://www.livemint.com/news/india/covid-19-restrictions-delhi-bound-flight-with-100-indians-turned-back-to-amsterdam-11584808850846.html)]
+
 ### 21<sup>th</sup> March, 2020
 - 2 With no Foreign travel link test positive [[Source](https://www.ndtv.com/india-news/coronavirus-india-update-covid-19-cases-rise-to-258-in-india-after-biggest-single-day-spike-2198376)]
 - "Stay in whichever city you are," says PM a day before janata curfew [[Source](https://www.ndtv.com/india-news/pm-modi-day-before-janata-curfew-over-coronavirus-says-request-you-to-stay-in-whichever-city-you-are-2198580)]
