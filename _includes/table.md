@@ -2,23 +2,24 @@ Name of State / UT | Total Confirmed cases (Indian National) | Total Confirmed c
 ------- | -- | -- | --
 Andhra Pradesh | 3 | 0 | 0 | 0
 Chhattisgarh | 1 | 0 | 0 | 0
-Delhi | 25 | 1 | 5 | 1
-Gujarat | 7 | 0 | 0 | 0
+Delhi | 26 | 1 | 5 | 1
+Gujarat | 14 | 0 | 0 | 0
 Haryana | 3 | 14 | 0 | 0
 Himachal Pradesh | 2 | 0 | 0 | 0
-Karnataka | 15 | 0 | 1 | 1
-Kerala | 33 | 7 | 3 | 0
+Karnataka | 20 | 0 | 2 | 1
+Kerala | 45 | 7 | 3 | 0
 Madhya Pradesh | 4 | 0 | 0 | 0
-Maharashtra | 60 | 3 | 0 | 1
+Maharashtra | 60 | 3 | 0 | 2
 Odisha | 2 | 0 | 0 | 0
 Puducherry | 1 | 0 | 0 | 0
 Punjab | 13 | 0 | 0 | 1
-Rajasthan | 15 | 2 | 3 | 0
-Tamil Nadu | 3 | 0 | 1 | 0
+Rajasthan | 22 | 2 | 3 | 0
+Tamil Nadu | 4 | 2 | 1 | 0
 Telengana | 10 | 11 | 1 | 0
-Chandigarh | 1 | 0 | 0 | 0
+Chandigarh | 5 | 0 | 0 | 0
 Jammu and Kashmir | 4 | 0 | 0 | 0
 Ladakh | 13 | 0 | 0 | 0
-Uttar Pradesh | 23 | 1 | 9 | 0
+Uttar Pradesh | 24 | 1 | 9 | 0
 Uttarakhand | 3 | 0 | 0 | 0
-West Bengal | 3 | 0 | 0 | 0
+West Bengal | 4 | 0 | 0 | 0
+
