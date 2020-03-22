@@ -11,6 +11,7 @@ layout: post
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 22<sup>nd</sup> March, 2020
+- UP CM Yogi Adityanath announces lockdown in 15 districts [[Source](https://www.indiatoday.in/india/story/coronavirus-india-up-cm-yogi-adityanath-announces-lockdown-districts-1658470-2020-03-22)]
 - Country Gears up for 14-Hour Shutdown during 'Janata Curfew' Today to Curb Coronavirus Spread [[Source](https://www.news18.com/news/india/coronavirus-pandemic-live-updates-coronavirus-outbreak-india-news-covid-19-gujarat-andhra-pradesh-kanika-kapoor-2545147.html)]
 - Pvt labs with USFDA-approved kits can start testing for Covid-19 [[Source](https://timesofindia.indiatimes.com/india/pvt-labs-with-usfda-approved-kits-can-start-testing-for-covid-19/articleshow/74754107.cms)]
 - Covid-19 restrictions: Delhi-bound flight with 100 Indians turned back to Amsterdam [[Source](https://www.livemint.com/news/india/covid-19-restrictions-delhi-bound-flight-with-100-indians-turned-back-to-amsterdam-11584808850846.html)]
