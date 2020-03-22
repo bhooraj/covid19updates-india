@@ -12,7 +12,7 @@ language: Hindi
 <p>इस पोस्टर का Free Licence के अंतर्गत प्रकाशन करने के लिए <a href="https://meduza.io/en">Meduza</a> का धन्यवाद। हिन्दी में अनुवाद करने के लिए CG Salamander, Shivani Tiwary, <a href="https://www.ravigupta.me/">Ravi Gupta</a> का धन्यवाद।</p>
 <p>यह पोस्टर अन्य भाषाओं में यहाँ उपलब्ध है&colon; <a href="https://pesho-ivanov.github.io/#Sneeze">https://pesho-ivanov.github.io/#Sneeze</a></p>
 
-<p><b><i>WHO द्वारा सुझाए गए कुछ और निवारक उपाय नीचे दिए गए हैं। </i></b><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public">[स्रोत]</a></p>
+<p id='who'><b><i>WHO द्वारा सुझाए गए कुछ और निवारक उपाय नीचे दिए गए हैं। </i></b><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public">[स्रोत]</a></p>
 <p><i>अनुवाद: Ravi Gupta, Mradu Varshney, Shivani Bhardwaj</i></p>
 
 <h2>अपने हाथों को बार-बार धोएं</h2>
