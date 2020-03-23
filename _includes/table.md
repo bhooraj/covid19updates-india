@@ -8,18 +8,18 @@ Gujarat | 18 | 0 | 0 | 1
 Haryana | 7 | 14 | 0 | 0
 Himachal Pradesh | 2 | 0 | 0 | 0
 Karnataka | 26 | 0 | 2 | 1
-Kerala | 45 | 7 | 3 | 0
-Madhya Pradesh | 4 | 0 | 0 | 0
+Kerala | 60 | 7 | 3 | 0
+Madhya Pradesh | 6 | 0 | 0 | 0
 Maharashtra | 64 | 3 | 0 | 2
 Odisha | 2 | 0 | 0 | 0
 Puducherry | 1 | 0 | 0 | 0
 Punjab | 21 | 0 | 0 | 1
-Rajasthan | 22 | 2 | 3 | 0
-Tamil Nadu | 5 | 2 | 1 | 0
-Telengana | 11 | 11 | 1 | 0
+Rajasthan | 25 | 2 | 3 | 0
+Tamil Nadu | 7 | 2 | 1 | 0
+Telengana | 15 | 11 | 1 | 0
 Chandigarh | 5 | 0 | 0 | 0
 Jammu and Kashmir | 4 | 0 | 0 | 0
 Ladakh | 13 | 0 | 0 | 0
-Uttar Pradesh | 26 | 1 | 9 | 0
+Uttar Pradesh | 27 | 1 | 9 | 0
 Uttarakhand | 3 | 0 | 0 | 0
-West Bengal | 4 | 0 | 0 | 0
+West Bengal | 7 | 0 | 0 | 0
