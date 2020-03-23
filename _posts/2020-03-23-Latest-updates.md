@@ -12,6 +12,9 @@ layout: post
 
 ### 23<sup>rd</sup> March, 2020
 - Uber, Ola to Suspend Services in Delhi Till March 31 as Capital Goes in Coronavirus Lockdown. [[Source](https://www.news18.com/news/india/uber-ola-to-suspend-services-in-delhi-till-march-31-as-capital-goes-in-coronavirus-lockdown-2546895.html)]
+- Supreme Court Cancels Benches, Only One Court to Hear Urgent Cases Through Video-conferencing. [[Source](https://www.news18.com/news/india/coronavirus-supreme-court-cancels-benches-only-one-court-to-hear-urgent-cases-through-video-conferencing-2546881.html)]
+- Uddhav Thackeray imposes curfew in entire Maharashtra. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/uddhav-thackeray-imposes-curfew-in-entire-maharashtra/articleshow/74775886.cms)]
+- 80% patients recover on their own, 5% require hospitalisation, says ICMR. [[Source](https://www.moneycontrol.com/news/trends/health-trends/coronavirus-pandemic-80-patients-recover-on-their-own-5-require-hospitalisation-says-icmr-5060481.html)]
 
 ### 22<sup>nd</sup> March, 2020
 - UP CM Yogi Adityanath announces lockdown in 15 districts [[Source](https://www.indiatoday.in/india/story/coronavirus-india-up-cm-yogi-adityanath-announces-lockdown-districts-1658470-2020-03-22)]
