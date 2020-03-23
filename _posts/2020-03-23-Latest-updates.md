@@ -10,6 +10,9 @@ layout: post
 ### ‘Be responsible citizens’: AIIMS Director on Kanika Kapoor's party row. Watch the video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 23<sup>rd</sup> March, 2020
+- Uber, Ola to Suspend Services in Delhi Till March 31 as Capital Goes in Coronavirus Lockdown. [[Source](https://www.news18.com/news/india/uber-ola-to-suspend-services-in-delhi-till-march-31-as-capital-goes-in-coronavirus-lockdown-2546895.html)]
+
 ### 22<sup>nd</sup> March, 2020
 - UP CM Yogi Adityanath announces lockdown in 15 districts [[Source](https://www.indiatoday.in/india/story/coronavirus-india-up-cm-yogi-adityanath-announces-lockdown-districts-1658470-2020-03-22)]
 - Country Gears up for 14-Hour Shutdown during 'Janata Curfew' Today to Curb Coronavirus Spread [[Source](https://www.news18.com/news/india/coronavirus-pandemic-live-updates-coronavirus-outbreak-india-news-covid-19-gujarat-andhra-pradesh-kanika-kapoor-2545147.html)]
@@ -31,11 +34,3 @@ layout: post
 - Karnataka: Crew of bus which Covid-19 patient took to Madikeri, kin under watch. [[Source](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-crew-of-bus-which-covid-19-patient-took-to-madikeri-kin-under-watch/articleshow/74717025.cms)]
 - Delhi Metro To Be Closed On Sunday As Part Of PM's "Janata Curfew" Move. [[Source](https://www.ndtv.com/india-news/delhi-metro-to-remain-closed-on-sunday-as-part-of-pms-janta-curfew-move-to-fight-coronavirus-2197994)]
 - Mumbai, Pune, Nagpur shut down in wake of coronavirus. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/mumbai-pune-nagpur-shut-down-in-wake-of-coronavirus/articleshow/74727175.cms)]
-
-### 19<sup>th</sup> March, 2020
-- "Janata Curfew" on sunday from 7 AM To 9 PM, says PM Modi. [[Source](https://www.ndtv.com/india-news/pm-modi-on-coronavirus-pandemic-the-world-is-passing-through-a-huge-crisis-more-countries-affected-t-2197582)]
-- China hits a Coronavirus milestone: No new local infections. [[Source](https://timesofindia.indiatimes.com/world/china/china-hits-a-coronavirus-milestone-no-new-local-infections/articleshow/74703255.cms)]
-- Chandigarh reports first COVID-19 case. [[Source](https://www.thehindu.com/news/national/coronavirus-live-updates-march-19-2020/article31105138.ece)]
-- Section 144 imposed in Noida till April 5, mass gathering banned. [[Source](https://www.livemint.com/news/india/coronavirus-in-noida-section-144-imposed-mass-gathering-banned-11584585228542.html)]
-- India's fourth Coronavirus death reported from Punjab. [[Source](https://www.ndtv.com/india-news/indias-fourth-coronavirus-death-reported-from-punjab-2197462)]
-- India bans entry of all international commercial passenger flights for one week. [[Source](https://www.livemint.com/news/india/india-bans-entry-of-all-international-commercial-passenger-flights-from-march-22-to-march-29-official-statement-11584619951721.html)]
