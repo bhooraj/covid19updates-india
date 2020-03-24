@@ -11,7 +11,7 @@ layout: post
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 24<sup>th</sup> March, 2020
-- Total Lockdown From Midnight, Stay At Home For 21 Days: PM On Coronavirus[[Source](https://www.ndtv.com/india-news/pm-modi-on-coronavirus-with-janata-curfew-indians-showed-that-they-can-unite-for-a-common-cause-2200069)]
+- Total Lockdown From Midnight, Stay At Home For 21 Days: PM On Coronavirus [[Source](https://www.ndtv.com/india-news/pm-modi-on-coronavirus-with-janata-curfew-indians-showed-that-they-can-unite-for-a-common-cause-2200069)]
 - China to lift lockdown on Wuhan, ground zero of coronavirus pandemic [[Source](https://edition.cnn.com/2020/03/24/asia/coronavirus-wuhan-lockdown-lifted-intl-hnk/index.html)]
 - Trump pushes a ‘return to work’ as Kudlow predicts coronavirus stimulus will fuel economic rebound [[Source](https://www.cnbc.com/2020/03/24/coronavirus-stimulus-trump-pushes-return-to-work-as-kudlow-predicts-economic-rebound.html)]
 - IGNOU gears up to fight Novel Coronavirus (COVID-19); suspends activities at Learner Support Centers till 31st March, 2020 [[Source](http://www.ignou.ac.in/userfiles/PR-converted%20(1)(2).pdf)]
