@@ -14,7 +14,6 @@ layout: post
 - PM Modi to address the nation tonight, second time in 5 days [[Source](https://www.livemint.com/news/india/pm-modi-to-address-the-nation-at-8-pm-today-on-coronavirus-outbreak-11585029361395.html)]
 - Tamil Nadu announces dedicated hospital for COVID-19 patients. [[Source](https://www.thehindu.com/news/national/tamil-nadu-announces-dedicated-hospital-for-covid-19-patients/article31146741.ece)]
 - MP Govt imposes Curfew in Coronavirus-Hit Bhopal, Jabalpur. [[Source](https://www.news18.com/news/india/mp-govt-imposes-curfew-in-coronavirus-hit-bhopal-jabalpur-2548513.html)]
-- 
 
 ### 23<sup>rd</sup> March, 2020
 - Uber, Ola to Suspend Services in Delhi Till March 31 as Capital Goes in Coronavirus Lockdown. [[Source](https://www.news18.com/news/india/uber-ola-to-suspend-services-in-delhi-till-march-31-as-capital-goes-in-coronavirus-lockdown-2546895.html)]
