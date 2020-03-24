@@ -11,6 +11,7 @@ layout: post
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 24<sup>th</sup> March, 2020
+- IGNOU gears up to fightNovel Coronavirus (COVID-19); suspends activities at Learner Support Centers till 31st March, 2020 [[Source](http://www.ignou.ac.in/userfiles/PR-converted%20(1)(2).pdf)]
 - Full lockdown announced in UP till March 27 [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/full-lockdown-announced-in-up-till-march-27/articleshow/74790950.cms)]
 - PM Modi to address the nation tonight, second time in 5 days [[Source](https://www.livemint.com/news/india/pm-modi-to-address-the-nation-at-8-pm-today-on-coronavirus-outbreak-11585029361395.html)]
 - Tamil Nadu announces dedicated hospital for COVID-19 patients. [[Source](https://www.thehindu.com/news/national/tamil-nadu-announces-dedicated-hospital-for-covid-19-patients/article31146741.ece)]
