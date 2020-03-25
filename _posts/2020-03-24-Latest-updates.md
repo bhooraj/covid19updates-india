@@ -4,9 +4,6 @@ layout: post
 ### WHO Director-General's opening remarks at the media briefing on COVID-19 - 20 March 2020
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6BOKgSCPD4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PM Modi's Address to the Nation on 19<sup>th</sup> March, 2020 :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XvxUlaioCC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### ‘Be responsible citizens’: AIIMS Director on Kanika Kapoor's party row. Watch the video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
