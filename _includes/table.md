@@ -3,7 +3,7 @@ Name of State / UT | Total Confirmed cases (Indian National) | Total Confirmed c
 Andhra Pradesh | 9 | 0 | 0 | 0
 Bihar | 3 | 0 | 0 | 1
 Chhattisgarh | 1 | 0 | 0 | 0
-Delhi | 30 | 1 | 6 | 1#
+Delhi | 30 | 1 | 6 | 1
 Gujarat | 32 | 1 | 0 | 1
 Haryana | 14 | 14 | 11 | 0
 Himachal Pradesh | 3 | 0 | 0 | 1
