@@ -16,8 +16,6 @@ layout: post
 - People resort to panic buying soon after PM's lockdown announcement; govt later clarifies availability of essential commodities [[Source](https://www.firstpost.com/health/coronavirus-outbreak-people-resort-to-panic-buying-soon-after-pms-lockdown-announcement-govt-later-clarifies-availability-of-essential-commodities-8187371.html)]
 - PM Modi follows social distancing norms during cabinet meet [[Source](https://timesofindia.indiatimes.com/india/coronavirus-union-cabinet-meeting-underway-social-distancing-seen/articleshow/74806444.cms)]
 
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/74806444.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
 
 ### 24<sup>th</sup> March, 2020
 - Total Lockdown From Midnight, Stay At Home For 21 Days: PM On Coronavirus [[Source](https://www.ndtv.com/india-news/pm-modi-on-coronavirus-with-janata-curfew-indians-showed-that-they-can-unite-for-a-common-cause-2200069)]
