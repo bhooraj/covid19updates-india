@@ -2,10 +2,14 @@
 layout: post
 ---
 ### WHO Director-General's opening remarks at the media briefing on COVID-19 - 20 March 2020
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6BOKgSCPD4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/6BOKgSCPD4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### ‘Be responsible citizens’: AIIMS Director on Kanika Kapoor's party row. Watch the video below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 25<sup>th</sup> March, 2020
 - Modi's 21-day India lockdown: [Here's the list of essential services that will remain operational.](http://164.100.117.97/WriteReadData/userfiles/Guidelines.pdf) [[Source](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1607997)]
