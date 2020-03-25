@@ -11,6 +11,12 @@ layout: post
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 24<sup>th</sup> March, 2020
+- Total Lockdown From Midnight, Stay At Home For 21 Days: PM On Coronavirus [[Source](https://www.ndtv.com/india-news/pm-modi-on-coronavirus-with-janata-curfew-indians-showed-that-they-can-unite-for-a-common-cause-2200069)]
+- China to lift lockdown on Wuhan, ground zero of coronavirus pandemic [[Source](https://edition.cnn.com/2020/03/24/asia/coronavirus-wuhan-lockdown-lifted-intl-hnk/index.html)]
+- Trump pushes a ‘return to work’ as Kudlow predicts coronavirus stimulus will fuel economic rebound [[Source](https://www.cnbc.com/2020/03/24/coronavirus-stimulus-trump-pushes-return-to-work-as-kudlow-predicts-economic-rebound.html)]
+- IGNOU gears up to fight Novel Coronavirus (COVID-19); suspends activities at Learner Support Centers till 31st March, 2020 [[Source](http://www.ignou.ac.in/userfiles/PR-converted%20(1)(2).pdf)]
+- Full lockdown announced in UP till March 27 [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/full-lockdown-announced-in-up-till-march-27/articleshow/74790950.cms)]
+- PM Modi to address the nation tonight, second time in 5 days [[Source](https://www.livemint.com/news/india/pm-modi-to-address-the-nation-at-8-pm-today-on-coronavirus-outbreak-11585029361395.html)]
 - Tamil Nadu announces dedicated hospital for COVID-19 patients. [[Source](https://www.thehindu.com/news/national/tamil-nadu-announces-dedicated-hospital-for-covid-19-patients/article31146741.ece)]
 - MP Govt imposes Curfew in Coronavirus-Hit Bhopal, Jabalpur. [[Source](https://www.news18.com/news/india/mp-govt-imposes-curfew-in-coronavirus-hit-bhopal-jabalpur-2548513.html)]
 
