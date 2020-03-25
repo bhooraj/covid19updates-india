@@ -10,6 +10,10 @@ layout: post
 ### ‘Be responsible citizens’: AIIMS Director on Kanika Kapoor's party row. Watch the video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 25<sup>th</sup> March, 2020
+- Modi's 21-day India lockdown: Here's the list of essential services that will remain operational. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/heres-a-list-essential-services-that-will-be-available-during-the-21-day-nationwide-lockdown/articleshow/74798509.cms)]
+- Coronavirus pandemic | This Indian company's test kits have received commercial approval. [[Source](https://www.moneycontrol.com/news/india/coronavirus-pandemic-mylab-discovery-solutions-this-indian-companys-test-kits-have-received-commercial-approval-5065061.html)]
+
 ### 24<sup>th</sup> March, 2020
 - Total Lockdown From Midnight, Stay At Home For 21 Days: PM On Coronavirus [[Source](https://www.ndtv.com/india-news/pm-modi-on-coronavirus-with-janata-curfew-indians-showed-that-they-can-unite-for-a-common-cause-2200069)]
 - China to lift lockdown on Wuhan, ground zero of coronavirus pandemic [[Source](https://edition.cnn.com/2020/03/24/asia/coronavirus-wuhan-lockdown-lifted-intl-hnk/index.html)]
@@ -31,11 +35,3 @@ layout: post
 - Country Gears up for 14-Hour Shutdown during 'Janata Curfew' Today to Curb Coronavirus Spread [[Source](https://www.news18.com/news/india/coronavirus-pandemic-live-updates-coronavirus-outbreak-india-news-covid-19-gujarat-andhra-pradesh-kanika-kapoor-2545147.html)]
 - Pvt labs with USFDA-approved kits can start testing for Covid-19 [[Source](https://timesofindia.indiatimes.com/india/pvt-labs-with-usfda-approved-kits-can-start-testing-for-covid-19/articleshow/74754107.cms)]
 - Covid-19 restrictions: Delhi-bound flight with 100 Indians turned back to Amsterdam [[Source](https://www.livemint.com/news/india/covid-19-restrictions-delhi-bound-flight-with-100-indians-turned-back-to-amsterdam-11584808850846.html)]
-
-### 21<sup>th</sup> March, 2020
-- 2 With no Foreign travel link test positive [[Source](https://www.ndtv.com/india-news/coronavirus-india-update-covid-19-cases-rise-to-258-in-india-after-biggest-single-day-spike-2198376)]
-- "Stay in whichever city you are," says PM a day before janata curfew [[Source](https://www.ndtv.com/india-news/pm-modi-day-before-janata-curfew-over-coronavirus-says-request-you-to-stay-in-whichever-city-you-are-2198580)]
-- On Janta Curfew day, Bengal govt wants all teachers in schools. [[Source](https://www.hindustantimes.com/india-news/on-janta-curfew-day-bengal-govt-wants-all-teachers-in-schools/story-2caRQs7VbGVcDTwzvq3esL.html)]
-- Indigo Reduces, GoAir Suspends Flights on Sunday As PM Modi Announces Janta Curfew. [[Source](https://www.news18.com/news/auto/indigo-reduces-goair-suspends-flights-on-sunday-as-pm-modi-announces-janta-curfew-2544987.html)]
-- 10,000 deaths globally, 5 deaths and over 200 confirmed cases of COVID-19 in India and China reports no new local cases again. [[Source](https://www.firstpost.com/health/10000-deaths-globally-5-deaths-and-over-200-confirmed-cases-of-covid-19-in-india-and-china-reports-no-new-local-cases-again-8171121.html)]
-- U.P Police to file FIR against Kanika Kapoor who has been tested positive for COVID-19. [[Source](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/u-p-police-to-file-fir-against-kanika-kapoor-who-has-been-tested-positive-for-covid-19/articleshow/74736342.cms)]
