@@ -12,7 +12,7 @@ layout: post
 
 ### 25<sup>th</sup> March, 2020
 - Modi's 21-day India lockdown: Here's the list of essential services that will remain operational. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/heres-a-list-essential-services-that-will-be-available-during-the-21-day-nationwide-lockdown/articleshow/74798509.cms)]
-- Coronavirus pandemic | This Indian company's test kits have received commercial approval. [[Source](https://www.moneycontrol.com/news/india/coronavirus-pandemic-mylab-discovery-solutions-this-indian-companys-test-kits-have-received-commercial-approval-5065061.html)]
+- This Indian company's test kits have received commercial approval. [[Source](https://www.moneycontrol.com/news/india/coronavirus-pandemic-mylab-discovery-solutions-this-indian-companys-test-kits-have-received-commercial-approval-5065061.html)]
 
 ### 24<sup>th</sup> March, 2020
 - Total Lockdown From Midnight, Stay At Home For 21 Days: PM On Coronavirus [[Source](https://www.ndtv.com/india-news/pm-modi-on-coronavirus-with-janata-curfew-indians-showed-that-they-can-unite-for-a-common-cause-2200069)]
