@@ -8,7 +8,7 @@ layout: post
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 25<sup>th</sup> March, 2020
-- Modi's 21-day India lockdown: Here's the list of essential services that will remain operational. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/heres-a-list-essential-services-that-will-be-available-during-the-21-day-nationwide-lockdown/articleshow/74798509.cms)]
+- Modi's 21-day India lockdown: [Here's the list of essential services that will remain operational.](http://164.100.117.97/WriteReadData/userfiles/Guidelines.pdf) [[Source](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1607997)]
 - This Indian company's test kits have received commercial approval. [[Source](https://www.moneycontrol.com/news/india/coronavirus-pandemic-mylab-discovery-solutions-this-indian-companys-test-kits-have-received-commercial-approval-5065061.html)]
 - People resort to panic buying soon after PM's lockdown announcement; govt later clarifies availability of essential commodities [[Source](https://www.firstpost.com/health/coronavirus-outbreak-people-resort-to-panic-buying-soon-after-pms-lockdown-announcement-govt-later-clarifies-availability-of-essential-commodities-8187371.html)]
 - PM Modi follows social distancing norms during cabinet meet [[Source](https://timesofindia.indiatimes.com/india/coronavirus-union-cabinet-meeting-underway-social-distancing-seen/articleshow/74806444.cms)]
