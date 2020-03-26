@@ -18,6 +18,7 @@ layout: post
 - Sonia Gandhi writes to PM Modi, voices support to lockdown [[Source](https://timesofindia.indiatimes.com/india/coronavirus-sonia-gandhi-writes-to-pm-modi-voices-support-to-lockdown/articleshow/74824310.cms)]
 - Sensex posts biggest one-day gain in 10 years. What experts say on today's rally [[Source](https://www.livemint.com/news/india/sensex-sees-biggest-one-day-gain-in-over-10-years-ril-leads-recovery-11585130333075.html)]
 - 65-year-old religious preacher dies of coronavirus, first death in Kashmir [[Source](https://www.hindustantimes.com/india-news/65-year-old-religious-preacher-dies-of-coronavirus-first-death-in-kashmir/story-cC1FvbQVLuhTobUoVxmGjK.html)]
+- US Senate passes historic $2 trillion bill to stimulate US economy [[Source](https://www.moneycontrol.com/news/world/us-senate-historic-2-trillion-bill-to-stimulate-us-economy-5074271.html)]
 
 ### 25<sup>th</sup> March, 2020
 - Modi's 21-day India lockdown: [Here's the list of essential services that will remain operational.](http://164.100.117.97/WriteReadData/userfiles/Guidelines.pdf) [[Source](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1607997)]
