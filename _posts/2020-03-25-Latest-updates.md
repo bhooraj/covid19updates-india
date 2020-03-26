@@ -11,13 +11,10 @@ layout: post
 <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### 26<sup>th</sup> March, 2020
+### [26<sup>th</sup> March, 2020](#updates)
 - Nirmala Sitharaman: Cash transfer, free LPG, grains, part of coronavirus package [[Source](https://www.livemint.com/news/india/nirmala-sitharaman-live-economic-package-announcement-likely-11585207106896.html)]
 - Essential services allowed, mohalla clinics won’t be shut, says Kejriwal [[Source](https://www.hindustantimes.com/delhi-news/covid-19-lockdown-essential-services-allowed-mohalla-clinics-won-t-be-shut-says-kejriwal/story-mh6781SxWlBjo9nuIwJKVL.html)]
 - Sonia Gandhi writes to PM Modi, voices support to lockdown [[Source](https://timesofindia.indiatimes.com/india/coronavirus-sonia-gandhi-writes-to-pm-modi-voices-support-to-lockdown/articleshow/74824310.cms)]
-
-Read more at:
-http://timesofindia.indiatimes.com/articleshow/74824310.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
 
 ### 25<sup>th</sup> March, 2020
 - Modi's 21-day India lockdown: [Here's the list of essential services that will remain operational.](http://164.100.117.97/WriteReadData/userfiles/Guidelines.pdf) [[Source](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1607997)]
