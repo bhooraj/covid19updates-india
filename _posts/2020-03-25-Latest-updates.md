@@ -13,6 +13,7 @@ layout: post
 
 ### [26<sup>th</sup> March, 2020](#updates)
 - Nirmala Sitharaman: Cash transfer, free LPG, grains, part of coronavirus package [[Source](https://www.livemint.com/news/india/nirmala-sitharaman-live-economic-package-announcement-likely-11585207106896.html)]
+- No Local Coronavirus Transmission For 2nd Day In China, Imported Cases Rise [[Source](https://www.ndtv.com/world-news/coronavirus-outbreak-no-local-coronavirus-transmission-for-2nd-day-in-china-imported-cases-rise-2200810)]
 - Essential services allowed, mohalla clinics won’t be shut, says Kejriwal [[Source](https://www.hindustantimes.com/delhi-news/covid-19-lockdown-essential-services-allowed-mohalla-clinics-won-t-be-shut-says-kejriwal/story-mh6781SxWlBjo9nuIwJKVL.html)]
 - Sonia Gandhi writes to PM Modi, voices support to lockdown [[Source](https://timesofindia.indiatimes.com/india/coronavirus-sonia-gandhi-writes-to-pm-modi-voices-support-to-lockdown/articleshow/74824310.cms)]
 - Sensex posts biggest one-day gain in 10 years. What experts say on today's rally [[Source](https://www.livemint.com/news/india/sensex-sees-biggest-one-day-gain-in-over-10-years-ril-leads-recovery-11585130333075.html)]
