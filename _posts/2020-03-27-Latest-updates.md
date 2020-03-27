@@ -10,8 +10,12 @@ layout: post
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+### [27<sup>th</sup> March, 2020](#updates)
+- US has now most confirmed coronavirus cases in world [[Source](https://www.moneycontrol.com/news/world/us-has-now-most-confirmed-coronavirus-cases-in-world-5078261.html)]
+- RBI Guv to address media on Covid-19 pandemic today. Here’s what’s on agenda [[Source](https://www.hindustantimes.com/business-news/rbi-governor-to-hold-briefing-on-covid-19-pandemic-today-here-s-what-s-on-agenda/story-ygC7LT7s7fGtfvcXFFkl9L.html)]
+- G20 Pledges $5 Trillion To Revive Global Economy, PM Calls For WHO Reform [[Source](https://www.hindustantimes.com/business-news/rbi-governor-to-hold-briefing-on-covid-19-pandemic-today-here-s-what-s-on-agenda/story-ygC7LT7s7fGtfvcXFFkl9L.html)]
 
-### [26<sup>th</sup> March, 2020](#updates)
+### [26<sup>th</sup> March, 2020]
 - Nirmala Sitharaman: Cash transfer, free LPG, grains, part of coronavirus package [[Source](https://www.livemint.com/news/india/nirmala-sitharaman-live-economic-package-announcement-likely-11585207106896.html)]
 - No Local Coronavirus Transmission For 2nd Day In China, Imported Cases Rise [[Source](https://www.ndtv.com/world-news/coronavirus-outbreak-no-local-coronavirus-transmission-for-2nd-day-in-china-imported-cases-rise-2200810)]
 - Essential services allowed, mohalla clinics won’t be shut, says Kejriwal [[Source](https://www.hindustantimes.com/delhi-news/covid-19-lockdown-essential-services-allowed-mohalla-clinics-won-t-be-shut-says-kejriwal/story-mh6781SxWlBjo9nuIwJKVL.html)]
@@ -26,13 +30,3 @@ layout: post
 - People resort to panic buying soon after PM's lockdown announcement; govt later clarifies availability of essential commodities [[Source](https://www.firstpost.com/health/coronavirus-outbreak-people-resort-to-panic-buying-soon-after-pms-lockdown-announcement-govt-later-clarifies-availability-of-essential-commodities-8187371.html)]
 - PM Modi follows social distancing norms during cabinet meet [[Source](https://timesofindia.indiatimes.com/india/coronavirus-union-cabinet-meeting-underway-social-distancing-seen/articleshow/74806444.cms)]
 
-
-### 24<sup>th</sup> March, 2020
-- Total Lockdown From Midnight, Stay At Home For 21 Days: PM On Coronavirus [[Source](https://www.ndtv.com/india-news/pm-modi-on-coronavirus-with-janata-curfew-indians-showed-that-they-can-unite-for-a-common-cause-2200069)]
-- China to lift lockdown on Wuhan, ground zero of coronavirus pandemic [[Source](https://edition.cnn.com/2020/03/24/asia/coronavirus-wuhan-lockdown-lifted-intl-hnk/index.html)]
-- Trump pushes a ‘return to work’ as Kudlow predicts coronavirus stimulus will fuel economic rebound [[Source](https://www.cnbc.com/2020/03/24/coronavirus-stimulus-trump-pushes-return-to-work-as-kudlow-predicts-economic-rebound.html)]
-- IGNOU gears up to fight Novel Coronavirus (COVID-19); suspends activities at Learner Support Centers till 31st March, 2020 [[Source](http://www.ignou.ac.in/userfiles/PR-converted%20(1)(2).pdf)]
-- Full lockdown announced in UP till March 27 [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/full-lockdown-announced-in-up-till-march-27/articleshow/74790950.cms)]
-- PM Modi to address the nation tonight, second time in 5 days [[Source](https://www.livemint.com/news/india/pm-modi-to-address-the-nation-at-8-pm-today-on-coronavirus-outbreak-11585029361395.html)]
-- Tamil Nadu announces dedicated hospital for COVID-19 patients. [[Source](https://www.thehindu.com/news/national/tamil-nadu-announces-dedicated-hospital-for-covid-19-patients/article31146741.ece)]
-- MP Govt imposes Curfew in Coronavirus-Hit Bhopal, Jabalpur. [[Source](https://www.news18.com/news/india/mp-govt-imposes-curfew-in-coronavirus-hit-bhopal-jabalpur-2548513.html)]
