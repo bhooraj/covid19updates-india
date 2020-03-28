@@ -13,6 +13,7 @@ layout: post
 ### [28<sup>th</sup> March, 2020](#updates)
 - Amid lockdown, exodus of migrant workers chokes Delhi-UP border. [[Source](https://www.livemint.com/news/india/covid-19-exodus-of-migrant-workers-chokes-delhi-up-border-11585323563278.html)]
 - India 'super spreader' quarantines 40,000 people. [[Source](https://www.bbc.com/news/world-asia-india-52061915)]
+- COVID-19 WEBINAR, AIIMS New Delhi. [[Source](https://www.youtube.com/watch?v=BTLGGV3_XnI)]
 
 ### 27<sup>th</sup> March, 2020
 - US has now most confirmed coronavirus cases in world [[Source](https://www.moneycontrol.com/news/world/us-has-now-most-confirmed-coronavirus-cases-in-world-5078261.html)]
