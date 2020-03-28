@@ -10,12 +10,16 @@ layout: post
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-### [27<sup>th</sup> March, 2020](#updates)
+### [28<sup>th</sup> March, 2020](#updates)
+- Amid lockdown, exodus of migrant workers chokes Delhi-UP border. [[Source](https://www.livemint.com/news/india/covid-19-exodus-of-migrant-workers-chokes-delhi-up-border-11585323563278.html)]
+- India 'super spreader' quarantines 40,000 people. [[Source](https://www.bbc.com/news/world-asia-india-52061915)]
+
+### 27<sup>th</sup> March, 2020
 - US has now most confirmed coronavirus cases in world [[Source](https://www.moneycontrol.com/news/world/us-has-now-most-confirmed-coronavirus-cases-in-world-5078261.html)]
 - RBI Guv to address media on Covid-19 pandemic today. Here’s what’s on agenda [[Source](https://www.hindustantimes.com/business-news/rbi-governor-to-hold-briefing-on-covid-19-pandemic-today-here-s-what-s-on-agenda/story-ygC7LT7s7fGtfvcXFFkl9L.html)]
 - G20 Pledges $5 Trillion To Revive Global Economy, PM Calls For WHO Reform [[Source](https://www.hindustantimes.com/business-news/rbi-governor-to-hold-briefing-on-covid-19-pandemic-today-here-s-what-s-on-agenda/story-ygC7LT7s7fGtfvcXFFkl9L.html)]
 
-### [26<sup>th</sup> March, 2020]
+### 26<sup>th</sup> March, 2020
 - Nirmala Sitharaman: Cash transfer, free LPG, grains, part of coronavirus package [[Source](https://www.livemint.com/news/india/nirmala-sitharaman-live-economic-package-announcement-likely-11585207106896.html)]
 - No Local Coronavirus Transmission For 2nd Day In China, Imported Cases Rise [[Source](https://www.ndtv.com/world-news/coronavirus-outbreak-no-local-coronavirus-transmission-for-2nd-day-in-china-imported-cases-rise-2200810)]
 - Essential services allowed, mohalla clinics won’t be shut, says Kejriwal [[Source](https://www.hindustantimes.com/delhi-news/covid-19-lockdown-essential-services-allowed-mohalla-clinics-won-t-be-shut-says-kejriwal/story-mh6781SxWlBjo9nuIwJKVL.html)]
@@ -29,4 +33,3 @@ layout: post
 - This Indian company's test kits have received commercial approval. [[Source](https://www.moneycontrol.com/news/india/coronavirus-pandemic-mylab-discovery-solutions-this-indian-companys-test-kits-have-received-commercial-approval-5065061.html)]
 - People resort to panic buying soon after PM's lockdown announcement; govt later clarifies availability of essential commodities [[Source](https://www.firstpost.com/health/coronavirus-outbreak-people-resort-to-panic-buying-soon-after-pms-lockdown-announcement-govt-later-clarifies-availability-of-essential-commodities-8187371.html)]
 - PM Modi follows social distancing norms during cabinet meet [[Source](https://timesofindia.indiatimes.com/india/coronavirus-union-cabinet-meeting-underway-social-distancing-seen/articleshow/74806444.cms)]
-
