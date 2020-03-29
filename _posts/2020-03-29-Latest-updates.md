@@ -10,7 +10,11 @@ layout: post
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-### [28<sup>th</sup> March, 2020](#updates)
+### [29<sup>th</sup> March, 2020](#updates)
+- PM Modi’s First Mann ki Baat Amid 21-day Lockdown at 11am Today, Focus on Coronavirus. [[Source](https://www.news18.com/news/india/pm-modis-first-mann-ki-baat-amid-21-day-lockdown-at-11am-today-focus-on-coronavirus-2555455.html)]
+- Clashes In China As People Try To Leave Coronavirus-Hit Hubei After Lockdown Lifted. [[Source](https://www.ndtv.com/world-news/coronavirus-epidemic-clashes-erupt-in-china-as-people-try-to-leave-virus-hit-hubei-after-lockdown-li-2202379)]
+
+### 28<sup>th</sup> March, 2020
 - Amid lockdown, exodus of migrant workers chokes Delhi-UP border. [[Source](https://www.livemint.com/news/india/covid-19-exodus-of-migrant-workers-chokes-delhi-up-border-11585323563278.html)]
 - India 'super spreader' quarantines 40,000 people. [[Source](https://www.bbc.com/news/world-asia-india-52061915)]
 - COVID-19 WEBINAR, AIIMS New Delhi. [[Source](https://www.youtube.com/watch?v=BTLGGV3_XnI)]
