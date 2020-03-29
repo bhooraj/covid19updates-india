@@ -15,8 +15,7 @@ layout: post
 - PM Modi’s First Mann ki Baat Amid 21-day Lockdown at 11am Today, Focus on Coronavirus. [[Source](https://www.news18.com/news/india/pm-modis-first-mann-ki-baat-amid-21-day-lockdown-at-11am-today-focus-on-coronavirus-2555455.html)]
 - Clashes In China As People Try To Leave Coronavirus-Hit Hubei After Lockdown Lifted. [[Source](https://www.ndtv.com/world-news/coronavirus-epidemic-clashes-erupt-in-china-as-people-try-to-leave-virus-hit-hubei-after-lockdown-li-2202379)]
 - 86 people in India beat Covid-19, nearly 10% of all coronavirus patients recover [[Source](https://www.hindustantimes.com/india-news/86-people-in-india-beat-covid-19-nearly-10-of-all-coronavirus-patients/story-WE6AnTtclfw1EEc4AQoxKL.html)]
-- Indian Railways resume parcel van service to ensure uninterrupted flow of essentials to local markets [[Source]
-(https://www.moneycontrol.com/news/india/indian-railways-resume-parcel-van-service-to-ensure-uninterrupted-flow-of-essentials-to-local-markets-5084951.html)]
+- Indian Railways resume parcel van service to ensure uninterrupted flow of essentials to local markets [[Source](https://www.moneycontrol.com/news/india/indian-railways-resume-parcel-van-service-to-ensure-uninterrupted-flow-of-essentials-to-local-markets-5084951.html)]
 
 ### 28<sup>th</sup> March, 2020
 - Amid lockdown, exodus of migrant workers chokes Delhi-UP border. [[Source](https://www.livemint.com/news/india/covid-19-exodus-of-migrant-workers-chokes-delhi-up-border-11585323563278.html)]
