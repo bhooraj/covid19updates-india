@@ -20,29 +20,29 @@
 <!-- Javascript Starts -->
 <script>
 
-    var yAxisValues1 = ['25th March', '26th March', '27th March', '28th March', '29th March'];
+    var yAxisValues1 = ['25th March', '26th March', '27th March', '28th March', '28th March', '29th March'];
     var legendTitle1 = "Number Of Active Cases";
-    var xAxisValues1 = [553, 633, 640, 810, 867];
+    var xAxisValues1 = [477, 555, 563, 735, 796, 901];
     var chartTitle1 = "DATE-WISE ACTIVE CASES COMPARISON";
-    var colorsGenerated1 = ['#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74'];
-
-    //Assigning the values for chart
+    var colorsGenerated1 = ['#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74'];
+    
+    //Assigning the values for chart 
     var data1 = {
             labels: yAxisValues1,
             datasets: [{
                 label: legendTitle1,
-                data: xAxisValues1,
-                backgroundColor: colorsGenerated1
+                data: xAxisValues1,   
+                backgroundColor: colorsGenerated1           
             }]
         };
 
 
     var ctx = document.getElementById('myChart1').getContext('2d');
-
+    
     var myChart1 = new Chart(ctx, {
         type: 'bar',
         data: data1,
-
+        
         options: {
             title: {
                 display: true,
@@ -60,31 +60,31 @@
             }
         }
     });
+    
 
-
-    var yAxisValues2 = ['25th March', '26th March', '27th March', '28th March', '29th March'];
+    var yAxisValues2 = ['25th March', '26th March', '27th March', '28th March', '28th March', '29th March'];
     var legendTitle2 = "Number Of Cured/Discharged/Migrated Cases";
-    var xAxisValues2 = [43, 45, 67, 80, 87];
+    var xAxisValues2 = [43, 47, 47, 47, 48, 96];
     var chartTitle2 = "DATE-WISE CURED/DISCHARGED/MIGRATED CASES COMPARISON";
-    var colorsGenerated2 = ['#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a'];
-
-    //Assigning the values for chart
+    var colorsGenerated2 = ['#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a'];
+    
+    //Assigning the values for chart 
     var data2 = {
             labels: yAxisValues2,
             datasets: [{
                 label: legendTitle2,
-                data: xAxisValues2,
-                backgroundColor: colorsGenerated2
+                data: xAxisValues2,   
+                backgroundColor: colorsGenerated2           
             }]
         };
 
 
     var ctx = document.getElementById('myChart2').getContext('2d');
-
+    
     var myChart2 = new Chart(ctx, {
         type: 'bar',
         data: data2,
-
+        
         options: {
             title: {
                 display: true,
@@ -102,31 +102,31 @@
             }
         }
     });
-
+    
 
     var yAxisValues3 = ['Andhra Pradesh', 'Andaman and Nicobar Islands', 'Bihar', 'Chandigarh', 'Chhattisgarh', 'Delhi', 'Goa', 'Gujarat', 'Haryana', 'Himachal Pradesh', 'Jammu and Kashmir', 'Karnataka', 'Kerala', 'Ladakh', 'Madhya Pradesh', 'Maharashtra', 'Manipur', 'Mizoram', 'Odisha', 'Puducherry', 'Punjab', 'Rajasthan', 'Tamil Nadu', 'Telengana', 'Uttarakhand', 'Uttar Pradesh', 'West Bengal'];
     var legendTitle3 = "Number Of Active Cases On The Last Update*";
-    var xAxisValues3 = [13, 9, 8, 8, 6, 31, 3, 49, 21, 2, 29, 68, 166, 10, 28, 155, 1, 1, 3, 1, 36, 51, 39, 64, 5, 44, 16];
+    var xAxisValues3 = [18, 9, 10, 8, 7, 41, 5, 52, 16, 2, 28, 68, 166, 10, 28, 155, 1, 1, 3, 1, 36, 52, 44, 64, 5, 54, 17];
     var chartTitle3 = "STATE-WISE COVID-19 ACTIVE CASES COMPARISON";
     var colorsGenerated3 = ['#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699'];
-
-    //Assigning the values for chart
+    
+    //Assigning the values for chart 
     var data3 = {
             labels: yAxisValues3,
             datasets: [{
                 label: legendTitle3,
-                data: xAxisValues3,
-                backgroundColor: colorsGenerated3
+                data: xAxisValues3,   
+                backgroundColor: colorsGenerated3           
             }]
         };
 
 
     var ctx = document.getElementById('myChart3').getContext('2d');
-
+    
     var myChart3 = new Chart(ctx, {
         type: 'horizontalBar',
         data: data3,
-
+        
         options: {
             title: {
                 display: true,
@@ -144,3 +144,4 @@
             }
         }
     });
+    
