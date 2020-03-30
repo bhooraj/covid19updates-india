@@ -1,3 +1,9 @@
+Gemfile
+Gemfile.lock
+_config.yml
+_site/
+.jekyll-cache/
+vendor/
 scripts/
 # Byte-compiled / optimized / DLL files
 __pycache__/
