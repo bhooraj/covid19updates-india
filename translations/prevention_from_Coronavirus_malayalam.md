@@ -1,7 +1,6 @@
 ---
 layout: translation
 title: Prevention from Coronavirus
-language: Malayalam
 ---
 
 <br>
