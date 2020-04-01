@@ -11,7 +11,12 @@ layout: post
 <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### [29<sup>th</sup> March, 2020](#updates)
+### [1<sup>st</sup> April, 2020](#updates)
+- Russian doctor who met Putin last week diagnosed with coronavirus. [[Source](https://www.hindustantimes.com/world-news/russian-doctor-who-met-putin-last-week-diagnosed-with-coronavirus/story-5jmIkv6aATtEzLX0csTFgK.html)]
+- Delhi govt’s cancer hospital shuts after doctor tests positive for coronavirus. [[Source](https://www.hindustantimes.com/india-news/delhi-govt-hospital-doctor-contacts-covid-19-building-shut/story-C5QEegTV4ObcCNFFan3LFL.html)]
+- China reopens markets selling bats, cats and dogs. [[Source](https://economictimes.indiatimes.com/news/international/world-news/covid-19-effect-dips-china-reopens-markets-selling-bats-cats-and-dogs/chinas-deadly-wet-markets-are-back/slideshow/74925019.cms)]
+
+### 29<sup>th</sup> March, 2020
 - PM Modi’s First Mann ki Baat Amid 21-day Lockdown at 11am Today, Focus on Coronavirus. [[Source](https://www.news18.com/news/india/pm-modis-first-mann-ki-baat-amid-21-day-lockdown-at-11am-today-focus-on-coronavirus-2555455.html)]
 - Clashes In China As People Try To Leave Coronavirus-Hit Hubei After Lockdown Lifted. [[Source](https://www.ndtv.com/world-news/coronavirus-epidemic-clashes-erupt-in-china-as-people-try-to-leave-virus-hit-hubei-after-lockdown-li-2202379)]
 - 86 people in India beat Covid-19, nearly 10% of all coronavirus patients recover [[Source](https://www.hindustantimes.com/india-news/86-people-in-india-beat-covid-19-nearly-10-of-all-coronavirus-patients/story-WE6AnTtclfw1EEc4AQoxKL.html)]
@@ -35,9 +40,3 @@ layout: post
 - Sensex posts biggest one-day gain in 10 years. What experts say on today's rally [[Source](https://www.livemint.com/news/india/sensex-sees-biggest-one-day-gain-in-over-10-years-ril-leads-recovery-11585130333075.html)]
 - 65-year-old religious preacher dies of coronavirus, first death in Kashmir [[Source](https://www.hindustantimes.com/india-news/65-year-old-religious-preacher-dies-of-coronavirus-first-death-in-kashmir/story-cC1FvbQVLuhTobUoVxmGjK.html)]
 - US Senate passes historic $2 trillion bill to stimulate US economy [[Source](https://www.moneycontrol.com/news/world/us-senate-historic-2-trillion-bill-to-stimulate-us-economy-5074271.html)]
-
-### 25<sup>th</sup> March, 2020
-- Modi's 21-day India lockdown: [Here's the list of essential services that will remain operational.](http://164.100.117.97/WriteReadData/userfiles/Guidelines.pdf) [[Source](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1607997)]
-- This Indian company's test kits have received commercial approval. [[Source](https://www.moneycontrol.com/news/india/coronavirus-pandemic-mylab-discovery-solutions-this-indian-companys-test-kits-have-received-commercial-approval-5065061.html)]
-- People resort to panic buying soon after PM's lockdown announcement; govt later clarifies availability of essential commodities [[Source](https://www.firstpost.com/health/coronavirus-outbreak-people-resort-to-panic-buying-soon-after-pms-lockdown-announcement-govt-later-clarifies-availability-of-essential-commodities-8187371.html)]
-- PM Modi follows social distancing norms during cabinet meet [[Source](https://timesofindia.indiatimes.com/india/coronavirus-union-cabinet-meeting-underway-social-distancing-seen/articleshow/74806444.cms)]
