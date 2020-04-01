@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 {% if page.language == "Hindi" %}
 <html lang="hi" xml:lang="hi" xmlns="http://www.w3.org/1999/xhtml">
+{% elsif page.language == "Urdu" %}
+<html lang="ur" dir="rtl">
+{% elsif page.language == "Malayalam" %}
+<html lang="ml">
 {% else %}
 <html lang="en-us">
 {% endif %}
@@ -17,6 +21,6 @@
     {% if jekyll.environment == 'production' and site.google_analytics %}
     	{% include google-analytics.html %}
     {% endif %}
-    	
+
   </body>
 </html>
