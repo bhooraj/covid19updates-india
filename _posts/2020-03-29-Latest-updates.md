@@ -11,7 +11,10 @@ layout: post
 <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/zZ-pqoRREI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### [1<sup>st</sup> April, 2020](#updates)
+### [2<sup>nd</sup> April, 2020](#updates)
+- Top 5 steps by Indian Railways – trains into isolation wards, IRCTC meals, essential supplies & more. [[Source](https://www.financialexpress.com/infrastructure/railways/great-job-top-5-steps-by-indian-railways-trains-into-isolation-wards-irctc-meals-essential-supplies-more/1915814/)]
+
+### 1<sup>st</sup> April, 2020
 - Russian doctor who met Putin last week diagnosed with coronavirus. [[Source](https://www.hindustantimes.com/world-news/russian-doctor-who-met-putin-last-week-diagnosed-with-coronavirus/story-5jmIkv6aATtEzLX0csTFgK.html)]
 - Delhi govt’s cancer hospital shuts after doctor tests positive for coronavirus. [[Source](https://www.hindustantimes.com/india-news/delhi-govt-hospital-doctor-contacts-covid-19-building-shut/story-C5QEegTV4ObcCNFFan3LFL.html)]
 - China reopens markets selling bats, cats and dogs. [[Source](https://economictimes.indiatimes.com/news/international/world-news/covid-19-effect-dips-china-reopens-markets-selling-bats-cats-and-dogs/chinas-deadly-wet-markets-are-back/slideshow/74925019.cms)]
