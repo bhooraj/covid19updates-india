@@ -19,7 +19,15 @@
   <link rel="stylesheet" href="{{ '/public/css/syntax.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/public/css/hyde.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/public/css/forms.css' | relative_url }}">
+  {% if page.language == "Hindi" %}
+  <link href="https://fonts.googleapis.com/css2?family=Hind&display=swap" rel="stylesheet">
+  {% elsif page.language == "Malayalam" %}
+  <link href="https://fonts.googleapis.com/css2?family=Manjari&display=swap" rel="stylesheet">
+  {% elsif page.language == "Assamese" %}
+  <link href="https://covid19updates-india.bhooraj.com/public/css/assamesefont_support.css" rel="stylesheet">
+  {% else %}
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  {% endif %}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.css">
   <link rel="stylesheet" href="{{ '/public/css/charts.css' | relative_url }}">
 
