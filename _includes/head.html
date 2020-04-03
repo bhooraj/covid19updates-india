@@ -1,10 +1,8 @@
 <head>
+  <meta charset="UTF-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  {% if page.language == "Assamese" %}
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  {% else %}
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  {% endif %}
+
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
@@ -27,16 +25,7 @@
   {% elsif page.language == "Malayalam" %}
   <link href="https://fonts.googleapis.com/css2?family=Manjari&display=swap" rel="stylesheet">
   {% elsif page.language == "Assamese" %}
-  <style media="screen">
-    @font-face {
-        font-family: "AS-TTEkushey";
-        src: url('https://covid19updates-india.bhooraj.com/public/fonts/AS-TTEkushey.ttf') format("truetype");
-    }
-    }
-    body {
-        font-family: "AS-TTEkushey", Verdana, Tahoma;
-    }
-  </style>
+  <link href="https://covid19updates-india.bhooraj.com/public/css/assamesefont_support.css" rel="stylesheet">
   {% else %}
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
   {% endif %}
