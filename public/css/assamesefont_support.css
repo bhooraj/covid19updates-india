@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "MuktiNarrow";
-    src: url(https://covid19updates-india.bhooraj.com/public/fonts/muktinarrow.ttf) format("truetype");
+    font-family: "Siyamrupali";
+    src: url(https://covid19updates-india.bhooraj.com/public/fonts/Siyamrupali.ttf) format("truetype");
 }
 html {
-    font-family: "MuktiNarrow", Verdana, Tahoma;
+    font-family: "Siyamrupali", Verdana, Tahoma;
 }
 body {
-    font-family: "MuktiNarrow", Verdana, Tahoma;
+    font-family: "Siyamrupali", Verdana, Tahoma;
 }
