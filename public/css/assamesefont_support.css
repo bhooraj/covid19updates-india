@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "MuktiNarrow";
+    src: url(https://covid19updates-india.bhooraj.com/public/fonts/muktinarrow.ttf) format("truetype");
+}
+html {
+    font-family: "MuktiNarrow", Verdana, Tahoma;
+}
+body {
+    font-family: "MuktiNarrow", Verdana, Tahoma;
+}
