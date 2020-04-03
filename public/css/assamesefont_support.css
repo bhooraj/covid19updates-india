@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Siyamrupali";
-    src: url('https://covid19updates-india.bhooraj.com/public/fonts/Siyamrupali.ttf') format("truetype");
+    src: url(https://covid19updates-india.bhooraj.com/public/fonts/Siyamrupali.ttf) format("truetype");
 }
 html {
     font-family: "Siyamrupali", Verdana, Tahoma;
