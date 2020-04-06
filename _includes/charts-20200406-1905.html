@@ -1,0 +1,193 @@
+
+<!-- HTML starts -->
+<div class="chartWrapper">
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:350px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart1" height="300" width="350"></canvas>
+    </div>
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:350px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart2" height="300" width="350"></canvas>
+    </div>
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:350px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart3" height="300" width="350"></canvas>
+    </div>
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:710px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart4" height="680" width="350"></canvas>
+        <p style="font-size: 0.65em;">* Please refer to the update date and time on the <a href="/">homepage</a></p>
+    </div>
+    <p><i><small>Note: The above Graphs/Charts are for the representation purpose only.</small></i></p>
+</div>
+
+<!-- HTML ends -->
+
+
+<!-- Javascript Starts -->
+<script>
+        var yAxisValues1 = ['25 Mar', '26 Mar', '27 Mar', '28 Mar', '29 Mar', '30 Mar', '31 Mar', '01 Apr', '02 Apr', '03 Apr', '04 Apr', '05 Apr', '06 Apr'];
+        var legendTitle1 = "Number Of Active Cases";
+        var xAxisValues1 = [553, 633, 640, 810, 901, 1071, 1200, 1649, 1860, 2245, 2784, 3219, 3851];
+        var chartTitle1 = "DATE-WISE ACTIVE CASES COMPARISON";
+        var colorsGenerated1 = ['#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74'];
+
+        //Assigning the values for chart
+        var data1 = {
+                labels: yAxisValues1,
+                datasets: [{
+                    label: legendTitle1,
+                    data: xAxisValues1,
+                    backgroundColor: colorsGenerated1
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart1').getContext('2d');
+
+        var myChart1 = new Chart(ctx, {
+            type: 'bar',
+            data: data1,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle1
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+
+        var yAxisValues2 = ['25 Mar', '26 Mar', '27 Mar', '28 Mar', '29 Mar', '30 Mar', '31 Mar', '01 Apr', '02 Apr', '03 Apr', '04 Apr', '05 Apr', '06 Apr'];
+        var legendTitle2 = "Number Of Cured/Discharged/Migrated Cases";
+        var xAxisValues2 = [43, 45, 67, 80, 96, 102, 124, 144, 156, 163, 213, 275, 319];
+        var chartTitle2 = "DATE-WISE CURED/DISCHARGED/MIGRATED CASES COMPARISON";
+        var colorsGenerated2 = ['#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a'];
+
+        //Assigning the values for chart
+        var data2 = {
+                labels: yAxisValues2,
+                datasets: [{
+                    label: legendTitle2,
+                    data: xAxisValues2,
+                    backgroundColor: colorsGenerated2
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart2').getContext('2d');
+
+        var myChart2 = new Chart(ctx, {
+            type: 'bar',
+            data: data2,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle2
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+
+        var yAxisValues3 = ['25 Mar', '26 Mar', '27 Mar', '28 Mar', '29 Mar', '30 Mar', '31 Mar', '01 Apr', '02 Apr', '03 Apr', '04 Apr', '05 Apr', '06 Apr'];
+        var legendTitle3 = "Number Of Death Cases";
+        var xAxisValues3 = [10, 16, 17, 19, 27, 32, 35, 41, 53, 62, 75, 83, 111];
+        var chartTitle3 = "DATE-WISE DEATH CASES COMPARISON";
+        var colorsGenerated3 = ['#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84'];
+
+        //Assigning the values for chart
+        var data3 = {
+                labels: yAxisValues3,
+                datasets: [{
+                    label: legendTitle3,
+                    data: xAxisValues3,
+                    backgroundColor: colorsGenerated3
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart3').getContext('2d');
+
+        var myChart3 = new Chart(ctx, {
+            type: 'bar',
+            data: data3,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle3
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+
+        var yAxisValues4 = ['Andhra Pradesh', 'Andaman and Nicobar Islands', 'Arunachal Pradesh', 'Assam', 'Bihar', 'Chandigarh', 'Chhattisgarh', 'Delhi', 'Goa', 'Gujarat', 'Haryana', 'Himachal Pradesh', 'Jammu and Kashmir', 'Jharkhand', 'Karnataka', 'Kerala', 'Ladakh', 'Madhya Pradesh', 'Maharashtra', 'Manipur', 'Mizoram', 'Odisha', 'Puducherry', 'Punjab', 'Rajasthan', 'Tamil Nadu', 'Telengana', 'Uttarakhand', 'Uttar Pradesh', 'West Bengal'];
+        var legendTitle4 = "Number Of Active Cases On The Last Update*";
+        var xAxisValues4 = [222, 10, 1, 26, 31, 18, 2, 497, 7, 110, 58, 10, 103, 4, 135, 257, 4, 156, 647, 2, 1, 19, 4, 66, 253, 558, 280, 22, 281, 67];
+        var chartTitle4 = "STATE-WISE COVID-19 ACTIVE CASES COMPARISON";
+        var colorsGenerated4 = ['#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699'];
+
+        //Assigning the values for chart
+        var data4 = {
+                labels: yAxisValues4,
+                datasets: [{
+                    label: legendTitle4,
+                    data: xAxisValues4,
+                    backgroundColor: colorsGenerated4
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart4').getContext('2d');
+
+        var myChart4 = new Chart(ctx, {
+            type: 'horizontalBar',
+            data: data4,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle4
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    xAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+
+ </script>
