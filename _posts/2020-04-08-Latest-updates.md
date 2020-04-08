@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [7<sup>th</sup> April, 2020](#updates)
+### [8<sup>th</sup> April, 2020](#updates)
+- Schools, colleges may remain closed till May 15. [[Source](https://www.thehindu.com/news/national/coronavirus-schools-colleges-may-remain-closed-till-may-15/article31280382.ece)]
+
+### 7<sup>th</sup> April, 2020
 - Govt may extend lockdown as multiple states and experts are requesting. [[Source](https://www.livemint.com/news/india/government-thinking-of-extending-covid-19-lockdown-11586254193405.html)]
 - India releases hydroxychloroquine stocks amid pressure from Trump. [[Source](https://www.theguardian.com/world/2020/apr/07/india-releases-hydroxychloroquine-stocks-amid-pressure-from-trump)]
 
