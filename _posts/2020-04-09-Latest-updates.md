@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [8<sup>th</sup> April, 2020](#updates)
+### [9<sup>th</sup> April, 2020](#updates)
+- Know how to use your own Homemade Reusable Face Cover. [[Source](https://www.youtube.com/watch?v=Q-Iy7ccCpS4&feature=youtu.be)]
+- Delhi Govt Seals 20 Virus Hotspots, Makes Face Masks Compulsory in Public as Cases Near 700-mark. [[Source](https://www.news18.com/news/india/delhi-govt-seals-20-coronavirus-hotspots-says-delivery-of-essential-items-will-be-ensured-2570313.html)]
+
+### 8<sup>th</sup> April, 2020
 - Schools, colleges may remain closed till May 15. [[Source](https://www.thehindu.com/news/national/coronavirus-schools-colleges-may-remain-closed-till-may-15/article31280382.ece)]
 - Lockdown unlikely to be lifted on April 14: PM at all-party meet. [[Source](https://www.thehindu.com/news/national/lockdown-unlikely-to-be-lifted-on-april-14-pm-at-all-party-meet/article31288359.ece)]
 - All COVID-19 hotspots in 15 districts to be sealed till April 15: UP government. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/all-covid-19-hotspots-in-15-districts-to-be-sealed-till-april-15-up-government/articleshow/75046589.cms)]
