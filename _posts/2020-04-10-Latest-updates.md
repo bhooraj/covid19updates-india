@@ -3,6 +3,7 @@ layout: post
 ---
 ### [10<sup>th</sup> April, 2020](#updates)
 - After Coronavirus Test Shift, Medical Body ICMR's Data Shows Big Change. [[Source](https://www.ndtv.com/india-news/in-coronavirus-random-tests-medical-body-icmr-data-shows-big-shift-2209207)]
+- After Odisha, Punjab Extends Lockdown till April 30. [[Source](https://www.news18.com/news/india/coronavirus-pandemic-live-updates-coronavirus-india-cases-lockdown-update-covid-19-virus-jharkhand-odisha-2571849.html)]
 
 ### 9<sup>th</sup> April, 2020
 - Know how to use your own Homemade Reusable Face Cover. [[Source](https://www.youtube.com/watch?v=Q-Iy7ccCpS4&feature=youtu.be)]
