@@ -1,7 +1,13 @@
 ---
 layout: post
 ---
-### [10<sup>th</sup> April, 2020](#updates)
+### [11<sup>th</sup> April, 2020](#updates)
+- US First Country To Record Over 2,000 Coronavirus Deaths In A Day: Report. [[Source](https://www.ndtv.com/world-news/us-first-country-to-record-over-2-000-coronavirus-deaths-in-a-day-john-hopkins-report-2209869)]
+- Lifting lockdowns too quickly could spark 'deadly resurgence': WHO [[Source](https://www.thehindu.com/news/international/coronavirus-lifting-lockdowns-too-quickly-could-spark-deadly-resurgence-who/article31312488.ece)]
+- Madhya Pradesh: Coronavirus claims another doctor's life in Indore. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/madhya-pradesh-coronavirus-claims-another-doctors-life-in-indore/articleshow/75085596.cms)]
+- India reports 37 Covid-19 deaths, 896 cases in 24 hours; biggest jump in a day. [[Source](https://www.hindustantimes.com/india-news/india-reports-37-deaths-896-new-cases-in-24-hours-total-count-touches-6-761/story-sPvmSfx7RLbUA3G1IaT7vN.html)]
+
+### 10<sup>th</sup> April, 2020
 - After Coronavirus Test Shift, Medical Body ICMR's Data Shows Big Change. [[Source](https://www.ndtv.com/india-news/in-coronavirus-random-tests-medical-body-icmr-data-shows-big-shift-2209207)]
 - After Odisha, Punjab Extends Lockdown till April 30. [[Source](https://www.news18.com/news/india/coronavirus-pandemic-live-updates-coronavirus-india-cases-lockdown-update-covid-19-virus-jharkhand-odisha-2571849.html)]
 
