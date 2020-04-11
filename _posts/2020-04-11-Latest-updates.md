@@ -6,6 +6,8 @@ layout: post
 - Lifting lockdowns too quickly could spark 'deadly resurgence': WHO [[Source](https://www.thehindu.com/news/international/coronavirus-lifting-lockdowns-too-quickly-could-spark-deadly-resurgence-who/article31312488.ece)]
 - Madhya Pradesh: Coronavirus claims another doctor's life in Indore. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/madhya-pradesh-coronavirus-claims-another-doctors-life-in-indore/articleshow/75085596.cms)]
 - India reports 37 Covid-19 deaths, 896 cases in 24 hours; biggest jump in a day. [[Source](https://www.hindustantimes.com/india-news/india-reports-37-deaths-896-new-cases-in-24-hours-total-count-touches-6-761/story-sPvmSfx7RLbUA3G1IaT7vN.html)]
+- UN flags concern to Govt Covid group: Need to fight targeting of certain sects. [[Source](https://indianexpress.com/article/india/un-india-coronavirus-tablighi-jamaat-nizamuddin-6355696/)]
+- Centre will announce guidelines for 15-day lockdown in next 2 days: Karnataka CM. [[Source](https://www.livemint.com/news/india/centre-will-announce-guidelines-for-15-day-lockdown-in-1-2-days-yediyurappa-11586602247332.html)]
 
 ### 10<sup>th</sup> April, 2020
 - After Coronavirus Test Shift, Medical Body ICMR's Data Shows Big Change. [[Source](https://www.ndtv.com/india-news/in-coronavirus-random-tests-medical-body-icmr-data-shows-big-shift-2209207)]
