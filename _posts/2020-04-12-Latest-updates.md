@@ -3,6 +3,7 @@ layout: post
 ---
 ### [12<sup>th</sup> April, 2020](#updates)
 - In a first, health ministry reports over 1,000 new cases in a day. [[Source](https://timesofindia.indiatimes.com/india/in-a-first-health-ministry-reports-over-1000-new-cases-in-a-day/articleshow/75102602.cms)]
+- Asia's largest slum Dharavi records 15 new cases, tally touches 43. [[Source](https://mumbaimirror.indiatimes.com/coronavirus/news/asias-largest-slum-dharavi-records-15-new-cases-tally-touches-43/articleshow/75106488.cms)]
 
 ### 11<sup>th</sup> April, 2020
 - US First Country To Record Over 2,000 Coronavirus Deaths In A Day: Report. [[Source](https://www.ndtv.com/world-news/us-first-country-to-record-over-2-000-coronavirus-deaths-in-a-day-john-hopkins-report-2209869)]
