@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [11<sup>th</sup> April, 2020](#updates)
+### [12<sup>th</sup> April, 2020](#updates)
+- In a first, health ministry reports over 1,000 new cases in a day. [[Source](https://timesofindia.indiatimes.com/india/in-a-first-health-ministry-reports-over-1000-new-cases-in-a-day/articleshow/75102602.cms)]
+
+### 11<sup>th</sup> April, 2020
 - US First Country To Record Over 2,000 Coronavirus Deaths In A Day: Report. [[Source](https://www.ndtv.com/world-news/us-first-country-to-record-over-2-000-coronavirus-deaths-in-a-day-john-hopkins-report-2209869)]
 - Lifting lockdowns too quickly could spark 'deadly resurgence': WHO [[Source](https://www.thehindu.com/news/international/coronavirus-lifting-lockdowns-too-quickly-could-spark-deadly-resurgence-who/article31312488.ece)]
 - Madhya Pradesh: Coronavirus claims another doctor's life in Indore. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/madhya-pradesh-coronavirus-claims-another-doctors-life-in-indore/articleshow/75085596.cms)]
