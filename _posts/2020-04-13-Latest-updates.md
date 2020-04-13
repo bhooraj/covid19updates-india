@@ -3,7 +3,9 @@ layout: post
 ---
 ### [13<sup>th</sup> April, 2020](#updates)
 -  India's race against time to save doctors. [[Source](https://www.bbc.com/news/world-asia-india-52215071)]
-- Govt to expand Covid-19 testing to 'cold spots' with no cases yet. [[Source](https://timesofindia.indiatimes.com/india/govt-to-expand-testing-to-cold-spots-with-no-cases-yet/articleshow/75113417.cms)] 
+- Govt to expand Covid-19 testing to 'cold spots' with no cases yet. [[Source](https://timesofindia.indiatimes.com/india/govt-to-expand-testing-to-cold-spots-with-no-cases-yet/articleshow/75113417.cms)]
+- PM Modi To Address Nation At 10 am Tomorrow As States Say Extend Lockdown. [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-pm-narendra-modi-to-address-nation-at-10-am-tomorrow-amid-states-demand-to-exte-2210864)]
+- Tamil Nadu extends lockdown till April 30. [[Source](https://timesofindia.indiatimes.com/city/chennai/coronavirus-tamil-nadu-extends-lockdown-till-april-30/articleshow/75122804.cms)]
 
 ### 12<sup>th</sup> April, 2020
 - In a first, health ministry reports over 1,000 new cases in a day. [[Source](https://timesofindia.indiatimes.com/india/in-a-first-health-ministry-reports-over-1000-new-cases-in-a-day/articleshow/75102602.cms)]
