@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [13<sup>th</sup> April, 2020](#updates)
+### [14<sup>th</sup> April, 2020](#updates)
+- Narendra Modi speech on coronavirus: Lockdown extended till May 3. [[Source](https://www.livemint.com/news/india/coronavirus-lockdown-live-updates-narendra-modi-address-to-the-nation-on-covid-19-pandemic-11586835401046.html)]
+- No Passenger Flights, Domestic Or International, Till May 3. [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-domestic-international-flights-suspended-till-may-3-says-aviation-ministry-news-2211407)]
+- "Together, Will Overcome": PM After Rs 100 Crore Contribution To PM-CARES. [[Source](https://www.ndtv.com/india-news/coronavirus-together-will-overcome-pm-narendra-modi-after-radhakishan-damani-contributes-rs-100-cror-2211625)]
+
+### 13<sup>th</sup> April, 2020
 -  India's race against time to save doctors. [[Source](https://www.bbc.com/news/world-asia-india-52215071)]
 - Govt to expand Covid-19 testing to 'cold spots' with no cases yet. [[Source](https://timesofindia.indiatimes.com/india/govt-to-expand-testing-to-cold-spots-with-no-cases-yet/articleshow/75113417.cms)]
 - PM Modi To Address Nation At 10 am Tomorrow As States Say Extend Lockdown. [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-pm-narendra-modi-to-address-nation-at-10-am-tomorrow-amid-states-demand-to-exte-2210864)]
