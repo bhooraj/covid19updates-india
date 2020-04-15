@@ -5,7 +5,9 @@ layout: post
 - Trump halts WHO funding, with world on edge over virus lockdowns. [[Source](https://timesofindia.indiatimes.com/world/us/trump-halts-who-funding-with-world-on-edge-over-virus-lockdowns/articleshow/75150239.cms)]
 - 'Don't Believe Rumours': Migrants Gather at Bandra Railway Station, Uddhav Asks Them to Stay Back [[Source](https://www.news18.com/news/india/dont-believe-rumours-migrants-gather-at-bandra-railway-station-uddhav-asks-them-to-stay-back-2577773.html)]
  - Indian Railways denies rumours of running special train services. [[Source](https://www.livemint.com/news/india/indian-railways-denies-rumours-of-running-special-train-services-11586889622567.html)]
- 
+ -  MHA issues Consolidated Revised Guidelines for the Containment of COVID-19 epidemic in the Country. [[Source](https://pib.gov.in/newsite/PrintRelease.aspx?relid=202264)]
+- Industries In Rural Areas, E-Commerce Can Start On April 20: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-guidelines-select-activities-including-all-agriculture-allowed-from-april-20-to-2211967)]
+
 ### 14<sup>th</sup> April, 2020
 - Narendra Modi speech on coronavirus: Lockdown extended till May 3. [[Source](https://www.livemint.com/news/india/coronavirus-lockdown-live-updates-narendra-modi-address-to-the-nation-on-covid-19-pandemic-11586835401046.html)]
 - No Passenger Flights, Domestic Or International, Till May 3. [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-domestic-international-flights-suspended-till-may-3-says-aviation-ministry-news-2211407)]
