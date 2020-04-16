@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [15<sup>th</sup> April, 2020](#updates)
+### [16<sup>th</sup> April, 2020](#updates)
+- "No Time To Waste": WHO After Donald Trump Freezes Funds Amid COVID-19 Crisis. [[Source](https://www.ndtv.com/world-news/coronavirus-update-world-health-organization-says-no-time-to-waste-after-donald-trump-freezes-funds-2212353)]
+- All 6 Metros, Other Major Cities Marked Red In Centre's COVID-19 List. [[Source](https://www.ndtv.com/india-news/coronavirus-all-6-metros-other-major-cities-marked-red-in-centres-covid-19-list-2212458)]
+
+### 15<sup>th</sup> April, 2020
 - Trump halts WHO funding, with world on edge over virus lockdowns. [[Source](https://timesofindia.indiatimes.com/world/us/trump-halts-who-funding-with-world-on-edge-over-virus-lockdowns/articleshow/75150239.cms)]
 - 'Don't Believe Rumours': Migrants Gather at Bandra Railway Station, Uddhav Asks Them to Stay Back [[Source](https://www.news18.com/news/india/dont-believe-rumours-migrants-gather-at-bandra-railway-station-uddhav-asks-them-to-stay-back-2577773.html)]
  - Indian Railways denies rumours of running special train services. [[Source](https://www.livemint.com/news/india/indian-railways-denies-rumours-of-running-special-train-services-11586889622567.html)]
@@ -48,7 +52,3 @@ layout: post
 ### 7<sup>th</sup> April, 2020
 - Govt may extend lockdown as multiple states and experts are requesting. [[Source](https://www.livemint.com/news/india/government-thinking-of-extending-covid-19-lockdown-11586254193405.html)]
 - India releases hydroxychloroquine stocks amid pressure from Trump. [[Source](https://www.theguardian.com/world/2020/apr/07/india-releases-hydroxychloroquine-stocks-amid-pressure-from-trump)]
-
-### 6<sup>th</sup> April, 2020
-- PM holds talks with former Presidents, ex-PMs, party heads. [[Source](https://timesofindia.indiatimes.com/india/pm-holds-talks-with-former-presidents-ex-pms-party-heads/articleshow/75000908.cms)]
-- Tablighi Jamaat Coronavirus Hotspots: Is Media Coverage Biased? [[Source](https://www.thequint.com/voices/opinion/coronavirus-spread-tablighi-jamaat-tv-media-tiktok)]
