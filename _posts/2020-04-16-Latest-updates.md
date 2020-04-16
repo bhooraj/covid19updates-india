@@ -4,6 +4,7 @@ layout: post
 ### [16<sup>th</sup> April, 2020](#updates)
 - "No Time To Waste": WHO After Donald Trump Freezes Funds Amid COVID-19 Crisis. [[Source](https://www.ndtv.com/world-news/coronavirus-update-world-health-organization-says-no-time-to-waste-after-donald-trump-freezes-funds-2212353)]
 - All 6 Metros, Other Major Cities Marked Red In Centre's COVID-19 List. [[Source](https://www.ndtv.com/india-news/coronavirus-all-6-metros-other-major-cities-marked-red-in-centres-covid-19-list-2212458)]
+- These four cities together witness over 50% of coronavirus deaths in India. [[Source](https://www.hindustantimes.com/india-news/these-four-cities-together-witness-over-50-of-coronavirus-deaths-in-india/story-ifNi9RC2waFVHiHH53RbOM.html)]
 
 ### 15<sup>th</sup> April, 2020
 - Trump halts WHO funding, with world on edge over virus lockdowns. [[Source](https://timesofindia.indiatimes.com/world/us/trump-halts-who-funding-with-world-on-edge-over-virus-lockdowns/articleshow/75150239.cms)]
