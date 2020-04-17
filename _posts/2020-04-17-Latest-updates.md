@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [16<sup>th</sup> April, 2020](#updates)
+### [17<sup>th</sup> April, 2020](#updates)
+- No immediate plans to evacuate stranded Indians abroad. [[Source](https://www.hindustantimes.com/india-news/covid-19-no-immediate-plans-to-evacuate-stranded-indians-abroad/story-eDAuROnTuAN63ImiFIa04K.html)]
+
+### 16<sup>th</sup> April, 2020
 - "No Time To Waste": WHO After Donald Trump Freezes Funds Amid COVID-19 Crisis. [[Source](https://www.ndtv.com/world-news/coronavirus-update-world-health-organization-says-no-time-to-waste-after-donald-trump-freezes-funds-2212353)]
 - All 6 Metros, Other Major Cities Marked Red In Centre's COVID-19 List. [[Source](https://www.ndtv.com/india-news/coronavirus-all-6-metros-other-major-cities-marked-red-in-centres-covid-19-list-2212458)]
 - These four cities together witness over 50% of coronavirus deaths in India. [[Source](https://www.hindustantimes.com/india-news/these-four-cities-together-witness-over-50-of-coronavirus-deaths-in-india/story-ifNi9RC2waFVHiHH53RbOM.html)]
@@ -49,7 +52,3 @@ layout: post
 - Schools, colleges may remain closed till May 15. [[Source](https://www.thehindu.com/news/national/coronavirus-schools-colleges-may-remain-closed-till-may-15/article31280382.ece)]
 - Lockdown unlikely to be lifted on April 14: PM at all-party meet. [[Source](https://www.thehindu.com/news/national/lockdown-unlikely-to-be-lifted-on-april-14-pm-at-all-party-meet/article31288359.ece)]
 - All COVID-19 hotspots in 15 districts to be sealed till April 15: UP government. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/all-covid-19-hotspots-in-15-districts-to-be-sealed-till-april-15-up-government/articleshow/75046589.cms)]
-
-### 7<sup>th</sup> April, 2020
-- Govt may extend lockdown as multiple states and experts are requesting. [[Source](https://www.livemint.com/news/india/government-thinking-of-extending-covid-19-lockdown-11586254193405.html)]
-- India releases hydroxychloroquine stocks amid pressure from Trump. [[Source](https://www.theguardian.com/world/2020/apr/07/india-releases-hydroxychloroquine-stocks-amid-pressure-from-trump)]
