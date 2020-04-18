@@ -4,6 +4,8 @@ layout: post
 ### [18<sup>th</sup> April, 2020](#updates)
 - "All Countries Will Face This": WHO After China Revises COVID-19 Deaths [[Source](https://www.ndtv.com/world-news/coronavirus-updates-who-after-china-revises-covid-19-deaths-all-countries-will-face-this-2213847)]
 - How fast are India's coronavirus cases doubling since the lockdown? [[Source](https://www.thehindu.com/data/data-how-fast-are-indias-coronavirus-cases-doubling-since-the-lockdown/article31371220.ece)]
+- Sealing, sanitizing, tracking: How UP’s Maharajganj became coronvirus-free. [[Source](https://www.hindustantimes.com/lucknow/sealing-sanitizing-tracking-how-up-s-maharajganj-became-coronvirus-free/story-8SOTQslSEasG8qxv4gOG6O.html)]
+- ‘Samosa, gutka, pizza, paan’: Covid-19 helpline in UP gets these requests [[Source](https://www.hindustantimes.com/lucknow/samosa-gutka-pizza-paan-covid-19-helpline-in-up-gets-these-requests/story-ytmLcrXTkesxblID1VtGkO.html)]
 
 ### 17<sup>th</sup> April, 2020
 - No immediate plans to evacuate stranded Indians abroad. [[Source](https://www.hindustantimes.com/india-news/covid-19-no-immediate-plans-to-evacuate-stranded-indians-abroad/story-eDAuROnTuAN63ImiFIa04K.html)]
