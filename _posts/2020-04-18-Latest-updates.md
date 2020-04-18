@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [17<sup>th</sup> April, 2020](#updates)
+### [18<sup>th</sup> April, 2020](#updates)
+- "All Countries Will Face This": WHO After China Revises COVID-19 Deaths [[Source](https://www.ndtv.com/world-news/coronavirus-updates-who-after-china-revises-covid-19-deaths-all-countries-will-face-this-2213847)]
+- Data | How fast are India's coronavirus cases doubling since the lockdown? [[Source](https://www.thehindu.com/data/data-how-fast-are-indias-coronavirus-cases-doubling-since-the-lockdown/article31371220.ece)]
+
+### 17<sup>th</sup> April, 2020
 - No immediate plans to evacuate stranded Indians abroad. [[Source](https://www.hindustantimes.com/india-news/covid-19-no-immediate-plans-to-evacuate-stranded-indians-abroad/story-eDAuROnTuAN63ImiFIa04K.html)]
 - Improvement In Coronavirus Recovery Rate In Last 4 Days: 10 Points [[Source](https://www.ndtv.com/india-news/13-387-coronavirus-cases-in-india-over-1-000-in-24-hours-437-deaths-2213227)]
 
@@ -48,8 +52,3 @@ layout: post
 - Know how to use your own Homemade Reusable Face Cover. [[Source](https://www.youtube.com/watch?v=Q-Iy7ccCpS4&feature=youtu.be)]
 - Delhi Govt Seals 20 Virus Hotspots, Makes Face Masks Compulsory in Public as Cases Near 700-mark. [[Source](https://www.news18.com/news/india/delhi-govt-seals-20-coronavirus-hotspots-says-delivery-of-essential-items-will-be-ensured-2570313.html)]
 - B R Ambedkar's birthday declared a closed holiday by central government. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/ambedkars-birthday-declared-a-closed-holiday-by-central-government/articleshow/75053086.cms)]
-
-### 8<sup>th</sup> April, 2020
-- Schools, colleges may remain closed till May 15. [[Source](https://www.thehindu.com/news/national/coronavirus-schools-colleges-may-remain-closed-till-may-15/article31280382.ece)]
-- Lockdown unlikely to be lifted on April 14: PM at all-party meet. [[Source](https://www.thehindu.com/news/national/lockdown-unlikely-to-be-lifted-on-april-14-pm-at-all-party-meet/article31288359.ece)]
-- All COVID-19 hotspots in 15 districts to be sealed till April 15: UP government. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/all-covid-19-hotspots-in-15-districts-to-be-sealed-till-april-15-up-government/articleshow/75046589.cms)]
