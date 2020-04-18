@@ -3,7 +3,7 @@ layout: post
 ---
 ### [18<sup>th</sup> April, 2020](#updates)
 - "All Countries Will Face This": WHO After China Revises COVID-19 Deaths [[Source](https://www.ndtv.com/world-news/coronavirus-updates-who-after-china-revises-covid-19-deaths-all-countries-will-face-this-2213847)]
-- Data | How fast are India's coronavirus cases doubling since the lockdown? [[Source](https://www.thehindu.com/data/data-how-fast-are-indias-coronavirus-cases-doubling-since-the-lockdown/article31371220.ece)]
+- How fast are India's coronavirus cases doubling since the lockdown? [[Source](https://www.thehindu.com/data/data-how-fast-are-indias-coronavirus-cases-doubling-since-the-lockdown/article31371220.ece)]
 
 ### 17<sup>th</sup> April, 2020
 - No immediate plans to evacuate stranded Indians abroad. [[Source](https://www.hindustantimes.com/india-news/covid-19-no-immediate-plans-to-evacuate-stranded-indians-abroad/story-eDAuROnTuAN63ImiFIa04K.html)]
