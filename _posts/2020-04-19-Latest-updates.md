@@ -1,7 +1,13 @@
 ---
 layout: post
 ---
-### [18<sup>th</sup> April, 2020](#updates)
+### [19<sup>th</sup> April, 2020](#updates)
+- Karnataka to Allow Movement of Two-wheelers After April 20, Permits IT Employees to Work from Office With 30% Staff [[Source](https://www.news18.com/news/india/karnataka-to-allow-activities-in-non-containment-zones-after-april-20-2583325.html)]
+- Rajasthan first in country to start rapid testing for Covid-19 [[Source](https://timesofindia.indiatimes.com/city/jaipur/rajasthan-first-in-country-to-start-rapid-testing-for-covid-19/articleshow/75214085.cms)]
+- Coronavirus man-made in Wuhan lab: Nobel laureate [[Source](https://timesofindia.indiatimes.com/india/coronavirus-man-made-in-wuhan-lab-nobel-laureate/articleshow/75227989.cms)]
+- Indian-origin Nobel laureate Venki Ramakrishnan in UK’s COVID-19 expert group [[Source](https://www.financialexpress.com/lifestyle/health/indian-origin-nobel-laureate-venki-ramakrishnan-in-uks-covid-19-expert-group/1932057/)]
+
+### 18<sup>th</sup> April, 2020
 - "All Countries Will Face This": WHO After China Revises COVID-19 Deaths [[Source](https://www.ndtv.com/world-news/coronavirus-updates-who-after-china-revises-covid-19-deaths-all-countries-will-face-this-2213847)]
 - How fast are India's coronavirus cases doubling since the lockdown? [[Source](https://www.thehindu.com/data/data-how-fast-are-indias-coronavirus-cases-doubling-since-the-lockdown/article31371220.ece)]
 - Sealing, sanitizing, tracking: How UP’s Maharajganj became coronvirus-free. [[Source](https://www.hindustantimes.com/lucknow/sealing-sanitizing-tracking-how-up-s-maharajganj-became-coronvirus-free/story-8SOTQslSEasG8qxv4gOG6O.html)]
@@ -49,8 +55,3 @@ layout: post
 ### 10<sup>th</sup> April, 2020
 - After Coronavirus Test Shift, Medical Body ICMR's Data Shows Big Change. [[Source](https://www.ndtv.com/india-news/in-coronavirus-random-tests-medical-body-icmr-data-shows-big-shift-2209207)]
 - After Odisha, Punjab Extends Lockdown till April 30. [[Source](https://www.news18.com/news/india/coronavirus-pandemic-live-updates-coronavirus-india-cases-lockdown-update-covid-19-virus-jharkhand-odisha-2571849.html)]
-
-### 9<sup>th</sup> April, 2020
-- Know how to use your own Homemade Reusable Face Cover. [[Source](https://www.youtube.com/watch?v=Q-Iy7ccCpS4&feature=youtu.be)]
-- Delhi Govt Seals 20 Virus Hotspots, Makes Face Masks Compulsory in Public as Cases Near 700-mark. [[Source](https://www.news18.com/news/india/delhi-govt-seals-20-coronavirus-hotspots-says-delivery-of-essential-items-will-be-ensured-2570313.html)]
-- B R Ambedkar's birthday declared a closed holiday by central government. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/ambedkars-birthday-declared-a-closed-holiday-by-central-government/articleshow/75053086.cms)]
