@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [19<sup>th</sup> April, 2020](#updates)
+### [20<sup>th</sup> April, 2020](#updates)
+- Lockdown In Telangana Till May 7, Food Delivery Apps Not Allowed: KCR [[Source](https://www.ndtv.com/telangana-news/coronavirus-k-chandrashekar-rao-says-lockdown-in-telangana-till-may-7-food-delivery-apps-not-allowed-2214612)]
+- ‘Defective’ ICMR kits led to Covid-19 testing delays: Bengal [[Source](https://www.hindustantimes.com/india-news/defective-icmr-kits-delayed-testing-bengal/story-Mfz8Bt0dT3PmxLUQ8ySBhL.html)]
+- PM Modi calls for unity, says virus knows no religion, caste [[Source](https://timesofindia.indiatimes.com/india/pm-modi-calls-for-unity-says-virus-knows-no-religion-caste/articleshow/75240790.cms)]
+
+### 19<sup>th</sup> April, 2020
 - Karnataka to Allow Movement of Two-wheelers After April 20, Permits IT Employees to Work from Office With 30% Staff [[Source](https://www.news18.com/news/india/karnataka-to-allow-activities-in-non-containment-zones-after-april-20-2583325.html)]
 - Rajasthan first in country to start rapid testing for Covid-19 [[Source](https://timesofindia.indiatimes.com/city/jaipur/rajasthan-first-in-country-to-start-rapid-testing-for-covid-19/articleshow/75214085.cms)]
 - Coronavirus man-made in Wuhan lab: Nobel laureate [[Source](https://timesofindia.indiatimes.com/india/coronavirus-man-made-in-wuhan-lab-nobel-laureate/articleshow/75227989.cms)]
@@ -51,7 +56,3 @@ layout: post
 - India reports 37 Covid-19 deaths, 896 cases in 24 hours; biggest jump in a day. [[Source](https://www.hindustantimes.com/india-news/india-reports-37-deaths-896-new-cases-in-24-hours-total-count-touches-6-761/story-sPvmSfx7RLbUA3G1IaT7vN.html)]
 - UN flags concern to Govt Covid group: Need to fight targeting of certain sects. [[Source](https://indianexpress.com/article/india/un-india-coronavirus-tablighi-jamaat-nizamuddin-6355696/)]
 - Centre will announce guidelines for 15-day lockdown in next 2 days: Karnataka CM. [[Source](https://www.livemint.com/news/india/centre-will-announce-guidelines-for-15-day-lockdown-in-1-2-days-yediyurappa-11586602247332.html)]
-
-### 10<sup>th</sup> April, 2020
-- After Coronavirus Test Shift, Medical Body ICMR's Data Shows Big Change. [[Source](https://www.ndtv.com/india-news/in-coronavirus-random-tests-medical-body-icmr-data-shows-big-shift-2209207)]
-- After Odisha, Punjab Extends Lockdown till April 30. [[Source](https://www.news18.com/news/india/coronavirus-pandemic-live-updates-coronavirus-india-cases-lockdown-update-covid-19-virus-jharkhand-odisha-2571849.html)]
