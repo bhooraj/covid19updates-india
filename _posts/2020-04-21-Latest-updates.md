@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [20<sup>th</sup> April, 2020](#updates)
+### [21<sup>th</sup> April, 2020](#updates)
+- Maharashtra CM calls for action against communal twist to Palghar lynching [[Source](https://www.thehindu.com/news/national/maharashtra-cm-calls-for-action-against-communal-twist-to-palghar-lynching/article31388090.ece)]
+- China rejects Donald Trump’s demand to allow US team to Wuhan to probe coronavirus [[Source](https://www.livemint.com/news/world/china-rejects-donald-trump-s-demand-to-allow-us-team-to-wuhan-to-probe-coronavirus-11587383543120.html)]
+- One COVID-19 positive case found in Rashtrapati Bhavan, 125 families sent on home quarantine [[Source](https://www.timesnownews.com/india/article/one-covid-19-positive-case-found-in-rashtrapati-bhavan-125-families-sent-on-home-quarantine/580662)]
+
+### 20<sup>th</sup> April, 2020
 - Lockdown In Telangana Till May 7, Food Delivery Apps Not Allowed: KCR [[Source](https://www.ndtv.com/telangana-news/coronavirus-k-chandrashekar-rao-says-lockdown-in-telangana-till-may-7-food-delivery-apps-not-allowed-2214612)]
 - ‘Defective’ ICMR kits led to Covid-19 testing delays: Bengal [[Source](https://www.hindustantimes.com/india-news/defective-icmr-kits-delayed-testing-bengal/story-Mfz8Bt0dT3PmxLUQ8ySBhL.html)]
 - PM Modi calls for unity, says virus knows no religion, caste [[Source](https://timesofindia.indiatimes.com/india/pm-modi-calls-for-unity-says-virus-knows-no-religion-caste/articleshow/75240790.cms)]
@@ -48,11 +53,3 @@ layout: post
 ### 12<sup>th</sup> April, 2020
 - In a first, health ministry reports over 1,000 new cases in a day. [[Source](https://timesofindia.indiatimes.com/india/in-a-first-health-ministry-reports-over-1000-new-cases-in-a-day/articleshow/75102602.cms)]
 - Asia's largest slum Dharavi records 15 new cases, tally touches 43. [[Source](https://mumbaimirror.indiatimes.com/coronavirus/news/asias-largest-slum-dharavi-records-15-new-cases-tally-touches-43/articleshow/75106488.cms)]
-
-### 11<sup>th</sup> April, 2020
-- US First Country To Record Over 2,000 Coronavirus Deaths In A Day: Report. [[Source](https://www.ndtv.com/world-news/us-first-country-to-record-over-2-000-coronavirus-deaths-in-a-day-john-hopkins-report-2209869)]
-- Lifting lockdowns too quickly could spark 'deadly resurgence': WHO [[Source](https://www.thehindu.com/news/international/coronavirus-lifting-lockdowns-too-quickly-could-spark-deadly-resurgence-who/article31312488.ece)]
-- Madhya Pradesh: Coronavirus claims another doctor's life in Indore. [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/madhya-pradesh-coronavirus-claims-another-doctors-life-in-indore/articleshow/75085596.cms)]
-- India reports 37 Covid-19 deaths, 896 cases in 24 hours; biggest jump in a day. [[Source](https://www.hindustantimes.com/india-news/india-reports-37-deaths-896-new-cases-in-24-hours-total-count-touches-6-761/story-sPvmSfx7RLbUA3G1IaT7vN.html)]
-- UN flags concern to Govt Covid group: Need to fight targeting of certain sects. [[Source](https://indianexpress.com/article/india/un-india-coronavirus-tablighi-jamaat-nizamuddin-6355696/)]
-- Centre will announce guidelines for 15-day lockdown in next 2 days: Karnataka CM. [[Source](https://www.livemint.com/news/india/centre-will-announce-guidelines-for-15-day-lockdown-in-1-2-days-yediyurappa-11586602247332.html)]
