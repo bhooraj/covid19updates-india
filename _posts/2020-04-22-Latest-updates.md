@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [21<sup>th</sup> April, 2020](#updates)
+### [22<sup>nd</sup> April, 2020](#updates)
+- Rajasthan stops rapid tests, ICMR asks other states to pause [[Source](https://timesofindia.indiatimes.com/india/rajasthan-stops-rapid-tests-icmr-asks-other-states-to-pause/articleshow/75283005.cms)]
+- WHO rules out 'lab manipulation' theory, cites evidence to say coronavirus originated from animals [[Source](https://www.timesnownews.com/international/article/who-rules-out-lab-manipulation-theory-cites-evidence-to-say-coronavirus-originated-from-animals/581205)]
+- Imran Khan to get tested after meeting Faisal Edhi who turned Covid-19 +ve [[Source](https://www.hindustantimes.com/world-news/pak-pm-imran-khan-may-get-tested-for-covid-19/story-QLaotZmm4YQndDDKw0C5XP.html)]
+
+### 21<sup>th</sup> April, 2020
 - Maharashtra CM calls for action against communal twist to Palghar lynching [[Source](https://www.thehindu.com/news/national/maharashtra-cm-calls-for-action-against-communal-twist-to-palghar-lynching/article31388090.ece)]
 - China rejects Donald Trump’s demand to allow US team to Wuhan to probe coronavirus [[Source](https://www.livemint.com/news/world/china-rejects-donald-trump-s-demand-to-allow-us-team-to-wuhan-to-probe-coronavirus-11587383543120.html)]
 - One COVID-19 positive case found in Rashtrapati Bhavan, 125 families sent on home quarantine [[Source](https://www.timesnownews.com/india/article/one-covid-19-positive-case-found-in-rashtrapati-bhavan-125-families-sent-on-home-quarantine/580662)]
@@ -49,7 +54,3 @@ layout: post
 - Govt to expand Covid-19 testing to 'cold spots' with no cases yet. [[Source](https://timesofindia.indiatimes.com/india/govt-to-expand-testing-to-cold-spots-with-no-cases-yet/articleshow/75113417.cms)]
 - PM Modi To Address Nation At 10 am Tomorrow As States Say Extend Lockdown. [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-pm-narendra-modi-to-address-nation-at-10-am-tomorrow-amid-states-demand-to-exte-2210864)]
 - Tamil Nadu extends lockdown till April 30. [[Source](https://timesofindia.indiatimes.com/city/chennai/coronavirus-tamil-nadu-extends-lockdown-till-april-30/articleshow/75122804.cms)]
-
-### 12<sup>th</sup> April, 2020
-- In a first, health ministry reports over 1,000 new cases in a day. [[Source](https://timesofindia.indiatimes.com/india/in-a-first-health-ministry-reports-over-1000-new-cases-in-a-day/articleshow/75102602.cms)]
-- Asia's largest slum Dharavi records 15 new cases, tally touches 43. [[Source](https://mumbaimirror.indiatimes.com/coronavirus/news/asias-largest-slum-dharavi-records-15-new-cases-tally-touches-43/articleshow/75106488.cms)]
