@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [22<sup>nd</sup> April, 2020](#updates)
+### [23<sup>rd</sup> April, 2020](#updates)
+- President Ram Nath Kovind’s nod to promulgate ordinance to punish those attacking healthcare staff [[Source](https://www.hindustantimes.com/india-news/covid-19-update-president-ram-nath-kovind-s-nod-to-promulgate-ordinance-to-punish-those-attacking-healthcare-staff/story-f0HaDIpTxRD0mqOYJVIEaM.html)]
+- Covid-19 will be with us for a long time and can easily ignite: WHO [[Source](https://www.livemint.com/news/world/covid-19-will-be-with-us-for-a-long-time-and-can-easily-ignite-who-11587572606311.html)]
+- 73 cops quarantined after 5 Moradabad violence accused test positive for Covid-19 [[Source](https://www.hindustantimes.com/india-news/73-cops-quarantined-after-5-moradabad-violence-accused-test-positive-for-covid-19/story-LCVf7fTLVH3DXuSMAXJTEK.html)]
+
+### 22<sup>nd</sup> April, 2020
 - Rajasthan stops rapid tests, ICMR asks other states to pause [[Source](https://timesofindia.indiatimes.com/india/rajasthan-stops-rapid-tests-icmr-asks-other-states-to-pause/articleshow/75283005.cms)]
 - WHO rules out 'lab manipulation' theory, cites evidence to say coronavirus originated from animals [[Source](https://www.timesnownews.com/international/article/who-rules-out-lab-manipulation-theory-cites-evidence-to-say-coronavirus-originated-from-animals/581205)]
 - Imran Khan to get tested after meeting Faisal Edhi who turned Covid-19 +ve [[Source](https://www.hindustantimes.com/world-news/pak-pm-imran-khan-may-get-tested-for-covid-19/story-QLaotZmm4YQndDDKw0C5XP.html)]
@@ -48,9 +53,3 @@ layout: post
 - Narendra Modi speech on coronavirus: Lockdown extended till May 3. [[Source](https://www.livemint.com/news/india/coronavirus-lockdown-live-updates-narendra-modi-address-to-the-nation-on-covid-19-pandemic-11586835401046.html)]
 - No Passenger Flights, Domestic Or International, Till May 3. [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-domestic-international-flights-suspended-till-may-3-says-aviation-ministry-news-2211407)]
 - "Together, Will Overcome": PM After Rs 100 Crore Contribution To PM-CARES. [[Source](https://www.ndtv.com/india-news/coronavirus-together-will-overcome-pm-narendra-modi-after-radhakishan-damani-contributes-rs-100-cror-2211625)]
-
-### 13<sup>th</sup> April, 2020
--  India's race against time to save doctors. [[Source](https://www.bbc.com/news/world-asia-india-52215071)]
-- Govt to expand Covid-19 testing to 'cold spots' with no cases yet. [[Source](https://timesofindia.indiatimes.com/india/govt-to-expand-testing-to-cold-spots-with-no-cases-yet/articleshow/75113417.cms)]
-- PM Modi To Address Nation At 10 am Tomorrow As States Say Extend Lockdown. [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-pm-narendra-modi-to-address-nation-at-10-am-tomorrow-amid-states-demand-to-exte-2210864)]
-- Tamil Nadu extends lockdown till April 30. [[Source](https://timesofindia.indiatimes.com/city/chennai/coronavirus-tamil-nadu-extends-lockdown-till-april-30/articleshow/75122804.cms)]
