@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [23<sup>rd</sup> April, 2020](#updates)
+### [24<sup>th</sup> April, 2020](#updates)
+- ICMR says India has conducted over 5 lakh tests; Covid growth over the last month has been linear, not exponential [[Source](https://mumbaimirror.indiatimes.com/coronavirus/news/covid-19-icmr-says-india-has-conducted-over-5-lakh-tests-covid-gowth-over-the-last-month-has-been-linear-not-exponential/articleshow/75323056.cms)]
+- Stigma attached to Covid can cause more deaths: AIIMS head [[Source](https://timesofindia.indiatimes.com/india/stigma-attached-to-covid-can-cause-more-deaths-aiims-head/articleshow/75335912.cms)]
+
+### 23<sup>rd</sup> April, 2020
 - President Ram Nath Kovind’s nod to promulgate ordinance to punish those attacking healthcare staff [[Source](https://www.hindustantimes.com/india-news/covid-19-update-president-ram-nath-kovind-s-nod-to-promulgate-ordinance-to-punish-those-attacking-healthcare-staff/story-f0HaDIpTxRD0mqOYJVIEaM.html)]
 - Covid-19 will be with us for a long time and can easily ignite: WHO [[Source](https://www.livemint.com/news/world/covid-19-will-be-with-us-for-a-long-time-and-can-easily-ignite-who-11587572606311.html)]
 - 73 cops quarantined after 5 Moradabad violence accused test positive for Covid-19 [[Source](https://www.hindustantimes.com/india-news/73-cops-quarantined-after-5-moradabad-violence-accused-test-positive-for-covid-19/story-LCVf7fTLVH3DXuSMAXJTEK.html)]
@@ -48,8 +52,3 @@ layout: post
  - Indian Railways denies rumours of running special train services. [[Source](https://www.livemint.com/news/india/indian-railways-denies-rumours-of-running-special-train-services-11586889622567.html)]
  -  MHA issues Consolidated Revised Guidelines for the Containment of COVID-19 epidemic in the Country. [[Source](https://pib.gov.in/newsite/PrintRelease.aspx?relid=202264)]
 - Industries In Rural Areas, E-Commerce Can Start On April 20: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-guidelines-select-activities-including-all-agriculture-allowed-from-april-20-to-2211967)]
-
-### 14<sup>th</sup> April, 2020
-- Narendra Modi speech on coronavirus: Lockdown extended till May 3. [[Source](https://www.livemint.com/news/india/coronavirus-lockdown-live-updates-narendra-modi-address-to-the-nation-on-covid-19-pandemic-11586835401046.html)]
-- No Passenger Flights, Domestic Or International, Till May 3. [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-domestic-international-flights-suspended-till-may-3-says-aviation-ministry-news-2211407)]
-- "Together, Will Overcome": PM After Rs 100 Crore Contribution To PM-CARES. [[Source](https://www.ndtv.com/india-news/coronavirus-together-will-overcome-pm-narendra-modi-after-radhakishan-damani-contributes-rs-100-cror-2211625)]
