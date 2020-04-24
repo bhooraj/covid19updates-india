@@ -4,6 +4,8 @@ layout: post
 ### [24<sup>th</sup> April, 2020](#updates)
 - ICMR says India has conducted over 5 lakh tests; Covid growth over the last month has been linear, not exponential [[Source](https://mumbaimirror.indiatimes.com/coronavirus/news/covid-19-icmr-says-india-has-conducted-over-5-lakh-tests-covid-gowth-over-the-last-month-has-been-linear-not-exponential/articleshow/75323056.cms)]
 - Stigma attached to Covid can cause more deaths: AIIMS head [[Source](https://timesofindia.indiatimes.com/india/stigma-attached-to-covid-can-cause-more-deaths-aiims-head/articleshow/75335912.cms)]
+- We have saved India from going into Stage 3: Health Minister [[Source](https://timesofindia.indiatimes.com/india/we-have-saved-india-from-going-into-stage-3-health-minister/articleshow/75350159.cms)]
+- Complete lockdown for four days in Chennai, Madurai and Coimbatore, says Tamil Nadu Chief Minister [[Source](https://www.thehindu.com/news/national/tamil-nadu/complete-lockdown-for-four-days-in-chennai-madurai-and-coimbatore-tamil-nadu-chief-minister-says/article31423203.ece)]
 
 ### 23<sup>rd</sup> April, 2020
 - President Ram Nath Kovind’s nod to promulgate ordinance to punish those attacking healthcare staff [[Source](https://www.hindustantimes.com/india-news/covid-19-update-president-ram-nath-kovind-s-nod-to-promulgate-ordinance-to-punish-those-attacking-healthcare-staff/story-f0HaDIpTxRD0mqOYJVIEaM.html)]
