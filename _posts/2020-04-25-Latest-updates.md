@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [24<sup>th</sup> April, 2020](#updates)
+### [25<sup>th</sup> April, 2020](#updates)
+- Govt allows opening of neighbourhood & standalone shops, but not markets [[Source](https://www.thehindu.com/news/national/coronavirus-govt-allows-opening-of-neighbourhood-standalone-shops-but-not-markets/article31429659.ece)]
+
+### 24<sup>th</sup> April, 2020
 - ICMR says India has conducted over 5 lakh tests; Covid growth over the last month has been linear, not exponential [[Source](https://mumbaimirror.indiatimes.com/coronavirus/news/covid-19-icmr-says-india-has-conducted-over-5-lakh-tests-covid-gowth-over-the-last-month-has-been-linear-not-exponential/articleshow/75323056.cms)]
 - Stigma attached to Covid can cause more deaths: AIIMS head [[Source](https://timesofindia.indiatimes.com/india/stigma-attached-to-covid-can-cause-more-deaths-aiims-head/articleshow/75335912.cms)]
 - We have saved India from going into Stage 3: Health Minister [[Source](https://timesofindia.indiatimes.com/india/we-have-saved-india-from-going-into-stage-3-health-minister/articleshow/75350159.cms)]
@@ -47,10 +50,3 @@ layout: post
 - "No Time To Waste": WHO After Donald Trump Freezes Funds Amid COVID-19 Crisis. [[Source](https://www.ndtv.com/world-news/coronavirus-update-world-health-organization-says-no-time-to-waste-after-donald-trump-freezes-funds-2212353)]
 - All 6 Metros, Other Major Cities Marked Red In Centre's COVID-19 List. [[Source](https://www.ndtv.com/india-news/coronavirus-all-6-metros-other-major-cities-marked-red-in-centres-covid-19-list-2212458)]
 - These four cities together witness over 50% of coronavirus deaths in India. [[Source](https://www.hindustantimes.com/india-news/these-four-cities-together-witness-over-50-of-coronavirus-deaths-in-india/story-ifNi9RC2waFVHiHH53RbOM.html)]
-
-### 15<sup>th</sup> April, 2020
-- Trump halts WHO funding, with world on edge over virus lockdowns. [[Source](https://timesofindia.indiatimes.com/world/us/trump-halts-who-funding-with-world-on-edge-over-virus-lockdowns/articleshow/75150239.cms)]
-- 'Don't Believe Rumours': Migrants Gather at Bandra Railway Station, Uddhav Asks Them to Stay Back [[Source](https://www.news18.com/news/india/dont-believe-rumours-migrants-gather-at-bandra-railway-station-uddhav-asks-them-to-stay-back-2577773.html)]
- - Indian Railways denies rumours of running special train services. [[Source](https://www.livemint.com/news/india/indian-railways-denies-rumours-of-running-special-train-services-11586889622567.html)]
- -  MHA issues Consolidated Revised Guidelines for the Containment of COVID-19 epidemic in the Country. [[Source](https://pib.gov.in/newsite/PrintRelease.aspx?relid=202264)]
-- Industries In Rural Areas, E-Commerce Can Start On April 20: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-guidelines-select-activities-including-all-agriculture-allowed-from-april-20-to-2211967)]
