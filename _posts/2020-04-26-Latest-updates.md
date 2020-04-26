@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [25<sup>th</sup> April, 2020](#updates)
+### [26<sup>th</sup> April, 2020](#updates)
+- Delhi govt to implement MHA order on opening of shops [[Source](https://www.moneycontrol.com/news/india/delhi-govt-to-implement-mha-order-on-opening-of-shops-5189791.html)]
+
+### 25<sup>th</sup> April, 2020
 - Govt allows opening of neighbourhood & standalone shops, but not markets [[Source](https://www.thehindu.com/news/national/coronavirus-govt-allows-opening-of-neighbourhood-standalone-shops-but-not-markets/article31429659.ece)]
 
 ### 24<sup>th</sup> April, 2020
@@ -45,8 +48,3 @@ layout: post
 ### 17<sup>th</sup> April, 2020
 - No immediate plans to evacuate stranded Indians abroad. [[Source](https://www.hindustantimes.com/india-news/covid-19-no-immediate-plans-to-evacuate-stranded-indians-abroad/story-eDAuROnTuAN63ImiFIa04K.html)]
 - Improvement In Coronavirus Recovery Rate In Last 4 Days: 10 Points [[Source](https://www.ndtv.com/india-news/13-387-coronavirus-cases-in-india-over-1-000-in-24-hours-437-deaths-2213227)]
-
-### 16<sup>th</sup> April, 2020
-- "No Time To Waste": WHO After Donald Trump Freezes Funds Amid COVID-19 Crisis. [[Source](https://www.ndtv.com/world-news/coronavirus-update-world-health-organization-says-no-time-to-waste-after-donald-trump-freezes-funds-2212353)]
-- All 6 Metros, Other Major Cities Marked Red In Centre's COVID-19 List. [[Source](https://www.ndtv.com/india-news/coronavirus-all-6-metros-other-major-cities-marked-red-in-centres-covid-19-list-2212458)]
-- These four cities together witness over 50% of coronavirus deaths in India. [[Source](https://www.hindustantimes.com/india-news/these-four-cities-together-witness-over-50-of-coronavirus-deaths-in-india/story-ifNi9RC2waFVHiHH53RbOM.html)]
