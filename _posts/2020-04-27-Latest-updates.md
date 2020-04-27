@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [26<sup>th</sup> April, 2020](#updates)
+### [27<sup>th</sup> April, 2020](#updates)
+- 9 CMs to speak with PM Modi during meeting over lockdown, exit strategy [[Source](https://www.hindustantimes.com/india-news/9-cms-to-speak-with-pm-modi-during-meeting-over-lockdown-exit-strategy/story-tk7WKwDkynQw09UVS2E2YM.html)]
+- Trump muses that virus briefings ‘not worth the time and effort’ [[Source](https://www.livemint.com/news/world/trump-muses-that-virus-briefings-not-worth-the-time-and-effort-11587865027144.html)]
+
+### 26<sup>th</sup> April, 2020
 - Delhi govt to implement MHA order on opening of shops [[Source](https://www.moneycontrol.com/news/india/delhi-govt-to-implement-mha-order-on-opening-of-shops-5189791.html)]
 - PM to interact with CMs on Monday to discuss way out of lockdown, Covid fight [[Source](https://timesofindia.indiatimes.com/india/pm-to-interact-with-cms-on-monday-to-discuss-way-out-of-lockdown-covid-fight/articleshow/75389416.cms)]
 - Income tax officers suggest 40% tax on super-rich, Covid-relief cess [[Source](https://www.livemint.com/money/personal-finance/income-tax-officers-suggest-40-tax-on-super-rich-covid-relief-cess-11587894341797.html)]
@@ -46,7 +50,3 @@ layout: post
 - How fast are India's coronavirus cases doubling since the lockdown? [[Source](https://www.thehindu.com/data/data-how-fast-are-indias-coronavirus-cases-doubling-since-the-lockdown/article31371220.ece)]
 - Sealing, sanitizing, tracking: How UP’s Maharajganj became coronvirus-free. [[Source](https://www.hindustantimes.com/lucknow/sealing-sanitizing-tracking-how-up-s-maharajganj-became-coronvirus-free/story-8SOTQslSEasG8qxv4gOG6O.html)]
 - ‘Samosa, gutka, pizza, paan’: Covid-19 helpline in UP gets these requests [[Source](https://www.hindustantimes.com/lucknow/samosa-gutka-pizza-paan-covid-19-helpline-in-up-gets-these-requests/story-ytmLcrXTkesxblID1VtGkO.html)]
-
-### 17<sup>th</sup> April, 2020
-- No immediate plans to evacuate stranded Indians abroad. [[Source](https://www.hindustantimes.com/india-news/covid-19-no-immediate-plans-to-evacuate-stranded-indians-abroad/story-eDAuROnTuAN63ImiFIa04K.html)]
-- Improvement In Coronavirus Recovery Rate In Last 4 Days: 10 Points [[Source](https://www.ndtv.com/india-news/13-387-coronavirus-cases-in-india-over-1-000-in-24-hours-437-deaths-2213227)]
