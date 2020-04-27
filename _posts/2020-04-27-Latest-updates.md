@@ -4,6 +4,9 @@ layout: post
 ### [27<sup>th</sup> April, 2020](#updates)
 - 9 CMs to speak with PM Modi during meeting over lockdown, exit strategy [[Source](https://www.hindustantimes.com/india-news/9-cms-to-speak-with-pm-modi-during-meeting-over-lockdown-exit-strategy/story-tk7WKwDkynQw09UVS2E2YM.html)]
 - Trump muses that virus briefings ‘not worth the time and effort’ [[Source](https://www.livemint.com/news/world/trump-muses-that-virus-briefings-not-worth-the-time-and-effort-11587865027144.html)]
+- Need to give importance to economy and also battle Covid-19: PM Modi to CMs [[Source](https://timesofindia.indiatimes.com/india/need-to-give-importance-to-economy-and-also-battle-covid-19-pm-modi-to-cms/articleshow/75407189.cms)]
+- Chinese test kits: India cancels order, says due process followed [[Source](https://timesofindia.indiatimes.com/india/due-process-followed-centre-on-procurement-of-rapid-antibody-tests/articleshow/75407786.cms)]
+- China’s Wuhan city discharges last COVID-19 patient from hospital  [[Source](https://www.thehindu.com/news/international/chinas-wuhan-city-discharges-last-covid-19-patient-from-hospital/article31442382.ece)]
 
 ### 26<sup>th</sup> April, 2020
 - Delhi govt to implement MHA order on opening of shops [[Source](https://www.moneycontrol.com/news/india/delhi-govt-to-implement-mha-order-on-opening-of-shops-5189791.html)]
