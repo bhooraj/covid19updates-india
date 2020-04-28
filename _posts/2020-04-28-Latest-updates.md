@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [27<sup>th</sup> April, 2020](#updates)
+### [28<sup>th</sup> April, 2020](#updates)
+- China ‘concerned’ as India decides to stop use of Chinese Covid-19 test kits [[Source](https://www.hindustantimes.com/india-news/china-concerned-as-india-decides-to-stop-use-of-chinese-covid-19-test-kits/story-3xFHLLdqCTSTFSIDJirGbI.html)]
+- WHO Chief Ghebreyesus says pandemic far from over, worried about children [[Source](https://www.moneycontrol.com/news/world/who-chief-ghebreyesus-says-pandemic-far-from-over-worried-about-children-5195791.html)]
+
+### 27<sup>th</sup> April, 2020
 - 9 CMs to speak with PM Modi during meeting over lockdown, exit strategy [[Source](https://www.hindustantimes.com/india-news/9-cms-to-speak-with-pm-modi-during-meeting-over-lockdown-exit-strategy/story-tk7WKwDkynQw09UVS2E2YM.html)]
 - Trump muses that virus briefings ‘not worth the time and effort’ [[Source](https://www.livemint.com/news/world/trump-muses-that-virus-briefings-not-worth-the-time-and-effort-11587865027144.html)]
 - Need to give importance to economy and also battle Covid-19: PM Modi to CMs [[Source](https://timesofindia.indiatimes.com/india/need-to-give-importance-to-economy-and-also-battle-covid-19-pm-modi-to-cms/articleshow/75407189.cms)]
@@ -47,9 +51,3 @@ layout: post
 - Rajasthan first in country to start rapid testing for Covid-19 [[Source](https://timesofindia.indiatimes.com/city/jaipur/rajasthan-first-in-country-to-start-rapid-testing-for-covid-19/articleshow/75214085.cms)]
 - Coronavirus man-made in Wuhan lab: Nobel laureate [[Source](https://timesofindia.indiatimes.com/india/coronavirus-man-made-in-wuhan-lab-nobel-laureate/articleshow/75227989.cms)]
 - Indian-origin Nobel laureate Venki Ramakrishnan in UK’s COVID-19 expert group [[Source](https://www.financialexpress.com/lifestyle/health/indian-origin-nobel-laureate-venki-ramakrishnan-in-uks-covid-19-expert-group/1932057/)]
-
-### 18<sup>th</sup> April, 2020
-- "All Countries Will Face This": WHO After China Revises COVID-19 Deaths [[Source](https://www.ndtv.com/world-news/coronavirus-updates-who-after-china-revises-covid-19-deaths-all-countries-will-face-this-2213847)]
-- How fast are India's coronavirus cases doubling since the lockdown? [[Source](https://www.thehindu.com/data/data-how-fast-are-indias-coronavirus-cases-doubling-since-the-lockdown/article31371220.ece)]
-- Sealing, sanitizing, tracking: How UP’s Maharajganj became coronvirus-free. [[Source](https://www.hindustantimes.com/lucknow/sealing-sanitizing-tracking-how-up-s-maharajganj-became-coronvirus-free/story-8SOTQslSEasG8qxv4gOG6O.html)]
-- ‘Samosa, gutka, pizza, paan’: Covid-19 helpline in UP gets these requests [[Source](https://www.hindustantimes.com/lucknow/samosa-gutka-pizza-paan-covid-19-helpline-in-up-gets-these-requests/story-ytmLcrXTkesxblID1VtGkO.html)]
