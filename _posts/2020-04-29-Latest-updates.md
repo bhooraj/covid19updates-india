@@ -4,6 +4,8 @@ layout: post
 ### [29<sup>th</sup> April, 2020](#updates)
 - First Covid-19 death in CRPF, Amit Shah tweets tribute [[Source](https://indianexpress.com/article/india/coronavirus-india-death-crpf-capf-first-6383461/)]
 - Plasma therapy not approved as treatment, use only for trial: Govt [[Source](https://timesofindia.indiatimes.com/india/plasma-therapy-not-approved-as-treatment-use-only-for-trial-govt/articleshow/75439012.cms)]
+- Three Weeks of Friendship? Donald Trump, White House Unfollow PM Modi on Twitter [[Source](https://www.news18.com/news/buzz/three-weeks-of-friendship-donald-trump-and-the-white-house-unfollow-pm-modi-on-twitter-2597819.html)]
+- Punjab extends curfew by 2 weeks, with limited relief in non-containment areas from Thursday [[Source](https://www.tribuneindia.com/news/punjab/in-a-major-decision-punjab-to-lift-curfew-for-4-hours-daily-78054)]
 
 ### 28<sup>th</sup> April, 2020
 - China ‘concerned’ as India decides to stop use of Chinese Covid-19 test kits [[Source](https://www.hindustantimes.com/india-news/china-concerned-as-india-decides-to-stop-use-of-chinese-covid-19-test-kits/story-3xFHLLdqCTSTFSIDJirGbI.html)]
