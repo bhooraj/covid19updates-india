@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [29<sup>th</sup> April, 2020](#updates)
+### [30<sup>th</sup> April, 2020](#updates)
+- Tremendous gain in Covid-19 situation, considerable relaxations after May 3, hints Centre [[Source](https://www.hindustantimes.com/india-news/tremendous-gain-in-covid-19-situation-considerable-relaxations-after-may-3-hints-centre/story-cflUAZp53UhqEIDz5USkBL.html)]
+- 
+### 29<sup>th</sup> April, 2020
 - First Covid-19 death in CRPF, Amit Shah tweets tribute [[Source](https://indianexpress.com/article/india/coronavirus-india-death-crpf-capf-first-6383461/)]
 - Plasma therapy not approved as treatment, use only for trial: Govt [[Source](https://timesofindia.indiatimes.com/india/plasma-therapy-not-approved-as-treatment-use-only-for-trial-govt/articleshow/75439012.cms)]
 - Three Weeks of Friendship? Donald Trump, White House Unfollow PM Modi on Twitter [[Source](https://www.news18.com/news/buzz/three-weeks-of-friendship-donald-trump-and-the-white-house-unfollow-pm-modi-on-twitter-2597819.html)]
@@ -46,8 +49,3 @@ layout: post
 - Maharashtra CM calls for action against communal twist to Palghar lynching [[Source](https://www.thehindu.com/news/national/maharashtra-cm-calls-for-action-against-communal-twist-to-palghar-lynching/article31388090.ece)]
 - China rejects Donald Trump’s demand to allow US team to Wuhan to probe coronavirus [[Source](https://www.livemint.com/news/world/china-rejects-donald-trump-s-demand-to-allow-us-team-to-wuhan-to-probe-coronavirus-11587383543120.html)]
 - One COVID-19 positive case found in Rashtrapati Bhavan, 125 families sent on home quarantine [[Source](https://www.timesnownews.com/india/article/one-covid-19-positive-case-found-in-rashtrapati-bhavan-125-families-sent-on-home-quarantine/580662)]
-
-### 20<sup>th</sup> April, 2020
-- Lockdown In Telangana Till May 7, Food Delivery Apps Not Allowed: KCR [[Source](https://www.ndtv.com/telangana-news/coronavirus-k-chandrashekar-rao-says-lockdown-in-telangana-till-may-7-food-delivery-apps-not-allowed-2214612)]
-- ‘Defective’ ICMR kits led to Covid-19 testing delays: Bengal [[Source](https://www.hindustantimes.com/india-news/defective-icmr-kits-delayed-testing-bengal/story-Mfz8Bt0dT3PmxLUQ8ySBhL.html)]
-- PM Modi calls for unity, says virus knows no religion, caste [[Source](https://timesofindia.indiatimes.com/india/pm-modi-calls-for-unity-says-virus-knows-no-religion-caste/articleshow/75240790.cms)]
