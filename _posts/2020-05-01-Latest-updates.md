@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [30<sup>th</sup> April, 2020](#updates)
+### [1<sup>st</sup> May, 2020](#updates)
+- White House explains why it followed Indian PM on Twitter, then unfollowed [[Source](https://www.hindustantimes.com/india-news/white-house-explains-why-it-followed-indian-pm-on-twitter-then-unfollowed/story-M1eleLwXAj9XgE9Ca3hXuJ.html)]
+- Trump confident that coronavirus may have originated in  Chinese Lab [[Source](https://timesofindia.indiatimes.com/world/us/trump-confident-that-coronavirus-may-have-originated-in-chinese-lab/articleshow/75482537.cms)]
+- Seven States Oppose Govt Plan to Send Migrant Workers by Bus as Impractical, Say Process Could Take Months [[Source](https://www.news18.com/news/india/states-seek-special-non-stop-trains-to-facilitate-return-of-migrant-workers-2599997.html)]
+
+### 30<sup>th</sup> April, 2020
 - Tremendous gain in Covid-19 situation, considerable relaxations after May 3, hints Centre [[Source](https://www.hindustantimes.com/india-news/tremendous-gain-in-covid-19-situation-considerable-relaxations-after-may-3-hints-centre/story-cflUAZp53UhqEIDz5USkBL.html)]
 - India needs to be cleverer in lifting lockdown: Raghuram Rajan tells Rahul Gandhi [[Source](https://timesofindia.indiatimes.com/india/india-needs-to-be-cleverer-in-lifting-lockdown-raghuram-rajan-tells-rahul-gandhi/articleshow/75467503.cms)]
 
@@ -45,8 +50,3 @@ layout: post
 - Rajasthan stops rapid tests, ICMR asks other states to pause [[Source](https://timesofindia.indiatimes.com/india/rajasthan-stops-rapid-tests-icmr-asks-other-states-to-pause/articleshow/75283005.cms)]
 - WHO rules out 'lab manipulation' theory, cites evidence to say coronavirus originated from animals [[Source](https://www.timesnownews.com/international/article/who-rules-out-lab-manipulation-theory-cites-evidence-to-say-coronavirus-originated-from-animals/581205)]
 - Imran Khan to get tested after meeting Faisal Edhi who turned Covid-19 +ve [[Source](https://www.hindustantimes.com/world-news/pak-pm-imran-khan-may-get-tested-for-covid-19/story-QLaotZmm4YQndDDKw0C5XP.html)]
-
-### 21<sup>th</sup> April, 2020
-- Maharashtra CM calls for action against communal twist to Palghar lynching [[Source](https://www.thehindu.com/news/national/maharashtra-cm-calls-for-action-against-communal-twist-to-palghar-lynching/article31388090.ece)]
-- China rejects Donald Trump’s demand to allow US team to Wuhan to probe coronavirus [[Source](https://www.livemint.com/news/world/china-rejects-donald-trump-s-demand-to-allow-us-team-to-wuhan-to-probe-coronavirus-11587383543120.html)]
-- One COVID-19 positive case found in Rashtrapati Bhavan, 125 families sent on home quarantine [[Source](https://www.timesnownews.com/india/article/one-covid-19-positive-case-found-in-rashtrapati-bhavan-125-families-sent-on-home-quarantine/580662)]
