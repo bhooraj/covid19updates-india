@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [1<sup>st</sup> May, 2020](#updates)
+### [2<sup>nd</sup> May, 2020](#updates)
+- Lockdown 3.0: What's allowed and what's not allowed from May 4 [[Source](https://timesofindia.indiatimes.com/india/lockdown-3-0-whats-allowed-and-whats-not-allowed-after-may-4/articleshow/75495617.cms)]
+- Liquor shops to open in all zones, only 5 people at a time [[Source](https://www.hindustantimes.com/india-news/liquor-shops-to-open-in-green-orange-zones-only-5-people-at-a-time/story-wnCRjJq1HHuN15Ng8pLasM.html)]
+- Amazon, Flipkart allowed non-essential deliveries in orange, green zones [[Source](https://www.moneycontrol.com/news/business/startup/amazon-flipkart-allowed-non-essential-deliveries-in-orange-green-zones-5212771.html)]
+
+### 1<sup>st</sup> May, 2020
 - White House explains why it followed Indian PM on Twitter, then unfollowed [[Source](https://www.hindustantimes.com/india-news/white-house-explains-why-it-followed-indian-pm-on-twitter-then-unfollowed/story-M1eleLwXAj9XgE9Ca3hXuJ.html)]
 - Trump confident that coronavirus may have originated in  Chinese Lab [[Source](https://timesofindia.indiatimes.com/world/us/trump-confident-that-coronavirus-may-have-originated-in-chinese-lab/articleshow/75482537.cms)]
 - Seven States Oppose Govt Plan to Send Migrant Workers by Bus as Impractical, Say Process Could Take Months [[Source](https://www.news18.com/news/india/states-seek-special-non-stop-trains-to-facilitate-return-of-migrant-workers-2599997.html)]
@@ -48,8 +53,3 @@ layout: post
 - President Ram Nath Kovind’s nod to promulgate ordinance to punish those attacking healthcare staff [[Source](https://www.hindustantimes.com/india-news/covid-19-update-president-ram-nath-kovind-s-nod-to-promulgate-ordinance-to-punish-those-attacking-healthcare-staff/story-f0HaDIpTxRD0mqOYJVIEaM.html)]
 - Covid-19 will be with us for a long time and can easily ignite: WHO [[Source](https://www.livemint.com/news/world/covid-19-will-be-with-us-for-a-long-time-and-can-easily-ignite-who-11587572606311.html)]
 - 73 cops quarantined after 5 Moradabad violence accused test positive for Covid-19 [[Source](https://www.hindustantimes.com/india-news/73-cops-quarantined-after-5-moradabad-violence-accused-test-positive-for-covid-19/story-LCVf7fTLVH3DXuSMAXJTEK.html)]
-
-### 22<sup>nd</sup> April, 2020
-- Rajasthan stops rapid tests, ICMR asks other states to pause [[Source](https://timesofindia.indiatimes.com/india/rajasthan-stops-rapid-tests-icmr-asks-other-states-to-pause/articleshow/75283005.cms)]
-- WHO rules out 'lab manipulation' theory, cites evidence to say coronavirus originated from animals [[Source](https://www.timesnownews.com/international/article/who-rules-out-lab-manipulation-theory-cites-evidence-to-say-coronavirus-originated-from-animals/581205)]
-- Imran Khan to get tested after meeting Faisal Edhi who turned Covid-19 +ve [[Source](https://www.hindustantimes.com/world-news/pak-pm-imran-khan-may-get-tested-for-covid-19/story-QLaotZmm4YQndDDKw0C5XP.html)]
