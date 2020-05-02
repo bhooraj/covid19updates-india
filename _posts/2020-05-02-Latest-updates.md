@@ -5,6 +5,7 @@ layout: post
 - Lockdown 3.0: What's allowed and what's not allowed from May 4 [[Source](https://timesofindia.indiatimes.com/india/lockdown-3-0-whats-allowed-and-whats-not-allowed-after-may-4/articleshow/75495617.cms)]
 - Liquor shops to open in all zones, only 5 people at a time [[Source](https://www.hindustantimes.com/india-news/liquor-shops-to-open-in-green-orange-zones-only-5-people-at-a-time/story-wnCRjJq1HHuN15Ng8pLasM.html)]
 - Amazon, Flipkart allowed non-essential deliveries in orange, green zones [[Source](https://www.moneycontrol.com/news/business/startup/amazon-flipkart-allowed-non-essential-deliveries-in-orange-green-zones-5212771.html)]
+- Amid attack from Trump, WHO praises China for handling coronavirus pandemic [[Source](https://www.thehindu.com/news/international/amid-attack-from-trump-who-praises-china-for-handling-coronavirus-pandemic/article31487398.ece)]
 
 ### 1<sup>st</sup> May, 2020
 - White House explains why it followed Indian PM on Twitter, then unfollowed [[Source](https://www.hindustantimes.com/india-news/white-house-explains-why-it-followed-indian-pm-on-twitter-then-unfollowed/story-M1eleLwXAj9XgE9Ca3hXuJ.html)]
