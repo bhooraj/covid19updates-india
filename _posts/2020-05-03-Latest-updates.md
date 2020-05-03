@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [2<sup>nd</sup> May, 2020](#updates)
+### [3<sup>rd</sup> May, 2020](#updates)
+- Special Train Carrying Over 340 Stranded Labourers Reaches Bhopal from Nashik [[Source](https://www.news18.com/news/india/special-train-carrying-over-340-stranded-labourers-reaches-bhopal-from-nashik-2602617.html)]
+
+### 2<sup>nd</sup> May, 2020
 - Lockdown 3.0: What's allowed and what's not allowed from May 4 [[Source](https://timesofindia.indiatimes.com/india/lockdown-3-0-whats-allowed-and-whats-not-allowed-after-may-4/articleshow/75495617.cms)]
 - Liquor shops to open in all zones, only 5 people at a time [[Source](https://www.hindustantimes.com/india-news/liquor-shops-to-open-in-green-orange-zones-only-5-people-at-a-time/story-wnCRjJq1HHuN15Ng8pLasM.html)]
 - Amazon, Flipkart allowed non-essential deliveries in orange, green zones [[Source](https://www.moneycontrol.com/news/business/startup/amazon-flipkart-allowed-non-essential-deliveries-in-orange-green-zones-5212771.html)]
@@ -49,8 +52,3 @@ layout: post
 - Stigma attached to Covid can cause more deaths: AIIMS head [[Source](https://timesofindia.indiatimes.com/india/stigma-attached-to-covid-can-cause-more-deaths-aiims-head/articleshow/75335912.cms)]
 - We have saved India from going into Stage 3: Health Minister [[Source](https://timesofindia.indiatimes.com/india/we-have-saved-india-from-going-into-stage-3-health-minister/articleshow/75350159.cms)]
 - Complete lockdown for four days in Chennai, Madurai and Coimbatore, says Tamil Nadu Chief Minister [[Source](https://www.thehindu.com/news/national/tamil-nadu/complete-lockdown-for-four-days-in-chennai-madurai-and-coimbatore-tamil-nadu-chief-minister-says/article31423203.ece)]
-
-### 23<sup>rd</sup> April, 2020
-- President Ram Nath Kovind’s nod to promulgate ordinance to punish those attacking healthcare staff [[Source](https://www.hindustantimes.com/india-news/covid-19-update-president-ram-nath-kovind-s-nod-to-promulgate-ordinance-to-punish-those-attacking-healthcare-staff/story-f0HaDIpTxRD0mqOYJVIEaM.html)]
-- Covid-19 will be with us for a long time and can easily ignite: WHO [[Source](https://www.livemint.com/news/world/covid-19-will-be-with-us-for-a-long-time-and-can-easily-ignite-who-11587572606311.html)]
-- 73 cops quarantined after 5 Moradabad violence accused test positive for Covid-19 [[Source](https://www.hindustantimes.com/india-news/73-cops-quarantined-after-5-moradabad-violence-accused-test-positive-for-covid-19/story-LCVf7fTLVH3DXuSMAXJTEK.html)]
