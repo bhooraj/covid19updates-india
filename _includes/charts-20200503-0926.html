@@ -1,0 +1,193 @@
+
+<!-- HTML starts -->
+<div class="chartWrapper">
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:350px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart1" height="300" width="350"></canvas>
+    </div>
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:350px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart2" height="300" width="350"></canvas>
+    </div>
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:350px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart3" height="300" width="350"></canvas>
+    </div>
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:710px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart4" height="680" width="350"></canvas>
+        <p style="font-size: 0.65em;">* Please refer to the update date and time on the <a href="/">homepage</a></p>
+    </div>
+    <p><i><small>Note: The above Graphs/Charts are for the representation purpose only.</small></i></p>
+</div>
+
+<!-- HTML ends -->
+
+
+<!-- Javascript Starts -->
+<script>
+        var yAxisValues1 = ['25 Mar', '26 Mar', '27 Mar', '28 Mar', '29 Mar', '30 Mar', '31 Mar', '01 Apr', '02 Apr', '03 Apr', '04 Apr', '05 Apr', '06 Apr', '07 Apr', '08 Apr', '09 Apr', '10 Apr', '11 Apr', '12 Apr', '13 Apr', '14 Apr', '15 Apr', '16 Apr', '17 Apr', '18 Apr', '19 Apr', '20 Apr', '21 Apr', '22 Apr', '23 Apr', '24 Apr', '25 Apr', '26 Apr', '27 Apr', '28 Apr', '29 Apr', '30 Apr', '01 May', '02 May', '03 May'];
+        var legendTitle1 = "Number Of Active Cases";
+        var xAxisValues1 = [553, 633, 640, 810, 901, 1071, 1200, 1649, 1860, 2245, 2774, 3219, 3851, 4312, 4714, 5218, 6039, 6634, 7409, 8048, 9272, 10197, 10824, 11616, 12289, 13295, 14255, 15122, 15859, 16689, 17915, 18904, 19865, 20912, 21870, 22904, 23882, 24755, 26430, 27922];
+        var chartTitle1 = "DATE-WISE ACTIVE CASES COMPARISON";
+        var colorsGenerated1 = ['#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74'];
+
+        //Assigning the values for chart
+        var data1 = {
+                labels: yAxisValues1,
+                datasets: [{
+                    label: legendTitle1,
+                    data: xAxisValues1,
+                    backgroundColor: colorsGenerated1
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart1').getContext('2d');
+
+        var myChart1 = new Chart(ctx, {
+            type: 'bar',
+            data: data1,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle1
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+        
+        var yAxisValues2 = ['25 Mar', '26 Mar', '27 Mar', '28 Mar', '29 Mar', '30 Mar', '31 Mar', '01 Apr', '02 Apr', '03 Apr', '04 Apr', '05 Apr', '06 Apr', '07 Apr', '08 Apr', '09 Apr', '10 Apr', '11 Apr', '12 Apr', '13 Apr', '14 Apr', '15 Apr', '16 Apr', '17 Apr', '18 Apr', '19 Apr', '20 Apr', '21 Apr', '22 Apr', '23 Apr', '24 Apr', '25 Apr', '26 Apr', '27 Apr', '28 Apr', '29 Apr', '30 Apr', '01 May', '02 May', '03 May'];
+        var legendTitle2 = "Number Of Cured/Discharged/Migrated Cases";
+        var xAxisValues2 = [43, 45, 67, 80, 96, 102, 124, 145, 156, 163, 213, 275, 319, 353, 411, 478, 516, 653, 765, 980, 1190, 1344, 1515, 1767, 2015, 2302, 2842, 3260, 3960, 4325, 4814, 5210, 5914, 6362, 7027, 7797, 8373, 9065, 10018, 10633];
+        var chartTitle2 = "DATE-WISE CURED/DISCHARGED/MIGRATED CASES COMPARISON";
+        var colorsGenerated2 = ['#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a'];
+
+        //Assigning the values for chart
+        var data2 = {
+                labels: yAxisValues2,
+                datasets: [{
+                    label: legendTitle2,
+                    data: xAxisValues2,
+                    backgroundColor: colorsGenerated2
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart2').getContext('2d');
+
+        var myChart2 = new Chart(ctx, {
+            type: 'bar',
+            data: data2,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle2
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+        
+        var yAxisValues3 = ['25 Mar', '26 Mar', '27 Mar', '28 Mar', '29 Mar', '30 Mar', '31 Mar', '01 Apr', '02 Apr', '03 Apr', '04 Apr', '05 Apr', '06 Apr', '07 Apr', '08 Apr', '09 Apr', '10 Apr', '11 Apr', '12 Apr', '13 Apr', '14 Apr', '15 Apr', '16 Apr', '17 Apr', '18 Apr', '19 Apr', '20 Apr', '21 Apr', '22 Apr', '23 Apr', '24 Apr', '25 Apr', '26 Apr', '27 Apr', '28 Apr', '29 Apr', '30 Apr', '01 May', '02 May', '03 May'];
+        var legendTitle3 = "Number Of Death Cases";
+        var xAxisValues3 = [10, 16, 17, 19, 27, 32, 35, 39, 53, 62, 85, 83, 111, 124, 149, 169, 206, 242, 273, 324, 353, 392, 420, 452, 488, 519, 559, 603, 652, 686, 723, 779, 826, 886, 937, 1008, 1075, 1152, 1223, 1301];
+        var chartTitle3 = "DATE-WISE DEATH CASES COMPARISON";
+        var colorsGenerated3 = ['#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84'];
+
+        //Assigning the values for chart
+        var data3 = {
+                labels: yAxisValues3,
+                datasets: [{
+                    label: legendTitle3,
+                    data: xAxisValues3,
+                    backgroundColor: colorsGenerated3
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart3').getContext('2d');
+
+        var myChart3 = new Chart(ctx, {
+            type: 'bar',
+            data: data3,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle3
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+        
+        var yAxisValues4 = ['Andaman and Nicobar Islands', 'Andhra Pradesh', 'Arunachal Pradesh', 'Assam', 'Bihar', 'Chandigarh', 'Chhattisgarh', 'Delhi', 'Goa', 'Gujarat', 'Haryana', 'Himachal Pradesh', 'Jammu and Kashmir', 'Jharkhand', 'Karnataka', 'Kerala', 'Ladakh', 'Madhya Pradesh', 'Maharashtra', 'Manipur', 'Meghalaya', 'Mizoram', 'Odisha', 'Puducherry', 'Punjab', 'Rajasthan', 'Tamil Nadu', 'Telengana', 'Tripura', 'Uttarakhand', 'Uttar Pradesh', 'West Bengal'];
+        var legendTitle4 = "Number Of Active Cases On The Last Update*";
+        var xAxisValues4 = [17, 1051, 0, 10, 370, 71, 7, 2802, 0, 3896, 129, 6, 404, 90, 305, 95, 5, 2071, 9775, 0, 11, 1, 100, 3, 640, 1584, 1387, 577, 2, 20, 1755, 738];
+        var chartTitle4 = "STATE-WISE COVID-19 ACTIVE CASES COMPARISON";
+        var colorsGenerated4 = ['#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699'];
+
+        //Assigning the values for chart
+        var data4 = {
+                labels: yAxisValues4,
+                datasets: [{
+                    label: legendTitle4,
+                    data: xAxisValues4,
+                    backgroundColor: colorsGenerated4
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart4').getContext('2d');
+
+        var myChart4 = new Chart(ctx, {
+            type: 'horizontalBar',
+            data: data4,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle4
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    xAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+        
+ </script>
