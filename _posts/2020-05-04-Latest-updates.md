@@ -3,6 +3,8 @@ layout: post
 ---
 ### [4<sup>th</sup> May, 2020](#updates)
 - Lockdown 3.0: What all you can do from today, and what you can't [[Source](https://timesofindia.indiatimes.com/india/lockdown-extension-news-india-whats-allowed-and-whats-not-in-the-three-zones/articleshow/75497261.cms)]
+- Congress to bear cost of rail travel of every needy migrant worker: Sonia [[Source](https://www.tribuneindia.com/news/nation/cong-to-bear-cost-of-rail-travel-of-every-needy-migrant-worker-sonia-80221)]
+- Chaos outside liquor shops; social distancing norms not followed [[Source](https://www.thehindu.com/news/cities/Delhi/long-queues-at-liquor-shops-in-delhi-authorities-struggle-to-maintain-social-distancing/article31498934.ece)]
 
 ### 3<sup>rd</sup> May, 2020
 - Special Train Carrying Over 340 Stranded Labourers Reaches Bhopal from Nashik [[Source](https://www.news18.com/news/india/special-train-carrying-over-340-stranded-labourers-reaches-bhopal-from-nashik-2602617.html)]
