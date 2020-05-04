@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [3<sup>rd</sup> May, 2020](#updates)
+### [4<sup>th</sup> May, 2020](#updates)
+- Lockdown 3.0: What all you can do from today, and what you can't [[Source](https://timesofindia.indiatimes.com/india/lockdown-extension-news-india-whats-allowed-and-whats-not-in-the-three-zones/articleshow/75497261.cms)]
+
+### 3<sup>rd</sup> May, 2020
 - Special Train Carrying Over 340 Stranded Labourers Reaches Bhopal from Nashik [[Source](https://www.news18.com/news/india/special-train-carrying-over-340-stranded-labourers-reaches-bhopal-from-nashik-2602617.html)]
 
 ### 2<sup>nd</sup> May, 2020
@@ -46,9 +49,3 @@ layout: post
 
 ### 25<sup>th</sup> April, 2020
 - Govt allows opening of neighbourhood & standalone shops, but not markets [[Source](https://www.thehindu.com/news/national/coronavirus-govt-allows-opening-of-neighbourhood-standalone-shops-but-not-markets/article31429659.ece)]
-
-### 24<sup>th</sup> April, 2020
-- ICMR says India has conducted over 5 lakh tests; Covid growth over the last month has been linear, not exponential [[Source](https://mumbaimirror.indiatimes.com/coronavirus/news/covid-19-icmr-says-india-has-conducted-over-5-lakh-tests-covid-gowth-over-the-last-month-has-been-linear-not-exponential/articleshow/75323056.cms)]
-- Stigma attached to Covid can cause more deaths: AIIMS head [[Source](https://timesofindia.indiatimes.com/india/stigma-attached-to-covid-can-cause-more-deaths-aiims-head/articleshow/75335912.cms)]
-- We have saved India from going into Stage 3: Health Minister [[Source](https://timesofindia.indiatimes.com/india/we-have-saved-india-from-going-into-stage-3-health-minister/articleshow/75350159.cms)]
-- Complete lockdown for four days in Chennai, Madurai and Coimbatore, says Tamil Nadu Chief Minister [[Source](https://www.thehindu.com/news/national/tamil-nadu/complete-lockdown-for-four-days-in-chennai-madurai-and-coimbatore-tamil-nadu-chief-minister-says/article31423203.ece)]
