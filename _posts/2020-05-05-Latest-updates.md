@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [4<sup>th</sup> May, 2020](#updates)
+### [5<sup>th</sup> May, 2020](#updates)
+- US has very ‘conclusive’ report on Covid-19’s China origins, says Trump [[Source](https://www.hindustantimes.com/world-news/trump-says-us-has-very-conclusive-report-on-coronavirus-s-china-origins/story-7Kp8cf7g3ExSTKgzvWpVtL.html)]
+- India opens factories after curbs, but conditions apply [[Source](https://www.livemint.com/news/india/india-opens-factories-after-curbs-but-conditions-apply-11588622047908.html)]
+- Want booze, pay more in Delhi: All you need to know about ‘special corona fee’ [[Source](https://www.hindustantimes.com/india-news/want-booze-pay-more-in-delhi-here-s-what-you-need-to-know-about-special-corona-fee/story-3petOdmHsSyMjnoAeyppbI.html)]
+
+### 4<sup>th</sup> May, 2020
 - Lockdown 3.0: What all you can do from today, and what you can't [[Source](https://timesofindia.indiatimes.com/india/lockdown-extension-news-india-whats-allowed-and-whats-not-in-the-three-zones/articleshow/75497261.cms)]
 - Congress to bear cost of rail travel of every needy migrant worker: Sonia [[Source](https://www.tribuneindia.com/news/nation/cong-to-bear-cost-of-rail-travel-of-every-needy-migrant-worker-sonia-80221)]
 - Chaos outside liquor shops; social distancing norms not followed [[Source](https://www.thehindu.com/news/cities/Delhi/long-queues-at-liquor-shops-in-delhi-authorities-struggle-to-maintain-social-distancing/article31498934.ece)]
@@ -48,6 +53,3 @@ layout: post
 - Delhi govt to implement MHA order on opening of shops [[Source](https://www.moneycontrol.com/news/india/delhi-govt-to-implement-mha-order-on-opening-of-shops-5189791.html)]
 - PM to interact with CMs on Monday to discuss way out of lockdown, Covid fight [[Source](https://timesofindia.indiatimes.com/india/pm-to-interact-with-cms-on-monday-to-discuss-way-out-of-lockdown-covid-fight/articleshow/75389416.cms)]
 - Income tax officers suggest 40% tax on super-rich, Covid-relief cess [[Source](https://www.livemint.com/money/personal-finance/income-tax-officers-suggest-40-tax-on-super-rich-covid-relief-cess-11587894341797.html)]
-
-### 25<sup>th</sup> April, 2020
-- Govt allows opening of neighbourhood & standalone shops, but not markets [[Source](https://www.thehindu.com/news/national/coronavirus-govt-allows-opening-of-neighbourhood-standalone-shops-but-not-markets/article31429659.ece)]
