@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [5<sup>th</sup> May, 2020](#updates)
+### [6<sup>th</sup> May, 2020](#updates)
+- CBSE class 10 Board exams suspended for 2020, except for northeast Delhi students: Govt [[Source](https://zeenews.india.com/india/no-cbse-class-10-exam-except-for-northeast-delhi-students-govt-2281395.html)]
+
+### 5<sup>th</sup> May, 2020
 - US has very ‘conclusive’ report on Covid-19’s China origins, says Trump [[Source](https://www.hindustantimes.com/world-news/trump-says-us-has-very-conclusive-report-on-coronavirus-s-china-origins/story-7Kp8cf7g3ExSTKgzvWpVtL.html)]
 - India opens factories after curbs, but conditions apply [[Source](https://www.livemint.com/news/india/india-opens-factories-after-curbs-but-conditions-apply-11588622047908.html)]
 - Want booze, pay more in Delhi: All you need to know about ‘special corona fee’ [[Source](https://www.hindustantimes.com/india-news/want-booze-pay-more-in-delhi-here-s-what-you-need-to-know-about-special-corona-fee/story-3petOdmHsSyMjnoAeyppbI.html)]
@@ -51,8 +54,3 @@ layout: post
 - Need to give importance to economy and also battle Covid-19: PM Modi to CMs [[Source](https://timesofindia.indiatimes.com/india/need-to-give-importance-to-economy-and-also-battle-covid-19-pm-modi-to-cms/articleshow/75407189.cms)]
 - Chinese test kits: India cancels order, says due process followed [[Source](https://timesofindia.indiatimes.com/india/due-process-followed-centre-on-procurement-of-rapid-antibody-tests/articleshow/75407786.cms)]
 - China’s Wuhan city discharges last COVID-19 patient from hospital  [[Source](https://www.thehindu.com/news/international/chinas-wuhan-city-discharges-last-covid-19-patient-from-hospital/article31442382.ece)]
-
-### 26<sup>th</sup> April, 2020
-- Delhi govt to implement MHA order on opening of shops [[Source](https://www.moneycontrol.com/news/india/delhi-govt-to-implement-mha-order-on-opening-of-shops-5189791.html)]
-- PM to interact with CMs on Monday to discuss way out of lockdown, Covid fight [[Source](https://timesofindia.indiatimes.com/india/pm-to-interact-with-cms-on-monday-to-discuss-way-out-of-lockdown-covid-fight/articleshow/75389416.cms)]
-- Income tax officers suggest 40% tax on super-rich, Covid-relief cess [[Source](https://www.livemint.com/money/personal-finance/income-tax-officers-suggest-40-tax-on-super-rich-covid-relief-cess-11587894341797.html)]
