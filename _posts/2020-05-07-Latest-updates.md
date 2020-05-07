@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [6<sup>th</sup> May, 2020](#updates)
+### [7<sup>th</sup> May, 2020](#updates)
+- Italy claims to develop first COVID-19 vaccine: Here is the current status of all the potential coronavirus vaccines [[Source](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/italy-claims-to-develop-first-covid-19-vaccine-here-is-the-current-status-of-all-the-potential-coronavirus-vaccines/photostory/75575319.cms)]
+
+### 6<sup>th</sup> May, 2020
 - CBSE class 10 Board exams suspended for 2020, except for northeast Delhi students: Govt [[Source](https://zeenews.india.com/india/no-cbse-class-10-exam-except-for-northeast-delhi-students-govt-2281395.html)]
 
 ### 5<sup>th</sup> May, 2020
@@ -47,10 +50,3 @@ layout: post
 ### 28<sup>th</sup> April, 2020
 - China ‘concerned’ as India decides to stop use of Chinese Covid-19 test kits [[Source](https://www.hindustantimes.com/india-news/china-concerned-as-india-decides-to-stop-use-of-chinese-covid-19-test-kits/story-3xFHLLdqCTSTFSIDJirGbI.html)]
 - WHO Chief Ghebreyesus says pandemic far from over, worried about children [[Source](https://www.moneycontrol.com/news/world/who-chief-ghebreyesus-says-pandemic-far-from-over-worried-about-children-5195791.html)]
-
-### 27<sup>th</sup> April, 2020
-- 9 CMs to speak with PM Modi during meeting over lockdown, exit strategy [[Source](https://www.hindustantimes.com/india-news/9-cms-to-speak-with-pm-modi-during-meeting-over-lockdown-exit-strategy/story-tk7WKwDkynQw09UVS2E2YM.html)]
-- Trump muses that virus briefings ‘not worth the time and effort’ [[Source](https://www.livemint.com/news/world/trump-muses-that-virus-briefings-not-worth-the-time-and-effort-11587865027144.html)]
-- Need to give importance to economy and also battle Covid-19: PM Modi to CMs [[Source](https://timesofindia.indiatimes.com/india/need-to-give-importance-to-economy-and-also-battle-covid-19-pm-modi-to-cms/articleshow/75407189.cms)]
-- Chinese test kits: India cancels order, says due process followed [[Source](https://timesofindia.indiatimes.com/india/due-process-followed-centre-on-procurement-of-rapid-antibody-tests/articleshow/75407786.cms)]
-- China’s Wuhan city discharges last COVID-19 patient from hospital  [[Source](https://www.thehindu.com/news/international/chinas-wuhan-city-discharges-last-covid-19-patient-from-hospital/article31442382.ece)]
