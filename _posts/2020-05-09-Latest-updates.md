@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [8<sup>th</sup> May, 2020](#updates)
+### [9<sup>th</sup> May, 2020](#updates)
+- Flights carrying 335 evacuees from Riyadh, Bahrain land in Kerala [[Source](https://timesofindia.indiatimes.com/home/education/news/cbse-class-10-12-exams-to-be-held-from-july-1-to-15-hrd-ministry/articleshow/75626309.cms)]
+- CBSE to conduct pending class 10, 12 exams from July 1 to 15: HRD Ministry [[Source](https://timesofindia.indiatimes.com/home/education/news/cbse-class-10-12-exams-to-be-held-from-july-1-to-15-hrd-ministry/articleshow/75626309.cms)]
+- Have learn to live with Covid-19: Govt [[Source](https://timesofindia.indiatimes.com/india/have-to-learn-to-live-with-covid-19-govt/articleshow/75638429.cms)]
+
+### 8<sup>th</sup> May, 2020
 - ICMR expands list of private labs from 8 to 13 for real-time RT-PCR tests for COVID-19 in Delhi [[Source](https://www.firstpost.com/health/coronavirus-outbreak-highlights-covid-19-india-today-death-count-cases-lockdown-economic-crisis-latest-news-3-8340311.html)]
 
 ### 7<sup>th</sup> May, 2020
@@ -43,9 +48,3 @@ layout: post
 ### 30<sup>th</sup> April, 2020
 - Tremendous gain in Covid-19 situation, considerable relaxations after May 3, hints Centre [[Source](https://www.hindustantimes.com/india-news/tremendous-gain-in-covid-19-situation-considerable-relaxations-after-may-3-hints-centre/story-cflUAZp53UhqEIDz5USkBL.html)]
 - India needs to be cleverer in lifting lockdown: Raghuram Rajan tells Rahul Gandhi [[Source](https://timesofindia.indiatimes.com/india/india-needs-to-be-cleverer-in-lifting-lockdown-raghuram-rajan-tells-rahul-gandhi/articleshow/75467503.cms)]
-
-### 29<sup>th</sup> April, 2020
-- First Covid-19 death in CRPF, Amit Shah tweets tribute [[Source](https://indianexpress.com/article/india/coronavirus-india-death-crpf-capf-first-6383461/)]
-- Plasma therapy not approved as treatment, use only for trial: Govt [[Source](https://timesofindia.indiatimes.com/india/plasma-therapy-not-approved-as-treatment-use-only-for-trial-govt/articleshow/75439012.cms)]
-- Three Weeks of Friendship? Donald Trump, White House Unfollow PM Modi on Twitter [[Source](https://www.news18.com/news/buzz/three-weeks-of-friendship-donald-trump-and-the-white-house-unfollow-pm-modi-on-twitter-2597819.html)]
-- Punjab extends curfew by 2 weeks, with limited relief in non-containment areas from Thursday [[Source](https://www.tribuneindia.com/news/punjab/in-a-major-decision-punjab-to-lift-curfew-for-4-hours-daily-78054)]
