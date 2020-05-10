@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [9<sup>th</sup> May, 2020](#updates)
+### [10<sup>th</sup> May, 2020](#updates)
+- Govt issues new guidelines for discharging patients; check details [[Source](https://www.financialexpress.com/lifestyle/health/covid-19-recovery-govt-issues-new-guidelines-for-discharging-patients-check-details/1953231/)]
+- 62 CRPF personnel test Covid positive; total cases in force rise to 234 [[Source](https://timesofindia.indiatimes.com/india/62-crpf-personnel-test-covid-positive-total-cases-in-force-rise-to-234/articleshow/75649532.cms)]
+
+### 9<sup>th</sup> May, 2020
 - Flights carrying 335 evacuees from Riyadh, Bahrain land in Kerala [[Source](https://timesofindia.indiatimes.com/home/education/news/cbse-class-10-12-exams-to-be-held-from-july-1-to-15-hrd-ministry/articleshow/75626309.cms)]
 - CBSE to conduct pending class 10, 12 exams from July 1 to 15: HRD Ministry [[Source](https://timesofindia.indiatimes.com/home/education/news/cbse-class-10-12-exams-to-be-held-from-july-1-to-15-hrd-ministry/articleshow/75626309.cms)]
 - Have learn to live with Covid-19: Govt [[Source](https://timesofindia.indiatimes.com/india/have-to-learn-to-live-with-covid-19-govt/articleshow/75638429.cms)]
@@ -44,7 +48,3 @@ layout: post
 - Centre lists red, green zone districts for week after May 3 [[Source](https://timesofindia.indiatimes.com/india/covid-19-centre-lists-red-green-zone-districts-for-week-after-may-3/articleshow/75489944.cms)]
 - MHA okays ‘Shramik Special trains’ for migrants, railways sets terms for travel [[Source](https://www.hindustantimes.com/india-news/mha-okays-special-trains-for-migrants-detailed-guidelines-soon/story-AkZgoQrInf5TrkHjG20rUK.html)]
 - Chief of Defence Staff General Bipin Rawat, 3 services chiefs to address press at 6pm [[Source](https://indiagoneviral.com/news/2020/05/01/chief-of-defence-staff-general-bipin-rawat-3-services-chiefs-to-address-press-at-6pm/47523/india-gone-viral/)]
-
-### 30<sup>th</sup> April, 2020
-- Tremendous gain in Covid-19 situation, considerable relaxations after May 3, hints Centre [[Source](https://www.hindustantimes.com/india-news/tremendous-gain-in-covid-19-situation-considerable-relaxations-after-may-3-hints-centre/story-cflUAZp53UhqEIDz5USkBL.html)]
-- India needs to be cleverer in lifting lockdown: Raghuram Rajan tells Rahul Gandhi [[Source](https://timesofindia.indiatimes.com/india/india-needs-to-be-cleverer-in-lifting-lockdown-raghuram-rajan-tells-rahul-gandhi/articleshow/75467503.cms)]
