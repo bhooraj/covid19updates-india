@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [10<sup>th</sup> May, 2020](#updates)
+### [11<sup>th</sup> May, 2020](#updates)
+- Indian Railways to gradually restart passenger train operations from 12 May; online ticket booking will begin at 4 pm today [[Source](https://www.firstpost.com/india/indian-railways-to-gradually-restart-passenger-train-operations-from-12-may-online-ticket-booking-will-begin-at-4-pm-today-8354041.html)]
+- PM Modi to hold video conference with CMs today: What to expect [[Source](https://www.moneycontrol.com/news/india/pm-modi-to-hold-video-conference-with-cms-today-what-to-expect-5248391.html)]
+- Chennai Records Biggest Daily Increase With 509 Covid-19 Cases as Tamil Nadu Becomes Third Worst-hit State [[Source](https://www.news18.com/news/india/chennai-records-biggest-daily-increase-with-509-covid-19-cases-has-over-half-of-tamil-nadus-7200-infections-2614205.html)]
+
+### 10<sup>th</sup> May, 2020
 - Govt issues new guidelines for discharging patients; check details [[Source](https://www.financialexpress.com/lifestyle/health/covid-19-recovery-govt-issues-new-guidelines-for-discharging-patients-check-details/1953231/)]
 - 62 CRPF personnel test Covid positive; total cases in force rise to 234 [[Source](https://timesofindia.indiatimes.com/india/62-crpf-personnel-test-covid-positive-total-cases-in-force-rise-to-234/articleshow/75649532.cms)]
 
@@ -40,11 +45,3 @@ layout: post
 - Liquor shops to open in all zones, only 5 people at a time [[Source](https://www.hindustantimes.com/india-news/liquor-shops-to-open-in-green-orange-zones-only-5-people-at-a-time/story-wnCRjJq1HHuN15Ng8pLasM.html)]
 - Amazon, Flipkart allowed non-essential deliveries in orange, green zones [[Source](https://www.moneycontrol.com/news/business/startup/amazon-flipkart-allowed-non-essential-deliveries-in-orange-green-zones-5212771.html)]
 - Amid attack from Trump, WHO praises China for handling coronavirus pandemic [[Source](https://www.thehindu.com/news/international/amid-attack-from-trump-who-praises-china-for-handling-coronavirus-pandemic/article31487398.ece)]
-
-### 1<sup>st</sup> May, 2020
-- White House explains why it followed Indian PM on Twitter, then unfollowed [[Source](https://www.hindustantimes.com/india-news/white-house-explains-why-it-followed-indian-pm-on-twitter-then-unfollowed/story-M1eleLwXAj9XgE9Ca3hXuJ.html)]
-- Trump confident that coronavirus may have originated in  Chinese Lab [[Source](https://timesofindia.indiatimes.com/world/us/trump-confident-that-coronavirus-may-have-originated-in-chinese-lab/articleshow/75482537.cms)]
-- Seven States Oppose Govt Plan to Send Migrant Workers by Bus as Impractical, Say Process Could Take Months [[Source](https://www.news18.com/news/india/states-seek-special-non-stop-trains-to-facilitate-return-of-migrant-workers-2599997.html)]
-- Centre lists red, green zone districts for week after May 3 [[Source](https://timesofindia.indiatimes.com/india/covid-19-centre-lists-red-green-zone-districts-for-week-after-may-3/articleshow/75489944.cms)]
-- MHA okays ‘Shramik Special trains’ for migrants, railways sets terms for travel [[Source](https://www.hindustantimes.com/india-news/mha-okays-special-trains-for-migrants-detailed-guidelines-soon/story-AkZgoQrInf5TrkHjG20rUK.html)]
-- Chief of Defence Staff General Bipin Rawat, 3 services chiefs to address press at 6pm [[Source](https://indiagoneviral.com/news/2020/05/01/chief-of-defence-staff-general-bipin-rawat-3-services-chiefs-to-address-press-at-6pm/47523/india-gone-viral/)]
