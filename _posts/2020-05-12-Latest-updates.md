@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [11<sup>th</sup> May, 2020](#updates)
+### [12<sup>th</sup> May, 2020](#updates)
+- PM Narendra Modi bats for unlocking economy, CMs divided [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modi-bats-for-unlocking-economy-cms-divided/articleshow/75674126.cms)]
+- Online passenger train booking starts on IRCTC: All you need to know [[Source](https://timesofindia.indiatimes.com/india/passenger-train-booking-to-start-at-4-pm-all-you-need-to-know/articleshow/75670313.cms)]
+
+### 11<sup>th</sup> May, 2020
 - Indian Railways to gradually restart passenger train operations from 12 May; online ticket booking will begin at 4 pm today [[Source](https://www.firstpost.com/india/indian-railways-to-gradually-restart-passenger-train-operations-from-12-may-online-ticket-booking-will-begin-at-4-pm-today-8354041.html)]
 - PM Modi to hold video conference with CMs today: What to expect [[Source](https://www.moneycontrol.com/news/india/pm-modi-to-hold-video-conference-with-cms-today-what-to-expect-5248391.html)]
 - Chennai Records Biggest Daily Increase With 509 Covid-19 Cases as Tamil Nadu Becomes Third Worst-hit State [[Source](https://www.news18.com/news/india/chennai-records-biggest-daily-increase-with-509-covid-19-cases-has-over-half-of-tamil-nadus-7200-infections-2614205.html)]
@@ -39,9 +43,3 @@ layout: post
 
 ### 3<sup>rd</sup> May, 2020
 - Special Train Carrying Over 340 Stranded Labourers Reaches Bhopal from Nashik [[Source](https://www.news18.com/news/india/special-train-carrying-over-340-stranded-labourers-reaches-bhopal-from-nashik-2602617.html)]
-
-### 2<sup>nd</sup> May, 2020
-- Lockdown 3.0: What's allowed and what's not allowed from May 4 [[Source](https://timesofindia.indiatimes.com/india/lockdown-3-0-whats-allowed-and-whats-not-allowed-after-may-4/articleshow/75495617.cms)]
-- Liquor shops to open in all zones, only 5 people at a time [[Source](https://www.hindustantimes.com/india-news/liquor-shops-to-open-in-green-orange-zones-only-5-people-at-a-time/story-wnCRjJq1HHuN15Ng8pLasM.html)]
-- Amazon, Flipkart allowed non-essential deliveries in orange, green zones [[Source](https://www.moneycontrol.com/news/business/startup/amazon-flipkart-allowed-non-essential-deliveries-in-orange-green-zones-5212771.html)]
-- Amid attack from Trump, WHO praises China for handling coronavirus pandemic [[Source](https://www.thehindu.com/news/international/amid-attack-from-trump-who-praises-china-for-handling-coronavirus-pandemic/article31487398.ece)]
