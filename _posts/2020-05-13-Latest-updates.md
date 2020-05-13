@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [12<sup>th</sup> May, 2020](#updates)
+### [13<sup>th</sup> May, 2020](#updates)
+- First day at New Delhi station: Long queues and Aarogya Setu [[Source](https://indianexpress.com/article/india/first-day-at-new-delhi-station-long-queues-and-aarogya-setu-6407337/)]
+- PM Modi announces economic package, says lockdown 4.0 will have new rules [[Source](https://indianexpress.com/article/india/pm-modi-lockdown-live-updates-8-pm-address-6405973/)]
+
+### 12<sup>th</sup> May, 2020
 - PM Narendra Modi bats for unlocking economy, CMs divided [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modi-bats-for-unlocking-economy-cms-divided/articleshow/75674126.cms)]
 - Online passenger train booking starts on IRCTC: All you need to know [[Source](https://timesofindia.indiatimes.com/india/passenger-train-booking-to-start-at-4-pm-all-you-need-to-know/articleshow/75670313.cms)]
 
@@ -40,6 +44,3 @@ layout: post
 - Lockdown 3.0: What all you can do from today, and what you can't [[Source](https://timesofindia.indiatimes.com/india/lockdown-extension-news-india-whats-allowed-and-whats-not-in-the-three-zones/articleshow/75497261.cms)]
 - Congress to bear cost of rail travel of every needy migrant worker: Sonia [[Source](https://www.tribuneindia.com/news/nation/cong-to-bear-cost-of-rail-travel-of-every-needy-migrant-worker-sonia-80221)]
 - Chaos outside liquor shops; social distancing norms not followed [[Source](https://www.thehindu.com/news/cities/Delhi/long-queues-at-liquor-shops-in-delhi-authorities-struggle-to-maintain-social-distancing/article31498934.ece)]
-
-### 3<sup>rd</sup> May, 2020
-- Special Train Carrying Over 340 Stranded Labourers Reaches Bhopal from Nashik [[Source](https://www.news18.com/news/india/special-train-carrying-over-340-stranded-labourers-reaches-bhopal-from-nashik-2602617.html)]
