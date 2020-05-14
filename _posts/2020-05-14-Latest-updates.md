@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [13<sup>th</sup> May, 2020](#updates)
+### [14<sup>th</sup> May, 2020](#updates)
+- Nirmala Sitharaman announces EPF relief, TDS rate cut; ITR filing deadline extended [[Source](https://www.livemint.com/news/india/nirmala-sitharaman-live-press-conference-to-announce-details-of-rs-20-lakh-crore-economic-package-coronavirus-latest-updates-11589364147153.html)]
+
+### 13<sup>th</sup> May, 2020
 - First day at New Delhi station: Long queues and Aarogya Setu [[Source](https://indianexpress.com/article/india/first-day-at-new-delhi-station-long-queues-and-aarogya-setu-6407337/)]
 - PM Modi announces economic package, says lockdown 4.0 will have new rules [[Source](https://indianexpress.com/article/india/pm-modi-lockdown-live-updates-8-pm-address-6405973/)]
 
@@ -39,8 +42,3 @@ layout: post
 - Indians stranded abroad to pay for flights getting them home, says minister [[Source](https://www.hindustantimes.com/india-news/indians-stranded-abroad-to-pay-for-flights-getting-them-home-says-minister/story-h28ULUBnJ2DU2WEJimkdTO.html)]
 -  NEET on July 26, JEE-Main from July 18 [[Source](https://www.thehindu.com/news/national/neet-on-july-26-iit-jee-mains-on-july-18-23/article31508371.ece)]
 -  India To Launch World's Largest Evacuation On Thursday: 10-Point Guide [[Source](https://www.ndtv.com/india-news/coronavirus-india-lockdown-14-800-stranded-indians-on-64-flights-indias-massive-evacuation-plan-2223510)]
-
-### 4<sup>th</sup> May, 2020
-- Lockdown 3.0: What all you can do from today, and what you can't [[Source](https://timesofindia.indiatimes.com/india/lockdown-extension-news-india-whats-allowed-and-whats-not-in-the-three-zones/articleshow/75497261.cms)]
-- Congress to bear cost of rail travel of every needy migrant worker: Sonia [[Source](https://www.tribuneindia.com/news/nation/cong-to-bear-cost-of-rail-travel-of-every-needy-migrant-worker-sonia-80221)]
-- Chaos outside liquor shops; social distancing norms not followed [[Source](https://www.thehindu.com/news/cities/Delhi/long-queues-at-liquor-shops-in-delhi-authorities-struggle-to-maintain-social-distancing/article31498934.ece)]
