@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [14<sup>th</sup> May, 2020](#updates)
+### [15<sup>th</sup> May, 2020](#updates)
+- Maharashtra extends lockdown in hotspot areas like Mumbai, Pune, Malegaon, Aurangabad & Solapur till May 31 [[Source](https://www.timesnownews.com/india/article/maharashtra-extends-lockdown-in-hotspot-areas-like-mumbai-pune-malegaon-aurangabad-solapur-till-may/592161)]
+- TDS payment on rent, savings scheme, mutual funds to property: Here’s clarification by Modi govt [[Source](https://www.financialexpress.com/money/income-tax/clarification-on-tds-tcs-cut-by-modi-govt-who-will-benefit-who-wont-income-tax-nirmala-sitharaman/1958970/)]
+
+### 14<sup>th</sup> May, 2020
 - Day 1: FM Sitharaman unveils loan guarantees, liquidity infusion [[Source](https://economictimes.indiatimes.com/news/economy/policy/day-1-sitharaman-unveils-loan-guarantees-liquidity-infusion/articleshow/75727655.cms)]
 
 ### 13<sup>th</sup> May, 2020
@@ -34,11 +38,3 @@ layout: post
 
 ### 6<sup>th</sup> May, 2020
 - CBSE class 10 Board exams suspended for 2020, except for northeast Delhi students: Govt [[Source](https://zeenews.india.com/india/no-cbse-class-10-exam-except-for-northeast-delhi-students-govt-2281395.html)]
-
-### 5<sup>th</sup> May, 2020
-- US has very ‘conclusive’ report on Covid-19’s China origins, says Trump [[Source](https://www.hindustantimes.com/world-news/trump-says-us-has-very-conclusive-report-on-coronavirus-s-china-origins/story-7Kp8cf7g3ExSTKgzvWpVtL.html)]
-- India opens factories after curbs, but conditions apply [[Source](https://www.livemint.com/news/india/india-opens-factories-after-curbs-but-conditions-apply-11588622047908.html)]
-- Want booze, pay more in Delhi: All you need to know about ‘special corona fee’ [[Source](https://www.hindustantimes.com/india-news/want-booze-pay-more-in-delhi-here-s-what-you-need-to-know-about-special-corona-fee/story-3petOdmHsSyMjnoAeyppbI.html)]
-- Indians stranded abroad to pay for flights getting them home, says minister [[Source](https://www.hindustantimes.com/india-news/indians-stranded-abroad-to-pay-for-flights-getting-them-home-says-minister/story-h28ULUBnJ2DU2WEJimkdTO.html)]
--  NEET on July 26, JEE-Main from July 18 [[Source](https://www.thehindu.com/news/national/neet-on-july-26-iit-jee-mains-on-july-18-23/article31508371.ece)]
--  India To Launch World's Largest Evacuation On Thursday: 10-Point Guide [[Source](https://www.ndtv.com/india-news/coronavirus-india-lockdown-14-800-stranded-indians-on-64-flights-indias-massive-evacuation-plan-2223510)]
