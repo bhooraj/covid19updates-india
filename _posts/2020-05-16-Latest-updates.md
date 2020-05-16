@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [15<sup>th</sup> May, 2020](#updates)
+### [16<sup>th</sup> May, 2020](#updates)
+- Focus on farm reforms, India crosses China’s case count: Covid-19 news today [[Source](https://www.hindustantimes.com/india-news/focus-on-farm-reforms-india-crosses-china-s-case-count-covid-19-news-today/story-pvQsNOVhHMviSwK6JgIf4L.html)]
+
+### 15<sup>th</sup> May, 2020
 - Maharashtra extends lockdown in hotspot areas like Mumbai, Pune, Malegaon, Aurangabad & Solapur till May 31 [[Source](https://www.timesnownews.com/india/article/maharashtra-extends-lockdown-in-hotspot-areas-like-mumbai-pune-malegaon-aurangabad-solapur-till-may/592161)]
 - TDS payment on rent, savings scheme, mutual funds to property: Here’s clarification by Modi govt [[Source](https://www.financialexpress.com/money/income-tax/clarification-on-tds-tcs-cut-by-modi-govt-who-will-benefit-who-wont-income-tax-nirmala-sitharaman/1958970/)]
 
@@ -35,6 +38,3 @@ layout: post
 
 ### 7<sup>th</sup> May, 2020
 - Italy claims to develop first COVID-19 vaccine: Here is the current status of all the potential coronavirus vaccines [[Source](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/italy-claims-to-develop-first-covid-19-vaccine-here-is-the-current-status-of-all-the-potential-coronavirus-vaccines/photostory/75575319.cms)]
-
-### 6<sup>th</sup> May, 2020
-- CBSE class 10 Board exams suspended for 2020, except for northeast Delhi students: Govt [[Source](https://zeenews.india.com/india/no-cbse-class-10-exam-except-for-northeast-delhi-students-govt-2281395.html)]
