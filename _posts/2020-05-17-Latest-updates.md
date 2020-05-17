@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [16<sup>th</sup> May, 2020](#updates)
+### [17<sup>th</sup> May, 2020](#updates)
+- FM Nirmala Sitharaman to announce 5th and final tranche of economic package at 11 am [[Source](https://www.hindustantimes.com/india-news/fm-nirmala-sitharaman-s-5th-and-final-phase-of-announcement-on-covid-19-economic-package-today-at-11-am/story-NrpMs0vdq4FEHvWLSJBkLN.html)]
+
+### 16<sup>th</sup> May, 2020pdates)
 - Focus on farm reforms, India crosses China’s case count: Covid-19 news today [[Source](https://www.hindustantimes.com/india-news/focus-on-farm-reforms-india-crosses-china-s-case-count-covid-19-news-today/story-pvQsNOVhHMviSwK6JgIf4L.html)]
 
 ### 15<sup>th</sup> May, 2020
@@ -35,6 +38,3 @@ layout: post
 
 ### 8<sup>th</sup> May, 2020
 - ICMR expands list of private labs from 8 to 13 for real-time RT-PCR tests for COVID-19 in Delhi [[Source](https://www.firstpost.com/health/coronavirus-outbreak-highlights-covid-19-india-today-death-count-cases-lockdown-economic-crisis-latest-news-3-8340311.html)]
-
-### 7<sup>th</sup> May, 2020
-- Italy claims to develop first COVID-19 vaccine: Here is the current status of all the potential coronavirus vaccines [[Source](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/italy-claims-to-develop-first-covid-19-vaccine-here-is-the-current-status-of-all-the-potential-coronavirus-vaccines/photostory/75575319.cms)]
