@@ -1,10 +1,13 @@
 ---
 layout: post
 ---
-### [17<sup>th</sup> May, 2020](#updates)
+### [18<sup>th</sup> May, 2020](#updates)
+- Lockdown 4.0: Here are the MHA guidelines [[Source](https://timesofindia.indiatimes.com/india/lockdown-4-0-here-are-the-mha-guidelines/articleshow/75790513.cms)]
+
+### 17<sup>th</sup> May, 2020
 - FM Nirmala Sitharaman to announce 5th and final tranche of economic package at 11 am [[Source](https://www.hindustantimes.com/india-news/fm-nirmala-sitharaman-s-5th-and-final-phase-of-announcement-on-covid-19-economic-package-today-at-11-am/story-NrpMs0vdq4FEHvWLSJBkLN.html)]
 
-### 16<sup>th</sup> May, 2020pdates)
+### 16<sup>th</sup> May, 2020
 - Focus on farm reforms, India crosses China’s case count: Covid-19 news today [[Source](https://www.hindustantimes.com/india-news/focus-on-farm-reforms-india-crosses-china-s-case-count-covid-19-news-today/story-pvQsNOVhHMviSwK6JgIf4L.html)]
 
 ### 15<sup>th</sup> May, 2020
@@ -35,6 +38,3 @@ layout: post
 - Flights carrying 335 evacuees from Riyadh, Bahrain land in Kerala [[Source](https://timesofindia.indiatimes.com/home/education/news/cbse-class-10-12-exams-to-be-held-from-july-1-to-15-hrd-ministry/articleshow/75626309.cms)]
 - CBSE to conduct pending class 10, 12 exams from July 1 to 15: HRD Ministry [[Source](https://timesofindia.indiatimes.com/home/education/news/cbse-class-10-12-exams-to-be-held-from-july-1-to-15-hrd-ministry/articleshow/75626309.cms)]
 - Have learn to live with Covid-19: Govt [[Source](https://timesofindia.indiatimes.com/india/have-to-learn-to-live-with-covid-19-govt/articleshow/75638429.cms)]
-
-### 8<sup>th</sup> May, 2020
-- ICMR expands list of private labs from 8 to 13 for real-time RT-PCR tests for COVID-19 in Delhi [[Source](https://www.firstpost.com/health/coronavirus-outbreak-highlights-covid-19-india-today-death-count-cases-lockdown-economic-crisis-latest-news-3-8340311.html)]
