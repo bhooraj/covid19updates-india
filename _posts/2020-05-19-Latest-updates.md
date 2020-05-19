@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [18<sup>th</sup> May, 2020](#updates)
+### [19<sup>th</sup> May, 2020](#updates)
+-  CBSE announces dates for pending Class X and XII examinations [[Source](https://www.thehindu.com/news/national/cbse-announces-dates-for-pending-class-x-and-xii-examinations/article31613136.ece)]
+- Ban on entry of people from 4 states, total lockdown on Sundays: Karnataka CM [[Source](https://www.hindustantimes.com/india-news/ban-on-entry-of-people-from-4-states-total-lockdown-on-sundays-karnataka-cm-yediyurappa/story-bXAzRoFNRPSv1eaGlJrD8H.html)]
+
+### 18<sup>th</sup> May, 2020
 - Lockdown 4.0: Here are the MHA guidelines [[Source](https://timesofindia.indiatimes.com/india/lockdown-4-0-here-are-the-mha-guidelines/articleshow/75790513.cms)]
 
 ### 17<sup>th</sup> May, 2020
@@ -33,8 +37,3 @@ layout: post
 ### 10<sup>th</sup> May, 2020
 - Govt issues new guidelines for discharging patients; check details [[Source](https://www.financialexpress.com/lifestyle/health/covid-19-recovery-govt-issues-new-guidelines-for-discharging-patients-check-details/1953231/)]
 - 62 CRPF personnel test Covid positive; total cases in force rise to 234 [[Source](https://timesofindia.indiatimes.com/india/62-crpf-personnel-test-covid-positive-total-cases-in-force-rise-to-234/articleshow/75649532.cms)]
-
-### 9<sup>th</sup> May, 2020
-- Flights carrying 335 evacuees from Riyadh, Bahrain land in Kerala [[Source](https://timesofindia.indiatimes.com/home/education/news/cbse-class-10-12-exams-to-be-held-from-july-1-to-15-hrd-ministry/articleshow/75626309.cms)]
-- CBSE to conduct pending class 10, 12 exams from July 1 to 15: HRD Ministry [[Source](https://timesofindia.indiatimes.com/home/education/news/cbse-class-10-12-exams-to-be-held-from-july-1-to-15-hrd-ministry/articleshow/75626309.cms)]
-- Have learn to live with Covid-19: Govt [[Source](https://timesofindia.indiatimes.com/india/have-to-learn-to-live-with-covid-19-govt/articleshow/75638429.cms)]
