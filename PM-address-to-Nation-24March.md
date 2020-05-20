@@ -1,6 +1,6 @@
 ---
-layout: page
-title: PM Address to Nation, 24th March 
+layout: default
+title: PM Address to Nation, 24th March
 ---
 ## Live Feed Ended.
 You can watch the PM Address here:
