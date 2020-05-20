@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-### [19<sup>th</sup> May, 2020](#updates)
+### [20<sup>th</sup> May, 2020](#updates)
+- Harsh Vardhan is India’s nominee for lead role in WHO, takes over on Friday [[Source](https://www.hindustantimes.com/india-news/harsh-vardhan-is-india-s-nominee-for-lead-role-in-who-takes-over-on-friday/story-kKuJTbmDveErkC1L0bc68L.html)]
+-  Railways To Run 200 Non-AC Trains Daily From June 1, Online Bookings Soon [[Source](https://www.ndtv.com/india-news/railways-to-run-200-non-ac-trains-daily-from-june-1-apart-from-migrant-specials-2231750)]
+- WHO faces virus probe after Trump ultimatum [[Source](https://timesofindia.indiatimes.com/world/rest-of-world/who-faces-virus-probe-after-trump-ultimatum/articleshow/75829887.cms)]
+
+### 19<sup>th</sup> May, 2020
 -  CBSE announces dates for pending Class X and XII examinations [[Source](https://www.thehindu.com/news/national/cbse-announces-dates-for-pending-class-x-and-xii-examinations/article31613136.ece)]
 - Ban on entry of people from 4 states, total lockdown on Sundays: Karnataka CM [[Source](https://www.hindustantimes.com/india-news/ban-on-entry-of-people-from-4-states-total-lockdown-on-sundays-karnataka-cm-yediyurappa/story-bXAzRoFNRPSv1eaGlJrD8H.html)]
 
@@ -33,7 +38,3 @@ layout: post
 - Indian Railways to gradually restart passenger train operations from 12 May; online ticket booking will begin at 4 pm today [[Source](https://www.firstpost.com/india/indian-railways-to-gradually-restart-passenger-train-operations-from-12-may-online-ticket-booking-will-begin-at-4-pm-today-8354041.html)]
 - PM Modi to hold video conference with CMs today: What to expect [[Source](https://www.moneycontrol.com/news/india/pm-modi-to-hold-video-conference-with-cms-today-what-to-expect-5248391.html)]
 - Chennai Records Biggest Daily Increase With 509 Covid-19 Cases as Tamil Nadu Becomes Third Worst-hit State [[Source](https://www.news18.com/news/india/chennai-records-biggest-daily-increase-with-509-covid-19-cases-has-over-half-of-tamil-nadus-7200-infections-2614205.html)]
-
-### 10<sup>th</sup> May, 2020
-- Govt issues new guidelines for discharging patients; check details [[Source](https://www.financialexpress.com/lifestyle/health/covid-19-recovery-govt-issues-new-guidelines-for-discharging-patients-check-details/1953231/)]
-- 62 CRPF personnel test Covid positive; total cases in force rise to 234 [[Source](https://timesofindia.indiatimes.com/india/62-crpf-personnel-test-covid-positive-total-cases-in-force-rise-to-234/articleshow/75649532.cms)]
