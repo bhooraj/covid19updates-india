@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [20<sup>th</sup> May, 2020](#updates)
+### [21<sup>st</sup> May, 2020](#updates)
+- Airspace unlockdown: Some domestic flights from May 25, says Minister Puri [[Source](https://indianexpress.com/article/india/domestic-flights-resume-may-25-india-lockdown-6420061/)]
+- Online booking on IRCTC for 200 trains to begin at 10 am today [[Source](https://www.hindustantimes.com/india-news/online-booking-for-200-trains-to-begin-at-10-am-today/story-67V6QHKVV7sR7go6hvjG4L.html)]
+
+### 20<sup>th</sup> May, 2020
 - Harsh Vardhan is India’s nominee for lead role in WHO, takes over on Friday [[Source](https://www.hindustantimes.com/india-news/harsh-vardhan-is-india-s-nominee-for-lead-role-in-who-takes-over-on-friday/story-kKuJTbmDveErkC1L0bc68L.html)]
 -  Railways To Run 200 Non-AC Trains Daily From June 1, Online Bookings Soon [[Source](https://www.ndtv.com/india-news/railways-to-run-200-non-ac-trains-daily-from-june-1-apart-from-migrant-specials-2231750)]
 - WHO faces virus probe after Trump ultimatum [[Source](https://timesofindia.indiatimes.com/world/rest-of-world/who-faces-virus-probe-after-trump-ultimatum/articleshow/75829887.cms)]
@@ -33,8 +37,3 @@ layout: post
 ### 12<sup>th</sup> May, 2020
 - PM Narendra Modi bats for unlocking economy, CMs divided [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modi-bats-for-unlocking-economy-cms-divided/articleshow/75674126.cms)]
 - Online passenger train booking starts on IRCTC: All you need to know [[Source](https://timesofindia.indiatimes.com/india/passenger-train-booking-to-start-at-4-pm-all-you-need-to-know/articleshow/75670313.cms)]
-
-### 11<sup>th</sup> May, 2020
-- Indian Railways to gradually restart passenger train operations from 12 May; online ticket booking will begin at 4 pm today [[Source](https://www.firstpost.com/india/indian-railways-to-gradually-restart-passenger-train-operations-from-12-may-online-ticket-booking-will-begin-at-4-pm-today-8354041.html)]
-- PM Modi to hold video conference with CMs today: What to expect [[Source](https://www.moneycontrol.com/news/india/pm-modi-to-hold-video-conference-with-cms-today-what-to-expect-5248391.html)]
-- Chennai Records Biggest Daily Increase With 509 Covid-19 Cases as Tamil Nadu Becomes Third Worst-hit State [[Source](https://www.news18.com/news/india/chennai-records-biggest-daily-increase-with-509-covid-19-cases-has-over-half-of-tamil-nadus-7200-infections-2614205.html)]
