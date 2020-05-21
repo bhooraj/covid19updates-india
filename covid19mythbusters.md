@@ -11,4 +11,7 @@ Illustrations shared on this page are created by [Ravi Gupta](https://www.ravigu
 <br>
 #### 2. Introducing Disinfectants into your body or drinking them does not prevent or cure COVID-19.
 <img src="/public/images/covid19mythbusters/CovidMythBusters_Disinfectants.jpg" alt="Illustration on COVID-19 myth about Disinfectants.">
+<br>
+#### 3. Superstition and Magic does not work against COVID-19.
+<img src="/public/images/covid19mythbusters/CovidMythBusters_Gurujis.jpg" alt="Illustration on COVID-19 myth about Disinfectants.">
 *Note: More Myth-busters will be added soon.*
