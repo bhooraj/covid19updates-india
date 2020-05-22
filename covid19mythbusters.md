@@ -13,5 +13,8 @@ Illustrations shared on this page are created by [Ravi Gupta](https://www.ravigu
 <img src="/public/images/covid19mythbusters/CovidMythBusters_Disinfectants.jpg" alt="Illustration on COVID-19 myth about Disinfectants.">
 <br>
 #### 3. Superstition and Magic does not work against COVID-19.
-<img src="/public/images/covid19mythbusters/CovidMythBusters_Gurujis.jpg" alt="Illustration on COVID-19 myth about Disinfectants.">
+<img src="/public/images/covid19mythbusters/CovidMythBusters_Gurujis.jpg" alt="Illustration on COVID-19 myth about Magic and Superstition.">
+<br>
+#### 4. Exposing yourself to high temperatures doesn't prevent or cure COVID-19.
+<img src="/public/images/covid19mythbusters/CovidMythBusters_Sun.jpg" alt="Illustration on COVID-19 myth about High Temperatures.">
 *Note: More Myth-busters will be added soon.*
