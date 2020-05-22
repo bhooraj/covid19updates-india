@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [21<sup>st</sup> May, 2020](#updates)
+### [22<sup>nd</sup> May, 2020](#updates)
+- RBI Governor Shaktikanta Das to hold a press conference at 10 AM today; here's what to expect [[Source](https://www.moneycontrol.com/news/business/economy/rbi-governor-shaktikanta-das-to-hold-a-press-conference-at-10-am-today-heres-what-to-expect-5300401.html)]
+
+### 21<sup>st</sup> May, 2020
 - Airspace unlockdown: Some domestic flights from May 25, says Minister Puri [[Source](https://indianexpress.com/article/india/domestic-flights-resume-may-25-india-lockdown-6420061/)]
 - Online booking on IRCTC for 200 trains to begin at 10 am today [[Source](https://www.hindustantimes.com/india-news/online-booking-for-200-trains-to-begin-at-10-am-today/story-67V6QHKVV7sR7go6hvjG4L.html)]
 
@@ -33,7 +36,3 @@ layout: post
 ### 13<sup>th</sup> May, 2020
 - First day at New Delhi station: Long queues and Aarogya Setu [[Source](https://indianexpress.com/article/india/first-day-at-new-delhi-station-long-queues-and-aarogya-setu-6407337/)]
 - PM Modi announces economic package, says lockdown 4.0 will have new rules [[Source](https://indianexpress.com/article/india/pm-modi-lockdown-live-updates-8-pm-address-6405973/)]
-
-### 12<sup>th</sup> May, 2020
-- PM Narendra Modi bats for unlocking economy, CMs divided [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modi-bats-for-unlocking-economy-cms-divided/articleshow/75674126.cms)]
-- Online passenger train booking starts on IRCTC: All you need to know [[Source](https://timesofindia.indiatimes.com/india/passenger-train-booking-to-start-at-4-pm-all-you-need-to-know/articleshow/75670313.cms)]
