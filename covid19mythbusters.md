@@ -17,4 +17,7 @@ Illustrations shared on this page are created by [Ravi Gupta](https://www.ravigu
 <br>
 #### 4. Exposing yourself to high temperature does not prevent or cure COVID-19.
 <img src="/public/images/covid19mythbusters/CovidMythBusters_Sun.jpg" alt="Illustration on COVID-19 myth about High Temperatures.">
+<br>
+#### 5. Hydroxychloroquine is not a proven drug to prevent or cure COVID-19. There are currently no drugs licensed for the treatment or prevention of COVID-19.
+<img src="/public/images/covid19mythbusters/CovidMythBusters_Hydroxychloroquine.jpg" alt="Illustration on COVID-19 myth about Hydroxychloroquine.">
 *Note: More Myth-busters will be added soon.*
