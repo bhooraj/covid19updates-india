@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [22<sup>nd</sup> May, 2020](#updates)
+### [23<sup>nd</sup> May, 2020](#updates)
+-  Maharashtra Reports Highest Single Day Spike With 2,940 Cases In A Day [[Source](https://www.ndtv.com/india-news/coronavirus-india-maharashtra-reports-highest-single-day-spike-with-2-940-cases-in-a-day-2233671)]
+
+### 22<sup>nd</sup> May, 2020
 - RBI Governor Shaktikanta Das to hold a press conference at 10 AM today; here's what to expect [[Source](https://www.moneycontrol.com/news/business/economy/rbi-governor-shaktikanta-das-to-hold-a-press-conference-at-10-am-today-heres-what-to-expect-5300401.html)]
 
 ### 21<sup>st</sup> May, 2020
@@ -32,7 +35,3 @@ layout: post
 
 ### 14<sup>th</sup> May, 2020
 - Day 1: FM Sitharaman unveils loan guarantees, liquidity infusion [[Source](https://economictimes.indiatimes.com/news/economy/policy/day-1-sitharaman-unveils-loan-guarantees-liquidity-infusion/articleshow/75727655.cms)]
-
-### 13<sup>th</sup> May, 2020
-- First day at New Delhi station: Long queues and Aarogya Setu [[Source](https://indianexpress.com/article/india/first-day-at-new-delhi-station-long-queues-and-aarogya-setu-6407337/)]
-- PM Modi announces economic package, says lockdown 4.0 will have new rules [[Source](https://indianexpress.com/article/india/pm-modi-lockdown-live-updates-8-pm-address-6405973/)]
