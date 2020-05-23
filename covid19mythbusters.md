@@ -20,4 +20,7 @@ Illustrations shared on this page are created by [Ravi Gupta](https://www.ravigu
 <br>
 #### 5. Hydroxychloroquine is not a proven drug to prevent or cure COVID-19. There are currently no drugs licensed for the treatment or prevention of COVID-19.
 <img src="/public/images/covid19mythbusters/CovidMythBusters_Hydroxychloroquine.jpg" alt="Illustration on COVID-19 myth about Hydroxychloroquine.">
+<br>
+#### 6. Antibiotics do not work against viruses.
+<img src="/public/images/covid19mythbusters/CovidMythBusters_Antibiotics.jpg" alt="Illustration on COVID-19 myth about Antibiotics.">
 *Note: More Myth-busters will be added soon.*
