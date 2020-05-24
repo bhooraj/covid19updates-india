@@ -23,4 +23,8 @@ Illustrations shared on this page are created by [Ravi Gupta](https://www.ravigu
 <br>
 #### 6. Antibiotics do not work against viruses.
 <img src="/public/images/covid19mythbusters/CovidMythBusters_Antibiotics.jpg" alt="Illustration on COVID-19 myth about Antibiotics.">
+<br>
+#### 7. Masks cannot protect against new 2019-nCoV virus when used alone.
+<img src="/public/images/covid19mythbusters/CovidMythBusters_Masks.jpg" alt="Illustration on COVID-19 myth about Antibiotics.">
+
 *Note: More Myth-busters will be added soon.*
