@@ -14,11 +14,12 @@ url:              https://covid19updates-india.bhooraj.com
 baseurl:          /
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 author:
   name:           'Ravi Gupta'
-  url:            https://www.ravigupta.me/
-
+  url:            https://bhooraj.com/
+  twitter_username: bhoowrites
 paginate:         2
 paginate_path: /page:num/
 
