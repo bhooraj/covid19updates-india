@@ -25,7 +25,10 @@ Illustrations shared on this page are created by [Ravi Gupta](https://www.ravigu
 <img src="/public/images/covid19mythbusters/CovidMythBusters_Antibiotics.jpg" alt="Illustration on COVID-19 myth about Antibiotics.">
 <br>
 #### 7. Masks cannot protect against new 2019-nCoV virus when used alone.
-<img src="/public/images/covid19mythbusters/CovidMythBusters_Masks.jpg" alt="Illustration on COVID-19 myth about Antibiotics.">
+<img src="/public/images/covid19mythbusters/CovidMythBusters_Masks.jpg" alt="Illustration on COVID-19 myth about Masks.">
+<br>
+#### 8. Old and Young can get infected with COVID-19 alike. However, the mortality rate is higher in the elderly. So, keep yourself safe to save your elderly.
+<img src="/public/images/covid19mythbusters/CovidMythBusters_Elders.jpg" alt="Illustration on COVID-19 myth about infection in younger/older people.">
 
 *Note: More Myth-busters will be added soon.*
 
