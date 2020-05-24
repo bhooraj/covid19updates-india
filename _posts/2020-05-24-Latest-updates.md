@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [23<sup>nd</sup> May, 2020](#updates)
+### [24<sup>th</sup> May, 2020](#updates)
+-  International Flights May Start "Even By Middle June": Aviation Minister [[Source](https://www.ndtv.com/india-news/coronavirus-domestic-flights-quarantine-aarogya-setu-dont-understand-quarantine-need-if-aarogya-setu-shows-green-aviation-minister-2233904)]
+
+### 23<sup>rd</sup> May, 2020
 -  Maharashtra Reports Highest Single Day Spike With 2,940 Cases In A Day [[Source](https://www.ndtv.com/india-news/coronavirus-india-maharashtra-reports-highest-single-day-spike-with-2-940-cases-in-a-day-2233671)]
 
 ### 22<sup>nd</sup> May, 2020
@@ -32,6 +35,3 @@ layout: post
 ### 15<sup>th</sup> May, 2020
 - Maharashtra extends lockdown in hotspot areas like Mumbai, Pune, Malegaon, Aurangabad & Solapur till May 31 [[Source](https://www.timesnownews.com/india/article/maharashtra-extends-lockdown-in-hotspot-areas-like-mumbai-pune-malegaon-aurangabad-solapur-till-may/592161)]
 - TDS payment on rent, savings scheme, mutual funds to property: Here’s clarification by Modi govt [[Source](https://www.financialexpress.com/money/income-tax/clarification-on-tds-tcs-cut-by-modi-govt-who-will-benefit-who-wont-income-tax-nirmala-sitharaman/1958970/)]
-
-### 14<sup>th</sup> May, 2020
-- Day 1: FM Sitharaman unveils loan guarantees, liquidity infusion [[Source](https://economictimes.indiatimes.com/news/economy/policy/day-1-sitharaman-unveils-loan-guarantees-liquidity-infusion/articleshow/75727655.cms)]
