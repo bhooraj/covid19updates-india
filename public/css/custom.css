@@ -4,3 +4,38 @@
   font-family: "Abril Fatface", serif;
   font-size: 2.75rem;
 }
+
+.btn {
+  display: inline-block;
+ margin-bottom: 0.25em;
+ padding: 0.5em 1em;
+ font-family: sans-serif;
+ font-size: 1em;
+ font-weight: bold;
+ text-align: center;
+ text-decoration: none;
+ border-width: 0;
+ border-radius: 5px;
+ cursor: pointer;
+}
+.btn-facebook{
+   color:#fff;
+   background-color:#3b5998;
+   border-color:#000
+}
+
+.btn-twitter{
+   color:#fff;
+   background-color:#1da1f2;
+   border-color:#000
+}
+
+.btn-linkedin{
+   color:#fff;
+   background-color:#0077b5;
+   border-color:#000
+}
+
+.btn-small {
+  font-size: 0.75em;
+}
