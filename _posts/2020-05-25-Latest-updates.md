@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [24<sup>th</sup> May, 2020](#updates)
+### [25<sup>th</sup> May, 2020](#updates)
+-  Thermal Checks, Flight Crew In PPE Suits As India Flies Again: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-flights-resume-thermal-checks-flight-crew-in-ppe-suits-as-india-flies-again-10-points-2234510)]
+
+### 24<sup>th</sup> May, 2020
 -  International Flights May Start "Even By Middle June": Aviation Minister [[Source](https://www.ndtv.com/india-news/coronavirus-domestic-flights-quarantine-aarogya-setu-dont-understand-quarantine-need-if-aarogya-setu-shows-green-aviation-minister-2233904)]
 
 ### 23<sup>rd</sup> May, 2020
@@ -31,7 +34,3 @@ layout: post
 
 ### 16<sup>th</sup> May, 2020
 - Focus on farm reforms, India crosses China’s case count: Covid-19 news today [[Source](https://www.hindustantimes.com/india-news/focus-on-farm-reforms-india-crosses-china-s-case-count-covid-19-news-today/story-pvQsNOVhHMviSwK6JgIf4L.html)]
-
-### 15<sup>th</sup> May, 2020
-- Maharashtra extends lockdown in hotspot areas like Mumbai, Pune, Malegaon, Aurangabad & Solapur till May 31 [[Source](https://www.timesnownews.com/india/article/maharashtra-extends-lockdown-in-hotspot-areas-like-mumbai-pune-malegaon-aurangabad-solapur-till-may/592161)]
-- TDS payment on rent, savings scheme, mutual funds to property: Here’s clarification by Modi govt [[Source](https://www.financialexpress.com/money/income-tax/clarification-on-tds-tcs-cut-by-modi-govt-who-will-benefit-who-wont-income-tax-nirmala-sitharaman/1958970/)]
