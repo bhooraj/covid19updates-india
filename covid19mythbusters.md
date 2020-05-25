@@ -32,6 +32,8 @@ Illustrations shared on this page are created by [Ravi Gupta](https://www.ravigu
 <br>
 #### 9. Covid-19 will not go away instantly after we have a vaccine. Even after successful trials, it might take a long time to produce and distribute the vaccine.
 <img src="/public/images/covid19mythbusters/CovidMythBusters_Vaccine.jpg" alt="Illustration on COVID-19 myth about vaccine.">
+#### 10. Holding your breath for 10-seconds is not a valid test for COVID-19.
+<img src="/public/images/covid19mythbusters/CovidMythBusters_HoldingBreath.jpg" alt="Illustration on COVID-19 myth about holding breath for 10-seconds.">
 *Note: More Myth-busters will be added soon.*
 
 <div class="page-share">
