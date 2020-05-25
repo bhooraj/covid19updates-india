@@ -29,7 +29,9 @@ Illustrations shared on this page are created by [Ravi Gupta](https://www.ravigu
 <br>
 #### 8. Old and Young can get infected with COVID-19 alike. However, the mortality rate is higher in the elderly. So, keep yourself safe to save your elderly.
 <img src="/public/images/covid19mythbusters/CovidMythBusters_Elders.jpg" alt="Illustration on COVID-19 myth about infection in younger/older people.">
-
+<br>
+#### 9. Covid-19 will not go away instantly after we have a vaccine. Even after successful trials, it might take a long time to produce and distribute the vaccine.
+<img src="/public/images/covid19mythbusters/CovidMythBusters_Vaccine.jpg" alt="Illustration on COVID-19 myth about vaccine.">
 *Note: More Myth-busters will be added soon.*
 
 <div class="page-share">
