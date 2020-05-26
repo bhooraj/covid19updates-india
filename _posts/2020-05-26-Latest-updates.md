@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [25<sup>th</sup> May, 2020](#updates)
+### [26<sup>th</sup> May, 2020](#updates)
+- 630 flights cancelled on first day [[Source](https://www.tribuneindia.com/news/nation/630-flights-cancelled-on-first-day-89979)]
+- From 14-day quarantine to 7 days home isolation: Guidelines for domestic air travellers from today [[Source](https://www.hindustantimes.com/india-news/from-14-day-quarantine-to-7-days-home-isolation-guidelines-for-domestic-air-travellers-from-today/story-Y4YND1LR3CTZBUL7ykLf0K.html)]
+
+### 25<sup>th</sup> May, 2020
 -  Thermal Checks, Flight Crew In PPE Suits As India Flies Again: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-flights-resume-thermal-checks-flight-crew-in-ppe-suits-as-india-flies-again-10-points-2234510)]
 
 ### 24<sup>th</sup> May, 2020
@@ -31,6 +35,3 @@ layout: post
 
 ### 17<sup>th</sup> May, 2020
 - FM Nirmala Sitharaman to announce 5th and final tranche of economic package at 11 am [[Source](https://www.hindustantimes.com/india-news/fm-nirmala-sitharaman-s-5th-and-final-phase-of-announcement-on-covid-19-economic-package-today-at-11-am/story-NrpMs0vdq4FEHvWLSJBkLN.html)]
-
-### 16<sup>th</sup> May, 2020
-- Focus on farm reforms, India crosses China’s case count: Covid-19 news today [[Source](https://www.hindustantimes.com/india-news/focus-on-farm-reforms-india-crosses-china-s-case-count-covid-19-news-today/story-pvQsNOVhHMviSwK6JgIf4L.html)]
