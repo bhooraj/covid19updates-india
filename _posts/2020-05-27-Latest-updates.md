@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-### [26<sup>th</sup> May, 2020](#updates)
+### 26<sup>th</sup> May, 2020
 - 630 flights cancelled on first day [[Source](https://www.tribuneindia.com/news/nation/630-flights-cancelled-on-first-day-89979)]
 - From 14-day quarantine to 7 days home isolation: Guidelines for domestic air travellers from today [[Source](https://www.hindustantimes.com/india-news/from-14-day-quarantine-to-7-days-home-isolation-guidelines-for-domestic-air-travellers-from-today/story-Y4YND1LR3CTZBUL7ykLf0K.html)]
 
@@ -32,6 +32,3 @@ layout: post
 
 ### 18<sup>th</sup> May, 2020
 - Lockdown 4.0: Here are the MHA guidelines [[Source](https://timesofindia.indiatimes.com/india/lockdown-4-0-here-are-the-mha-guidelines/articleshow/75790513.cms)]
-
-### 17<sup>th</sup> May, 2020
-- FM Nirmala Sitharaman to announce 5th and final tranche of economic package at 11 am [[Source](https://www.hindustantimes.com/india-news/fm-nirmala-sitharaman-s-5th-and-final-phase-of-announcement-on-covid-19-economic-package-today-at-11-am/story-NrpMs0vdq4FEHvWLSJBkLN.html)]
