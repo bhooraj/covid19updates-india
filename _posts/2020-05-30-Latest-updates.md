@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [29<sup>th</sup> May, 2020](#updates)
+### [30<sup>th</sup> May, 2020](#updates)
+- Meerut: Monkeys run away with COVID-19 test samples, locals fear spread of infection [[Source](https://www.timesnownews.com/mirror-now/in-focus/article/meerut-monkeys-run-away-with-covid-19-test-samples-locals-fear-spread-of-infection/598669)]
+- Lockdown 5.0 guidelines: What is likely to open, remain closed? [[Source](https://indianexpress.com/article/india/lockdown-5-0-new-guidelines-likely-changes-rules-6432671/)]
+
+### 29<sup>th</sup> May, 2020
 - Railways restores tatkal, 4-month advance booking [[Source](https://www.livemint.com/news/india/railways-restores-tatkal-4-month-advance-booking-11590683771801.html)]
 - In lockdown 5.0, states ask for curbs only in containment zones [[Source](https://www.hindustantimes.com/india-news/in-lockdown-5-0-states-ask-for-curbs-only-in-containment-zones/story-5rbxlsJvmzMFTs4VDVvUKJ.html)]
 
@@ -28,8 +32,3 @@ layout: post
 ### 21<sup>st</sup> May, 2020
 - Airspace unlockdown: Some domestic flights from May 25, says Minister Puri [[Source](https://indianexpress.com/article/india/domestic-flights-resume-may-25-india-lockdown-6420061/)]
 - Online booking on IRCTC for 200 trains to begin at 10 am today [[Source](https://www.hindustantimes.com/india-news/online-booking-for-200-trains-to-begin-at-10-am-today/story-67V6QHKVV7sR7go6hvjG4L.html)]
-
-### 20<sup>th</sup> May, 2020
-- Harsh Vardhan is India’s nominee for lead role in WHO, takes over on Friday [[Source](https://www.hindustantimes.com/india-news/harsh-vardhan-is-india-s-nominee-for-lead-role-in-who-takes-over-on-friday/story-kKuJTbmDveErkC1L0bc68L.html)]
--  Railways To Run 200 Non-AC Trains Daily From June 1, Online Bookings Soon [[Source](https://www.ndtv.com/india-news/railways-to-run-200-non-ac-trains-daily-from-june-1-apart-from-migrant-specials-2231750)]
-- WHO faces virus probe after Trump ultimatum [[Source](https://timesofindia.indiatimes.com/world/rest-of-world/who-faces-virus-probe-after-trump-ultimatum/articleshow/75829887.cms)]
