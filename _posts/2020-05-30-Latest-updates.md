@@ -4,6 +4,7 @@ layout: post
 ### [30<sup>th</sup> May, 2020](#updates)
 - Meerut: Monkeys run away with COVID-19 test samples, locals fear spread of infection [[Source](https://www.timesnownews.com/mirror-now/in-focus/article/meerut-monkeys-run-away-with-covid-19-test-samples-locals-fear-spread-of-infection/598669)]
 - Lockdown 5.0 guidelines: What is likely to open, remain closed? [[Source](https://indianexpress.com/article/india/lockdown-5-0-new-guidelines-likely-changes-rules-6432671/)]
+- Air India Delhi-Moscow flight called back after pilot found corona positive [[Source](https://timesofindia.indiatimes.com/business/india-business/air-india-delhi-moscow-flights-called-back-from-over-uzbekistan-after-pilot-found-corona-positive/articleshow/76104853.cms)]
 
 ### 29<sup>th</sup> May, 2020
 - Railways restores tatkal, 4-month advance booking [[Source](https://www.livemint.com/news/india/railways-restores-tatkal-4-month-advance-booking-11590683771801.html)]
