@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [30<sup>th</sup> May, 2020](#updates)
+### [31<sup>st</sup> May, 2020](#updates)
+- Unlock 1.0: What's open & from when in MHA's phase-wise reopening plan [[Source](https://timesofindia.indiatimes.com/india/unlock-1-0-whats-open-and-from-when/articleshow/76109536.cms)]
+
+### 30<sup>th</sup> May, 2020
 - Meerut: Monkeys run away with COVID-19 test samples, locals fear spread of infection [[Source](https://www.timesnownews.com/mirror-now/in-focus/article/meerut-monkeys-run-away-with-covid-19-test-samples-locals-fear-spread-of-infection/598669)]
 - Lockdown 5.0 guidelines: What is likely to open, remain closed? [[Source](https://indianexpress.com/article/india/lockdown-5-0-new-guidelines-likely-changes-rules-6432671/)]
 - Air India Delhi-Moscow flight called back after pilot found corona positive [[Source](https://timesofindia.indiatimes.com/business/india-business/air-india-delhi-moscow-flights-called-back-from-over-uzbekistan-after-pilot-found-corona-positive/articleshow/76104853.cms)]
@@ -29,7 +32,3 @@ layout: post
 
 ### 22<sup>nd</sup> May, 2020
 - RBI Governor Shaktikanta Das to hold a press conference at 10 AM today; here's what to expect [[Source](https://www.moneycontrol.com/news/business/economy/rbi-governor-shaktikanta-das-to-hold-a-press-conference-at-10-am-today-heres-what-to-expect-5300401.html)]
-
-### 21<sup>st</sup> May, 2020
-- Airspace unlockdown: Some domestic flights from May 25, says Minister Puri [[Source](https://indianexpress.com/article/india/domestic-flights-resume-may-25-india-lockdown-6420061/)]
-- Online booking on IRCTC for 200 trains to begin at 10 am today [[Source](https://www.hindustantimes.com/india-news/online-booking-for-200-trains-to-begin-at-10-am-today/story-67V6QHKVV7sR7go6hvjG4L.html)]
