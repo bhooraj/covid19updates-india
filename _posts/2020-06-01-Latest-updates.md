@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [31<sup>st</sup> May, 2020](#updates)
+### [1<sup>st</sup> June, 2020](#updates)
+- Lockdown 5.0: Haryana likely to ease all border curbs today [[Source](https://www.hindustantimes.com/gurugram/lockdown-5-0-haryana-likely-to-ease-all-border-curbs-today/story-OhTqacYTFa7NWzn5mEIL9J.html)]
+- Railways resumes operations, 1.5 lakh to board 200 trains today [[Source](https://timesofindia.indiatimes.com/india/railways-resumes-operations-1-5-lakh-to-board-200-trains-today/articleshow/76126516.cms)]
+
+### 31<sup>st</sup> May, 2020
 - Unlock 1.0: What's open & from when in MHA's phase-wise reopening plan [[Source](https://timesofindia.indiatimes.com/india/unlock-1-0-whats-open-and-from-when/articleshow/76109536.cms)]
 
 ### 30<sup>th</sup> May, 2020
@@ -29,6 +33,3 @@ layout: post
 
 ### 23<sup>rd</sup> May, 2020
 -  Maharashtra Reports Highest Single Day Spike With 2,940 Cases In A Day [[Source](https://www.ndtv.com/india-news/coronavirus-india-maharashtra-reports-highest-single-day-spike-with-2-940-cases-in-a-day-2233671)]
-
-### 22<sup>nd</sup> May, 2020
-- RBI Governor Shaktikanta Das to hold a press conference at 10 AM today; here's what to expect [[Source](https://www.moneycontrol.com/news/business/economy/rbi-governor-shaktikanta-das-to-hold-a-press-conference-at-10-am-today-heres-what-to-expect-5300401.html)]
