@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [1<sup>st</sup> June, 2020](#updates)
+### [2<sup>nd</sup> June, 2020](#updates)
+- Unlock 1 to see intra-state buses, taxis back in Uttar Pradesh, hints Yogi Adityanath [[Source](https://www.hindustantimes.com/lucknow/unlock-1-to-see-intra-state-buses-taxis-back-in-uttar-pradesh-hints-yogi-adityanath/story-XNUGERXxo3k8WkRffd0TbL.html)]
+
+### 1<sup>st</sup> June, 2020
 - Lockdown 5.0: Haryana likely to ease all border curbs today [[Source](https://www.hindustantimes.com/gurugram/lockdown-5-0-haryana-likely-to-ease-all-border-curbs-today/story-OhTqacYTFa7NWzn5mEIL9J.html)]
 - Railways resumes operations, 1.5 lakh to board 200 trains today [[Source](https://timesofindia.indiatimes.com/india/railways-resumes-operations-1-5-lakh-to-board-200-trains-today/articleshow/76126516.cms)]
 
@@ -30,6 +33,3 @@ layout: post
 
 ### 24<sup>th</sup> May, 2020
 -  International Flights May Start "Even By Middle June": Aviation Minister [[Source](https://www.ndtv.com/india-news/coronavirus-domestic-flights-quarantine-aarogya-setu-dont-understand-quarantine-need-if-aarogya-setu-shows-green-aviation-minister-2233904)]
-
-### 23<sup>rd</sup> May, 2020
--  Maharashtra Reports Highest Single Day Spike With 2,940 Cases In A Day [[Source](https://www.ndtv.com/india-news/coronavirus-india-maharashtra-reports-highest-single-day-spike-with-2-940-cases-in-a-day-2233671)]
