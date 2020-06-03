@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [2<sup>nd</sup> June, 2020](#updates)
+### [3<sup>rd</sup> June, 2020](#updates)
+- Covid-19: India allows emergency use of remdesivir [[Source](https://www.hindustantimes.com/india-news/dcgi-nod-for-emergency-use-of-remdesivir/story-JJ5156zen4IiiYvgRZaJ0N.html)]
+
+### 2<sup>nd</sup> June, 2020
 - Unlock 1 to see intra-state buses, taxis back in Uttar Pradesh, hints Yogi Adityanath [[Source](https://www.hindustantimes.com/lucknow/unlock-1-to-see-intra-state-buses-taxis-back-in-uttar-pradesh-hints-yogi-adityanath/story-XNUGERXxo3k8WkRffd0TbL.html)]
 
 ### 1<sup>st</sup> June, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 25<sup>th</sup> May, 2020
 -  Thermal Checks, Flight Crew In PPE Suits As India Flies Again: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-flights-resume-thermal-checks-flight-crew-in-ppe-suits-as-india-flies-again-10-points-2234510)]
-
-### 24<sup>th</sup> May, 2020
--  International Flights May Start "Even By Middle June": Aviation Minister [[Source](https://www.ndtv.com/india-news/coronavirus-domestic-flights-quarantine-aarogya-setu-dont-understand-quarantine-need-if-aarogya-setu-shows-green-aviation-minister-2233904)]
