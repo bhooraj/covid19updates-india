@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [3<sup>rd</sup> June, 2020](#updates)
+### [4<sup>th</sup> June, 2020](#updates)
+- 7-Day Home Quarantine For All Arriving In Delhi By Flights, Trains, Buses [[Source](https://www.ndtv.com/india-news/7-day-home-quarantine-for-all-arriving-in-delhi-by-flights-trains-buses-2240272)]
+- India's defence secretary tests positive for Covid-19 [[Source](https://timesofindia.indiatimes.com/india/indias-defence-secretary-tests-positive-for-covid-19/articleshow/76184118.cms)]
+
+### 3<sup>rd</sup> June, 2020
 - Covid-19: India allows emergency use of remdesivir [[Source](https://www.hindustantimes.com/india-news/dcgi-nod-for-emergency-use-of-remdesivir/story-JJ5156zen4IiiYvgRZaJ0N.html)]
 
 ### 2<sup>nd</sup> June, 2020
@@ -30,6 +34,3 @@ layout: post
 ### 26<sup>th</sup> May, 2020
 - 630 flights cancelled on first day [[Source](https://www.tribuneindia.com/news/nation/630-flights-cancelled-on-first-day-89979)]
 - From 14-day quarantine to 7 days home isolation: Guidelines for domestic air travellers from today [[Source](https://www.hindustantimes.com/india-news/from-14-day-quarantine-to-7-days-home-isolation-guidelines-for-domestic-air-travellers-from-today/story-Y4YND1LR3CTZBUL7ykLf0K.html)]
-
-### 25<sup>th</sup> May, 2020
--  Thermal Checks, Flight Crew In PPE Suits As India Flies Again: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-lockdown-flights-resume-thermal-checks-flight-crew-in-ppe-suits-as-india-flies-again-10-points-2234510)]
