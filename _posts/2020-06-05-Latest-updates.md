@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [4<sup>th</sup> June, 2020](#updates)
+### [5<sup>th</sup> June, 2020](#updates)
+- No power to direct private hospitals to treat Covid-19 patients free, Centre tells SC [[Source](https://timesofindia.indiatimes.com/india/no-power-to-direct-private-hospitals-to-treat-covid-19-patients-free-centre-tells-sc/articleshow/76205637.cms)]
+
+### 4<sup>th</sup> June, 2020
 - 7-Day Home Quarantine For All Arriving In Delhi By Flights, Trains, Buses [[Source](https://www.ndtv.com/india-news/7-day-home-quarantine-for-all-arriving-in-delhi-by-flights-trains-buses-2240272)]
 - India's defence secretary tests positive for Covid-19 [[Source](https://timesofindia.indiatimes.com/india/indias-defence-secretary-tests-positive-for-covid-19/articleshow/76184118.cms)]
 
@@ -30,7 +33,3 @@ layout: post
 ### 28<sup>th</sup> May, 2020
 - When Delhi Metro reopens, spitting may cost you Rs 1,000 [[Source](https://timesofindia.indiatimes.com/city/delhi/when-delhi-metro-reopens-spitting-may-cost-you-rs-1000/articleshow/76015652.cms)]
 - Nearly 800 coronavirus cases: Highest single-day spike for New Delhi [[Source](https://www.newindianexpress.com/cities/delhi/2020/may/28/nearly-800-coronavirus-cases-highest-single-day-spike-for-new-delhi-2149031.html)]
-
-### 26<sup>th</sup> May, 2020
-- 630 flights cancelled on first day [[Source](https://www.tribuneindia.com/news/nation/630-flights-cancelled-on-first-day-89979)]
-- From 14-day quarantine to 7 days home isolation: Guidelines for domestic air travellers from today [[Source](https://www.hindustantimes.com/india-news/from-14-day-quarantine-to-7-days-home-isolation-guidelines-for-domestic-air-travellers-from-today/story-Y4YND1LR3CTZBUL7ykLf0K.html)]
