@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [5<sup>th</sup> June, 2020](#updates)
+### [6<sup>th</sup> June, 2020](#updates)
+- India Crosses 2.35 Lakh Coronavirus Cases, Overtakes Italy For 6th Spot [[Source](https://www.ndtv.com/india-news/coronavirus-india-crosses-2-35-lakh-covid-19-cases-overtakes-italy-for-6th-spot-2241583)]
+
+### 5<sup>th</sup> June, 2020
 - No power to direct private hospitals to treat Covid-19 patients free, Centre tells SC [[Source](https://timesofindia.indiatimes.com/india/no-power-to-direct-private-hospitals-to-treat-covid-19-patients-free-centre-tells-sc/articleshow/76205637.cms)]
 
 ### 4<sup>th</sup> June, 2020
