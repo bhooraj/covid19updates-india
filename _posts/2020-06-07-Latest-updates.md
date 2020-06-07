@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [6<sup>th</sup> June, 2020](#updates)
+### [7<sup>th</sup> June, 2020](#updates)
+- Covid tally: India overtakes Spain, 5th highest in world [[Source](https://timesofindia.indiatimes.com/india/india-overtakes-spain-covid-count-5th-highest-in-world/articleshow/76240195.cms)]
+
+### 6<sup>th</sup> June, 2020
 - India Crosses 2.35 Lakh Coronavirus Cases, Overtakes Italy For 6th Spot [[Source](https://www.ndtv.com/india-news/coronavirus-india-crosses-2-35-lakh-covid-19-cases-overtakes-italy-for-6th-spot-2241583)]
 
 ### 5<sup>th</sup> June, 2020
@@ -32,7 +35,3 @@ layout: post
 ### 29<sup>th</sup> May, 2020
 - Railways restores tatkal, 4-month advance booking [[Source](https://www.livemint.com/news/india/railways-restores-tatkal-4-month-advance-booking-11590683771801.html)]
 - In lockdown 5.0, states ask for curbs only in containment zones [[Source](https://www.hindustantimes.com/india-news/in-lockdown-5-0-states-ask-for-curbs-only-in-containment-zones/story-5rbxlsJvmzMFTs4VDVvUKJ.html)]
-
-### 28<sup>th</sup> May, 2020
-- When Delhi Metro reopens, spitting may cost you Rs 1,000 [[Source](https://timesofindia.indiatimes.com/city/delhi/when-delhi-metro-reopens-spitting-may-cost-you-rs-1000/articleshow/76015652.cms)]
-- Nearly 800 coronavirus cases: Highest single-day spike for New Delhi [[Source](https://www.newindianexpress.com/cities/delhi/2020/may/28/nearly-800-coronavirus-cases-highest-single-day-spike-for-new-delhi-2149031.html)]
