@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [8<sup>th</sup> June, 2020](#updates)
+### [9<sup>th</sup> June, 2020](#updates)
+- WHO says pandemic ‘far from over’ as daily cases hit record high [[Source](https://indianexpress.com/article/coronavirus/who-says-pandemic-far-from-over-as-daily-cases-hit-record-high-6449625/)]
+
+### 8<sup>th</sup> June, 2020
 - Covid cases cross 2.5L, toll 7k as malls, shrines set to open [[Source](https://timesofindia.indiatimes.com/india/covid-cases-cross-2-5l-toll-7k-as-malls-shrines-set-to-open/articleshow/76251500.cms)]
 
 ### 7<sup>th</sup> June, 2020
@@ -29,8 +32,3 @@ layout: post
 
 ### 31<sup>st</sup> May, 2020
 - Unlock 1.0: What's open & from when in MHA's phase-wise reopening plan [[Source](https://timesofindia.indiatimes.com/india/unlock-1-0-whats-open-and-from-when/articleshow/76109536.cms)]
-
-### 30<sup>th</sup> May, 2020
-- Meerut: Monkeys run away with COVID-19 test samples, locals fear spread of infection [[Source](https://www.timesnownews.com/mirror-now/in-focus/article/meerut-monkeys-run-away-with-covid-19-test-samples-locals-fear-spread-of-infection/598669)]
-- Lockdown 5.0 guidelines: What is likely to open, remain closed? [[Source](https://indianexpress.com/article/india/lockdown-5-0-new-guidelines-likely-changes-rules-6432671/)]
-- Air India Delhi-Moscow flight called back after pilot found corona positive [[Source](https://timesofindia.indiatimes.com/business/india-business/air-india-delhi-moscow-flights-called-back-from-over-uzbekistan-after-pilot-found-corona-positive/articleshow/76104853.cms)]
