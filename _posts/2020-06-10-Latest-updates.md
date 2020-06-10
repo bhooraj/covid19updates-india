@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [9<sup>th</sup> June, 2020](#updates)
+### [10<sup>th</sup> June, 2020](#updates)
+- J Anbazhagan, DMK MLA, dies of Covid-19 in Chennai [[Source](https://timesofindia.indiatimes.com/city/chennai/j-anbazhagan-dmk-mla-dies-of-covid-19-in-chennai/articleshow/76294406.cms)]
+
+### 9<sup>th</sup> June, 2020
 - WHO says pandemic ‘far from over’ as daily cases hit record high [[Source](https://indianexpress.com/article/coronavirus/who-says-pandemic-far-from-over-as-daily-cases-hit-record-high-6449625/)]
 
 ### 8<sup>th</sup> June, 2020
@@ -29,6 +32,3 @@ layout: post
 ### 1<sup>st</sup> June, 2020
 - Lockdown 5.0: Haryana likely to ease all border curbs today [[Source](https://www.hindustantimes.com/gurugram/lockdown-5-0-haryana-likely-to-ease-all-border-curbs-today/story-OhTqacYTFa7NWzn5mEIL9J.html)]
 - Railways resumes operations, 1.5 lakh to board 200 trains today [[Source](https://timesofindia.indiatimes.com/india/railways-resumes-operations-1-5-lakh-to-board-200-trains-today/articleshow/76126516.cms)]
-
-### 31<sup>st</sup> May, 2020
-- Unlock 1.0: What's open & from when in MHA's phase-wise reopening plan [[Source](https://timesofindia.indiatimes.com/india/unlock-1-0-whats-open-and-from-when/articleshow/76109536.cms)]
