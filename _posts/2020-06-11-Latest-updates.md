@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [10<sup>th</sup> June, 2020](#updates)
+### [11<sup>th</sup> June, 2020](#updates)
+- Covid-19: Maharashtra sees record spike in both daily cases and deaths [[Source](https://www.livemint.com/news/india/covid-19-maharashtra-sees-record-spike-in-both-daily-cases-and-deaths-11591799569155.html)]
+-  28 CRPF Personnel Posted In Kashmir Test COVID-19 Positive  [[Source](https://www.ndtv.com/india-news/coronavirus-india-28-crpf-personnel-posted-in-kashmir-test-covid-19-positive-2244179)]
+
+### 10<sup>th</sup> June, 2020
 - J Anbazhagan, DMK MLA, dies of Covid-19 in Chennai [[Source](https://timesofindia.indiatimes.com/city/chennai/j-anbazhagan-dmk-mla-dies-of-covid-19-in-chennai/articleshow/76294406.cms)]
 
 ### 9<sup>th</sup> June, 2020
@@ -28,7 +32,3 @@ layout: post
 
 ### 2<sup>nd</sup> June, 2020
 - Unlock 1 to see intra-state buses, taxis back in Uttar Pradesh, hints Yogi Adityanath [[Source](https://www.hindustantimes.com/lucknow/unlock-1-to-see-intra-state-buses-taxis-back-in-uttar-pradesh-hints-yogi-adityanath/story-XNUGERXxo3k8WkRffd0TbL.html)]
-
-### 1<sup>st</sup> June, 2020
-- Lockdown 5.0: Haryana likely to ease all border curbs today [[Source](https://www.hindustantimes.com/gurugram/lockdown-5-0-haryana-likely-to-ease-all-border-curbs-today/story-OhTqacYTFa7NWzn5mEIL9J.html)]
-- Railways resumes operations, 1.5 lakh to board 200 trains today [[Source](https://timesofindia.indiatimes.com/india/railways-resumes-operations-1-5-lakh-to-board-200-trains-today/articleshow/76126516.cms)]
