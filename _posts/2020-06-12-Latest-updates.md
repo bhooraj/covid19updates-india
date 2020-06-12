@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [11<sup>th</sup> June, 2020](#updates)
+### [12<sup>th</sup> June, 2020](#updates)
+- India now no. 4 as fresh Covid cases and deaths touch record high [[Source](https://timesofindia.indiatimes.com/india/india-now-no-4-as-fresh-covid-cases-and-deaths-touch-record-highs/articleshow/76331287.cms)]
+
+### 11<sup>th</sup> June, 2020
 - Covid-19: Maharashtra sees record spike in both daily cases and deaths [[Source](https://www.livemint.com/news/india/covid-19-maharashtra-sees-record-spike-in-both-daily-cases-and-deaths-11591799569155.html)]
 -  28 CRPF Personnel Posted In Kashmir Test COVID-19 Positive  [[Source](https://www.ndtv.com/india-news/coronavirus-india-28-crpf-personnel-posted-in-kashmir-test-covid-19-positive-2244179)]
 
@@ -29,6 +32,3 @@ layout: post
 
 ### 3<sup>rd</sup> June, 2020
 - Covid-19: India allows emergency use of remdesivir [[Source](https://www.hindustantimes.com/india-news/dcgi-nod-for-emergency-use-of-remdesivir/story-JJ5156zen4IiiYvgRZaJ0N.html)]
-
-### 2<sup>nd</sup> June, 2020
-- Unlock 1 to see intra-state buses, taxis back in Uttar Pradesh, hints Yogi Adityanath [[Source](https://www.hindustantimes.com/lucknow/unlock-1-to-see-intra-state-buses-taxis-back-in-uttar-pradesh-hints-yogi-adityanath/story-XNUGERXxo3k8WkRffd0TbL.html)]
