@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [13<sup>th</sup> June, 2020](#updates)
+### [14<sup>th</sup> June, 2020](#updates)
+-  11,929 Coronavirus Cases In India In 24 hours, 3.2 Lakh Total Cases: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-11-929-coronavirus-cases-in-india-in-24-hours-3-2-lakh-total-cases-2245976)]
+
+### 13<sup>th</sup> June, 2020
 - PM Modi to interact with CMs on June 16-17 [[Source](https://timesofindia.indiatimes.com/india/pm-modi-to-interact-with-cms-on-june-16-17/articleshow/76350676.cms)]
 - India records single-day spike of over 10,000 new Covid-19 cases for first time [[Source](https://timesofindia.indiatimes.com/india/india-records-single-day-spike-of-over-10000-new-covid-19-cases-for-first-time/articleshow/76333858.cms)]
 
@@ -29,7 +32,3 @@ layout: post
 
 ### 5<sup>th</sup> June, 2020
 - No power to direct private hospitals to treat Covid-19 patients free, Centre tells SC [[Source](https://timesofindia.indiatimes.com/india/no-power-to-direct-private-hospitals-to-treat-covid-19-patients-free-centre-tells-sc/articleshow/76205637.cms)]
-
-### 4<sup>th</sup> June, 2020
-- 7-Day Home Quarantine For All Arriving In Delhi By Flights, Trains, Buses [[Source](https://www.ndtv.com/india-news/7-day-home-quarantine-for-all-arriving-in-delhi-by-flights-trains-buses-2240272)]
-- India's defence secretary tests positive for Covid-19 [[Source](https://timesofindia.indiatimes.com/india/indias-defence-secretary-tests-positive-for-covid-19/articleshow/76184118.cms)]
