@@ -11,7 +11,9 @@ language: Hindi
 #### 1. शराब पीने से COVID-19 को रोका या ठीक नहीं किया जाता है।
 <img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Alcohol_hindi.jpg" alt="Illustration on COVID-19 myth about alcohol.">
 <br>
-
+#### 2. कीटाणुनाशक को पीने से COVID-19 को रोका या ठीक नहीं किया जा सकता है।
+<img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Disinfectants_hindi.jpg" alt="Illustration on COVID-19 myth about Disinfectants.">
+<br>
 *Note: More Myth-busters will be added soon.*
 
 <div class="page-share">
