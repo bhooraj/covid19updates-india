@@ -8,11 +8,14 @@ language: Hindi
 
 इस पृष्ठ पर साझा किए गए चित्र [रवि गुप्ता](https://www.ravigupta.me/) द्वारा बनाए गए हैं, और [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) लाइसेंस के तहत जारी किए गए हैं।
 
-#### 1. शराब पीने से COVID-19 को रोका या ठीक नहीं किया जाता है।
+### 1. शराब पीने से COVID-19 को रोका या ठीक नहीं किया जाता है।
 <img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Alcohol_hindi.jpg" alt="Illustration on COVID-19 myth about alcohol.">
 <br>
-#### 2. कीटाणुनाशक को पीने से COVID-19 को रोका या ठीक नहीं किया जा सकता है।
+### 2. कीटाणुनाशक को पीने से COVID-19 को रोका या ठीक नहीं किया जा सकता है।
 <img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Disinfectants_hindi.jpg" alt="Illustration on COVID-19 myth about Disinfectants.">
+<br>
+### 3. जादू-टोना COVID-19 के खिलाफ काम नहीं करता।
+<img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Gurujis_hindi.jpg" alt="Illustration on COVID-19 myth about Magic and Superstition.">
 <br>
 *Note: More Myth-busters will be added soon.*
 
