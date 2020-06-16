@@ -1,10 +1,13 @@
 ---
 layout: post
 ---
-### [15<sup>th</sup> June, 2020](#updates)
+### [16<sup>th</sup> June, 2020](#updates)
+- Chennai will switch to shutdown mode for 12 days again: Tamil Nadu CM [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/chennai-will-switch-to-shutdown-mode-for-12-days-again-tamil-nadu-cm/articleshow/76386971.cms)]
+
+### 15<sup>th</sup> June, 2020
 - Testing to be tripled in Delhi, 500 rail coaches turned into care centres [[Source](https://timesofindia.indiatimes.com/city/delhi/testing-to-be-tripled-in-delhi-500-rail-coaches-turned-into-care-centres/articleshow/76377292.cms)]
 
-### [14<sup>th</sup> June, 2020
+### 14<sup>th</sup> June, 2020
 -  11,929 Coronavirus Cases In India In 24 hours, 3.2 Lakh Total Cases: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-11-929-coronavirus-cases-in-india-in-24-hours-3-2-lakh-total-cases-2245976)]
 
 ### 13<sup>th</sup> June, 2020
@@ -29,6 +32,3 @@ layout: post
 
 ### 7<sup>th</sup> June, 2020
 - Covid tally: India overtakes Spain, 5th highest in world [[Source](https://timesofindia.indiatimes.com/india/india-overtakes-spain-covid-count-5th-highest-in-world/articleshow/76240195.cms)]
-
-### 6<sup>th</sup> June, 2020
-- India Crosses 2.35 Lakh Coronavirus Cases, Overtakes Italy For 6th Spot [[Source](https://www.ndtv.com/india-news/coronavirus-india-crosses-2-35-lakh-covid-19-cases-overtakes-italy-for-6th-spot-2241583)]
