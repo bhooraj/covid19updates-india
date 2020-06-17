@@ -17,6 +17,9 @@ language: Hindi
 ### 3. जादू-टोना COVID-19 के खिलाफ काम नहीं करता।
 <img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Gurujis_hindi.jpg" alt="Illustration on COVID-19 myth about Magic and Superstition.">
 <br>
+### 4. उच्च तापमान पर अपने शरीर को रखना COVID-19 को रोकता या ठीक नहीं करता।
+<img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Sun_hindi.jpg" alt="Illustration on COVID-19 myth about High Temperatures.">
+<br>
 *Note: More Myth-busters will be added soon.*
 
 <div class="page-share">
