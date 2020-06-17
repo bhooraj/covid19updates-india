@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [16<sup>th</sup> June, 2020](#updates)
+### [17<sup>th</sup> June, 2020](#updates)
+- Day 2 of PM Modi’s consultation with chief ministers on Covid-19 today [[Source](https://www.hindustantimes.com/india-news/day-2-of-pm-modi-s-consultation-with-chief-ministers-on-covid-19-today/story-NmTqP5SFceNtuYYnCog4WJ.html)]
+
+### 16<sup>th</sup> June, 2020
 - Chennai will switch to shutdown mode for 12 days again: Tamil Nadu CM [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/chennai-will-switch-to-shutdown-mode-for-12-days-again-tamil-nadu-cm/articleshow/76386971.cms)]
 
 ### 15<sup>th</sup> June, 2020
@@ -29,6 +32,3 @@ layout: post
 
 ### 8<sup>th</sup> June, 2020
 - Covid cases cross 2.5L, toll 7k as malls, shrines set to open [[Source](https://timesofindia.indiatimes.com/india/covid-cases-cross-2-5l-toll-7k-as-malls-shrines-set-to-open/articleshow/76251500.cms)]
-
-### 7<sup>th</sup> June, 2020
-- Covid tally: India overtakes Spain, 5th highest in world [[Source](https://timesofindia.indiatimes.com/india/india-overtakes-spain-covid-count-5th-highest-in-world/articleshow/76240195.cms)]
