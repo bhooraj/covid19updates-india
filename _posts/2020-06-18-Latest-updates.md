@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [17<sup>th</sup> June, 2020](#updates)
+### [18<sup>th</sup> June, 2020](#updates)
+- Coronavirus Updates: 'Expansion of healthcare infra utmost priority', PM asks states to focus on testing [[Source](https://www.livemint.com/news/india/coronavirus-live-updates-narendra-modi-second-meeting-with-states-union-territories-cms-latest-news-on-covid-19-situation-11592385009899.html)]
+-  Coronavirus lockdown | Get ready for Unlock 2, Modi tells CMs [[Source](https://www.thehindu.com/news/national/coronavirus-lockdown-get-ready-for-unlock-2-modi-tells-cms/article31854145.ece)]
+
+### 17<sup>th</sup> June, 2020
 - Day 2 of PM Modi’s consultation with chief ministers on Covid-19 today [[Source](https://www.hindustantimes.com/india-news/day-2-of-pm-modi-s-consultation-with-chief-ministers-on-covid-19-today/story-NmTqP5SFceNtuYYnCog4WJ.html)]
 
 ### 16<sup>th</sup> June, 2020
@@ -29,6 +33,3 @@ layout: post
 
 ### 9<sup>th</sup> June, 2020
 - WHO says pandemic ‘far from over’ as daily cases hit record high [[Source](https://indianexpress.com/article/coronavirus/who-says-pandemic-far-from-over-as-daily-cases-hit-record-high-6449625/)]
-
-### 8<sup>th</sup> June, 2020
-- Covid cases cross 2.5L, toll 7k as malls, shrines set to open [[Source](https://timesofindia.indiatimes.com/india/covid-cases-cross-2-5l-toll-7k-as-malls-shrines-set-to-open/articleshow/76251500.cms)]
