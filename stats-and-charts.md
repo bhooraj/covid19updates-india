@@ -2,5 +2,5 @@
 layout: page
 title: Data-Analysis on COVID-19 cases in India
 ---
-#### Charts/Graphs on this page last updated on 17.06.2020 at 09:36 AM
-{% include charts-20200617-0936.html %}
+#### Charts/Graphs on this page last updated on 18.06.2020 at 09:42 AM
+{% include charts-20200618-0942.html %}
