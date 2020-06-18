@@ -20,7 +20,7 @@ language: Hindi
 ### 4. उच्च तापमान पर अपने शरीर को रखना COVID-19 को रोकता या ठीक नहीं करता।
 <img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Sun_hindi.jpg" alt="Illustration on COVID-19 myth about High Temperatures.">
 <br>
-### 5. COVID-19 को रोकने या ठीक करने के लिए हाइड्रोक्लोरोक्विन एक सिद्ध दवा नहीं है।
+### 5. COVID-19 को रोकने या ठीक करने के लिए हाइड्रोक्सीक्लोरोक्वीन एक सिद्ध दवा नहीं है।
 <img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Hydroxychloroquine_hindi.jpg" alt="Illustration on COVID-19 myth about Hydroxychloroquine.">
 <br>
 *Note: More Myth-busters will be added soon.*
