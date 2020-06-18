@@ -3,7 +3,7 @@ layout: post
 ---
 ### [18<sup>th</sup> June, 2020](#updates)
 - Coronavirus Updates: 'Expansion of healthcare infra utmost priority', PM asks states to focus on testing [[Source](https://www.livemint.com/news/india/coronavirus-live-updates-narendra-modi-second-meeting-with-states-union-territories-cms-latest-news-on-covid-19-situation-11592385009899.html)]
--  Coronavirus lockdown | Get ready for Unlock 2, Modi tells CMs [[Source](https://www.thehindu.com/news/national/coronavirus-lockdown-get-ready-for-unlock-2-modi-tells-cms/article31854145.ece)]
+-  Coronavirus lockdown: Get ready for Unlock 2, Modi tells CMs [[Source](https://www.thehindu.com/news/national/coronavirus-lockdown-get-ready-for-unlock-2-modi-tells-cms/article31854145.ece)]
 
 ### 17<sup>th</sup> June, 2020
 - Day 2 of PM Modi’s consultation with chief ministers on Covid-19 today [[Source](https://www.hindustantimes.com/india-news/day-2-of-pm-modi-s-consultation-with-chief-ministers-on-covid-19-today/story-NmTqP5SFceNtuYYnCog4WJ.html)]
