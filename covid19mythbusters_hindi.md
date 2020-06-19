@@ -23,6 +23,9 @@ language: Hindi
 ### 5. COVID-19 को रोकने या ठीक करने के लिए हाइड्रोक्सीक्लोरोक्वीन एक सिद्ध दवा नहीं है।
 <img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Hydroxychloroquine_hindi.jpg" alt="Illustration on COVID-19 myth about Hydroxychloroquine.">
 <br>
+### 6. एंटीबायोटिक्स वायरस के खिलाफ काम नहीं करते हैं। 2019-nCoV एक वायरस है।
+<img src="/public/images/covid19mythbusters/hindi/CovidMythBusters_Antibiotics_hindi.jpg" alt="Illustration on COVID-19 myth about Antibiotics.">
+<br>
 *Note: More Myth-busters will be added soon.*
 
 <div class="page-share">
