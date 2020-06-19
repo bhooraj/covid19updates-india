@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [18<sup>th</sup> June, 2020](#updates)
+### [19<sup>th</sup> June, 2020](#updates)
+- WHO hopeful Covid-19 vaccines could be available before end of this year [[Source](https://timesofindia.indiatimes.com/world/europe/who-hopeful-covid-19-vaccines-could-be-available-before-end-of-this-year/articleshow/76449352.cms)]
+
+### 18<sup>th</sup> June, 2020
 - Coronavirus Updates: 'Expansion of healthcare infra utmost priority', PM asks states to focus on testing [[Source](https://www.livemint.com/news/india/coronavirus-live-updates-narendra-modi-second-meeting-with-states-union-territories-cms-latest-news-on-covid-19-situation-11592385009899.html)]
 -  Coronavirus lockdown: Get ready for Unlock 2, Modi tells CMs [[Source](https://www.thehindu.com/news/national/coronavirus-lockdown-get-ready-for-unlock-2-modi-tells-cms/article31854145.ece)]
 
@@ -30,6 +33,3 @@ layout: post
 
 ### 10<sup>th</sup> June, 2020
 - J Anbazhagan, DMK MLA, dies of Covid-19 in Chennai [[Source](https://timesofindia.indiatimes.com/city/chennai/j-anbazhagan-dmk-mla-dies-of-covid-19-in-chennai/articleshow/76294406.cms)]
-
-### 9<sup>th</sup> June, 2020
-- WHO says pandemic ‘far from over’ as daily cases hit record high [[Source](https://indianexpress.com/article/coronavirus/who-says-pandemic-far-from-over-as-daily-cases-hit-record-high-6449625/)]
