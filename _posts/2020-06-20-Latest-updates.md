@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [19<sup>th</sup> June, 2020](#updates)
+### [20<sup>th</sup> June, 2020](#updates)
+- States must give test results to patient: SC [[Source](https://timesofindia.indiatimes.com/india/states-must-give-test-results-to-patient-sc/articleshow/76474903.cms)]
+
+### 19<sup>th</sup> June, 2020
 - WHO hopeful Covid-19 vaccines could be available before end of this year [[Source](https://timesofindia.indiatimes.com/world/europe/who-hopeful-covid-19-vaccines-could-be-available-before-end-of-this-year/articleshow/76449352.cms)]
 
 ### 18<sup>th</sup> June, 2020
@@ -30,6 +33,3 @@ layout: post
 ### 11<sup>th</sup> June, 2020
 - Covid-19: Maharashtra sees record spike in both daily cases and deaths [[Source](https://www.livemint.com/news/india/covid-19-maharashtra-sees-record-spike-in-both-daily-cases-and-deaths-11591799569155.html)]
 -  28 CRPF Personnel Posted In Kashmir Test COVID-19 Positive  [[Source](https://www.ndtv.com/india-news/coronavirus-india-28-crpf-personnel-posted-in-kashmir-test-covid-19-positive-2244179)]
-
-### 10<sup>th</sup> June, 2020
-- J Anbazhagan, DMK MLA, dies of Covid-19 in Chennai [[Source](https://timesofindia.indiatimes.com/city/chennai/j-anbazhagan-dmk-mla-dies-of-covid-19-in-chennai/articleshow/76294406.cms)]
