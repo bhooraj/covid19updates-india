@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [20<sup>th</sup> June, 2020](#updates)
+### [21<sup>st</sup> June, 2020](#updates)
+- First 1 lakh cases in 78 days, latest in just 8: Tracking Covid-19 spike in India [[Source](https://www.hindustantimes.com/india-news/first-1-lakh-cases-in-78-days-latest-in-just-8-tracking-covid-19-spike-in-india/story-kwYotHZwLFL98GuVQNw1BL.html)]
+
+### 20<sup>th</sup> June, 2020
 - States must give test results to patient: SC [[Source](https://timesofindia.indiatimes.com/india/states-must-give-test-results-to-patient-sc/articleshow/76474903.cms)]
 
 ### 19<sup>th</sup> June, 2020
@@ -29,7 +32,3 @@ layout: post
 
 ### 12<sup>th</sup> June, 2020
 - India now no. 4 as fresh Covid cases and deaths touch record high [[Source](https://timesofindia.indiatimes.com/india/india-now-no-4-as-fresh-covid-cases-and-deaths-touch-record-highs/articleshow/76331287.cms)]
-
-### 11<sup>th</sup> June, 2020
-- Covid-19: Maharashtra sees record spike in both daily cases and deaths [[Source](https://www.livemint.com/news/india/covid-19-maharashtra-sees-record-spike-in-both-daily-cases-and-deaths-11591799569155.html)]
--  28 CRPF Personnel Posted In Kashmir Test COVID-19 Positive  [[Source](https://www.ndtv.com/india-news/coronavirus-india-28-crpf-personnel-posted-in-kashmir-test-covid-19-positive-2244179)]
