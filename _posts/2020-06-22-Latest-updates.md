@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [21<sup>st</sup> June, 2020](#updates)
+### [22<sup>nd</sup> June, 2020](#updates)
+- Muscle Pain, Diarrhoea Along With Loss Of Taste And Smell - Kolkata COVID-19 Patients Are Showing 'Unusual Symptoms' [[Source](https://www.indiatimes.com/news/india/muscle-pain-diarrhoea-along-with-loss-of-taste-and-smell-kolkata-covid-19-patients-are-showing-unusual-symptoms-516162.html)]
+
+### 21<sup>st</sup> June, 2020
 - First 1 lakh cases in 78 days, latest in just 8: Tracking Covid-19 spike in India [[Source](https://www.hindustantimes.com/india-news/first-1-lakh-cases-in-78-days-latest-in-just-8-tracking-covid-19-spike-in-india/story-kwYotHZwLFL98GuVQNw1BL.html)]
 
 ### 20<sup>th</sup> June, 2020
@@ -29,6 +32,3 @@ layout: post
 ### 13<sup>th</sup> June, 2020
 - PM Modi to interact with CMs on June 16-17 [[Source](https://timesofindia.indiatimes.com/india/pm-modi-to-interact-with-cms-on-june-16-17/articleshow/76350676.cms)]
 - India records single-day spike of over 10,000 new Covid-19 cases for first time [[Source](https://timesofindia.indiatimes.com/india/india-records-single-day-spike-of-over-10000-new-covid-19-cases-for-first-time/articleshow/76333858.cms)]
-
-### 12<sup>th</sup> June, 2020
-- India now no. 4 as fresh Covid cases and deaths touch record high [[Source](https://timesofindia.indiatimes.com/india/india-now-no-4-as-fresh-covid-cases-and-deaths-touch-record-highs/articleshow/76331287.cms)]
