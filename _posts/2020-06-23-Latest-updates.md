@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [22<sup>nd</sup> June, 2020](#updates)
+### [23<sup>rd</sup> June, 2020](#updates)
+- Rath Yatra begins today after Supreme Court nod: Curfew, no devotees this year [[Source](https://www.hindustantimes.com/india-news/rath-yatra-begins-today-after-supreme-court-nod-curfew-no-devotees-this-year/story-PDMhvR7YbzEcWpUn2hsUOJ.html)]
+
+### 22<sup>nd</sup> June, 2020
 - Muscle Pain, Diarrhoea Along With Loss Of Taste And Smell - Kolkata COVID-19 Patients Are Showing 'Unusual Symptoms' [[Source](https://www.indiatimes.com/news/india/muscle-pain-diarrhoea-along-with-loss-of-taste-and-smell-kolkata-covid-19-patients-are-showing-unusual-symptoms-516162.html)]
 
 ### 21<sup>st</sup> June, 2020
@@ -28,7 +31,3 @@ layout: post
 
 ### 14<sup>th</sup> June, 2020
 -  11,929 Coronavirus Cases In India In 24 hours, 3.2 Lakh Total Cases: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-11-929-coronavirus-cases-in-india-in-24-hours-3-2-lakh-total-cases-2245976)]
-
-### 13<sup>th</sup> June, 2020
-- PM Modi to interact with CMs on June 16-17 [[Source](https://timesofindia.indiatimes.com/india/pm-modi-to-interact-with-cms-on-june-16-17/articleshow/76350676.cms)]
-- India records single-day spike of over 10,000 new Covid-19 cases for first time [[Source](https://timesofindia.indiatimes.com/india/india-records-single-day-spike-of-over-10000-new-covid-19-cases-for-first-time/articleshow/76333858.cms)]
