@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [23<sup>rd</sup> June, 2020](#updates)
+### [24<sup>th</sup> June, 2020](#updates)
+- Patanjali launches Covid-19 drugs; Centre seeks details: Here’s what the company said [[Source](https://www.hindustantimes.com/india-news/patanjali-launches-covid-19-drugs-centre-seeks-details-here-s-what-the-company-said/story-gpCRPcukj4VbufsiDq53eP.html)]
+
+### 23<sup>rd</sup> June, 2020
 - Rath Yatra begins today after Supreme Court nod: Curfew, no devotees this year [[Source](https://www.hindustantimes.com/india-news/rath-yatra-begins-today-after-supreme-court-nod-curfew-no-devotees-this-year/story-PDMhvR7YbzEcWpUn2hsUOJ.html)]
 
 ### 22<sup>nd</sup> June, 2020
@@ -28,6 +31,3 @@ layout: post
 
 ### 15<sup>th</sup> June, 2020
 - Testing to be tripled in Delhi, 500 rail coaches turned into care centres [[Source](https://timesofindia.indiatimes.com/city/delhi/testing-to-be-tripled-in-delhi-500-rail-coaches-turned-into-care-centres/articleshow/76377292.cms)]
-
-### 14<sup>th</sup> June, 2020
--  11,929 Coronavirus Cases In India In 24 hours, 3.2 Lakh Total Cases: 10 Points [[Source](https://www.ndtv.com/india-news/coronavirus-11-929-coronavirus-cases-in-india-in-24-hours-3-2-lakh-total-cases-2245976)]
