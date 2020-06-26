@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [25<sup>th</sup> June, 2020](#updates)
+### [26<sup>th</sup> June, 2020](#updates)
+- Railways Cancels All Tickets For Regular Trains From July 1 To August 12  [[Source](https://www.ndtv.com/india-news/railways-cancels-all-tickets-booked-for-regular-trains-between-july-1-and-august-12-2252329)]
+
+### 25<sup>th</sup> June, 2020
 - Kin of over 50 recovered Covid-19 patients in Hyderabad refuse to take them back home [[Source](https://www.hindustantimes.com/india-news/kin-of-over-50-recovered-covid-19-patients-in-hyderabad-refuse-to-take-them-back-home/story-i2sWoMFblxnt5Yssa9makJ.html)]
 
 ### 24<sup>th</sup> June, 2020
@@ -28,6 +31,3 @@ layout: post
 
 ### 17<sup>th</sup> June, 2020
 - Day 2 of PM Modi’s consultation with chief ministers on Covid-19 today [[Source](https://www.hindustantimes.com/india-news/day-2-of-pm-modi-s-consultation-with-chief-ministers-on-covid-19-today/story-NmTqP5SFceNtuYYnCog4WJ.html)]
-
-### 16<sup>th</sup> June, 2020
-- Chennai will switch to shutdown mode for 12 days again: Tamil Nadu CM [[Source](https://economictimes.indiatimes.com/news/politics-and-nation/chennai-will-switch-to-shutdown-mode-for-12-days-again-tamil-nadu-cm/articleshow/76386971.cms)]
