@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [26<sup>th</sup> June, 2020](#updates)
+### [27<sup>th</sup> June, 2020](#updates)
+- Guwahati to go under total lockdown for 14 days to contain COVID-19 [[Source](https://www.thehindu.com/news/national/coronavirus-guwahati-to-go-under-total-lockdown-for-14-days-to-contain-covid-19/article31922742.ece)]
+
+### 26<sup>th</sup> June, 2020
 - Railways Cancels All Tickets For Regular Trains From July 1 To August 12  [[Source](https://www.ndtv.com/india-news/railways-cancels-all-tickets-booked-for-regular-trains-between-july-1-and-august-12-2252329)]
 
 ### 25<sup>th</sup> June, 2020
@@ -28,6 +31,3 @@ layout: post
 ### 18<sup>th</sup> June, 2020
 - Coronavirus Updates: 'Expansion of healthcare infra utmost priority', PM asks states to focus on testing [[Source](https://www.livemint.com/news/india/coronavirus-live-updates-narendra-modi-second-meeting-with-states-union-territories-cms-latest-news-on-covid-19-situation-11592385009899.html)]
 -  Coronavirus lockdown: Get ready for Unlock 2, Modi tells CMs [[Source](https://www.thehindu.com/news/national/coronavirus-lockdown-get-ready-for-unlock-2-modi-tells-cms/article31854145.ece)]
-
-### 17<sup>th</sup> June, 2020
-- Day 2 of PM Modi’s consultation with chief ministers on Covid-19 today [[Source](https://www.hindustantimes.com/india-news/day-2-of-pm-modi-s-consultation-with-chief-ministers-on-covid-19-today/story-NmTqP5SFceNtuYYnCog4WJ.html)]
