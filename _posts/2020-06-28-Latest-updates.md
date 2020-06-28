@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [27<sup>th</sup> June, 2020](#updates)
+### [28<sup>th</sup> June, 2020](#updates)
+- In big spike, India adds 20,000+ cases in a day; toll crosses 16,000 [[Source](In big spike, India adds 20,000+ cases in a day; toll crosses 16,000)]
+
+### 27<sup>th</sup> June, 2020
 - Guwahati to go under total lockdown for 14 days to contain COVID-19 [[Source](https://www.thehindu.com/news/national/coronavirus-guwahati-to-go-under-total-lockdown-for-14-days-to-contain-covid-19/article31922742.ece)]
 
 ### 26<sup>th</sup> June, 2020
@@ -27,7 +30,3 @@ layout: post
 
 ### 19<sup>th</sup> June, 2020
 - WHO hopeful Covid-19 vaccines could be available before end of this year [[Source](https://timesofindia.indiatimes.com/world/europe/who-hopeful-covid-19-vaccines-could-be-available-before-end-of-this-year/articleshow/76449352.cms)]
-
-### 18<sup>th</sup> June, 2020
-- Coronavirus Updates: 'Expansion of healthcare infra utmost priority', PM asks states to focus on testing [[Source](https://www.livemint.com/news/india/coronavirus-live-updates-narendra-modi-second-meeting-with-states-union-territories-cms-latest-news-on-covid-19-situation-11592385009899.html)]
--  Coronavirus lockdown: Get ready for Unlock 2, Modi tells CMs [[Source](https://www.thehindu.com/news/national/coronavirus-lockdown-get-ready-for-unlock-2-modi-tells-cms/article31854145.ece)]
