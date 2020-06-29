@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [28<sup>th</sup> June, 2020](#updates)
+### [29<sup>th</sup> June, 2020](#updates)
+- India’s Covid-19 cases soar for 5th straight day, but govt sees silver lining as recoveries rise [[Source](https://www.hindustantimes.com/india-news/india-s-covid-19-cases-soar-for-5th-straight-day-but-govt-sees-silver-lining-as-recoveries-rise/story-UAFxc4WmdyyZYzeme2ZhYJ.html)]
+
+### 28<sup>th</sup> June, 2020
 - In big spike, India adds 20,000+ cases in a day; toll crosses 16,000 [[Source](In big spike, India adds 20,000+ cases in a day; toll crosses 16,000)]
 
 ### 27<sup>th</sup> June, 2020
