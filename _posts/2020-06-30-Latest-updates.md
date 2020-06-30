@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [29<sup>th</sup> June, 2020](#updates)
+### [30<sup>th</sup> June, 2020](#updates)
+- Schools, Colleges, Cinemas, Religious Shrines to Be Closed till July 31 as Centre Releases Unlock 2.0 Guidelines [[Source](https://www.news18.com/news/india/schools-colleges-cinemas-religious-shrines-to-be-closed-till-july-31-as-centre-releases-fresh-guidelines-2691775.html)]
+
+### 29<sup>th</sup> June, 2020
 - India’s Covid-19 cases soar for 5th straight day, but govt sees silver lining as recoveries rise [[Source](https://www.hindustantimes.com/india-news/india-s-covid-19-cases-soar-for-5th-straight-day-but-govt-sees-silver-lining-as-recoveries-rise/story-UAFxc4WmdyyZYzeme2ZhYJ.html)]
 
 ### 28<sup>th</sup> June, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 20<sup>th</sup> June, 2020
 - States must give test results to patient: SC [[Source](https://timesofindia.indiatimes.com/india/states-must-give-test-results-to-patient-sc/articleshow/76474903.cms)]
-
-### 19<sup>th</sup> June, 2020
-- WHO hopeful Covid-19 vaccines could be available before end of this year [[Source](https://timesofindia.indiatimes.com/world/europe/who-hopeful-covid-19-vaccines-could-be-available-before-end-of-this-year/articleshow/76449352.cms)]
