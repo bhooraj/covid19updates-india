@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [30<sup>th</sup> June, 2020](#updates)
+### [1<sup>st</sup> July, 2020](#updates)
+- Manipur imposes stringent night curfew during 15-day lockdown; Over 1.2 lakh Covid patients treated for free under MJPJAY [[Source](https://indianexpress.com/article/india/coronavirus-india-updates-delhi-maharashtra-up-bengaluru-6482945/)]
+
+### 30<sup>th</sup> June, 2020
 - Schools, Colleges, Cinemas, Religious Shrines to Be Closed till July 31 as Centre Releases Unlock 2.0 Guidelines [[Source](https://www.news18.com/news/india/schools-colleges-cinemas-religious-shrines-to-be-closed-till-july-31-as-centre-releases-fresh-guidelines-2691775.html)]
 
 ### 29<sup>th</sup> June, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 21<sup>st</sup> June, 2020
 - First 1 lakh cases in 78 days, latest in just 8: Tracking Covid-19 spike in India [[Source](https://www.hindustantimes.com/india-news/first-1-lakh-cases-in-78-days-latest-in-just-8-tracking-covid-19-spike-in-india/story-kwYotHZwLFL98GuVQNw1BL.html)]
-
-### 20<sup>th</sup> June, 2020
-- States must give test results to patient: SC [[Source](https://timesofindia.indiatimes.com/india/states-must-give-test-results-to-patient-sc/articleshow/76474903.cms)]
