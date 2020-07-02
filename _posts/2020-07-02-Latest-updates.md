@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [1<sup>st</sup> July, 2020](#updates)
+### [2<sup>nd</sup> July, 2020](#updates)
+- India sees biggest one-day jump of 507 Covid-19 deaths, toll reaches 17,400 [[Source](https://www.hindustantimes.com/india-news/india-sees-biggest-one-day-jump-of-507-covid-19-deaths-death-toll-reaches-17-400/story-jJCO36lg5tqucAJWfLgXXL.html)]
+
+### 1<sup>st</sup> July, 2020
 - Manipur imposes stringent night curfew during 15-day lockdown; Over 1.2 lakh Covid patients treated for free under MJPJAY [[Source](https://indianexpress.com/article/india/coronavirus-india-updates-delhi-maharashtra-up-bengaluru-6482945/)]
 
 ### 30<sup>th</sup> June, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 22<sup>nd</sup> June, 2020
 - Muscle Pain, Diarrhoea Along With Loss Of Taste And Smell - Kolkata COVID-19 Patients Are Showing 'Unusual Symptoms' [[Source](https://www.indiatimes.com/news/india/muscle-pain-diarrhoea-along-with-loss-of-taste-and-smell-kolkata-covid-19-patients-are-showing-unusual-symptoms-516162.html)]
-
-### 21<sup>st</sup> June, 2020
-- First 1 lakh cases in 78 days, latest in just 8: Tracking Covid-19 spike in India [[Source](https://www.hindustantimes.com/india-news/first-1-lakh-cases-in-78-days-latest-in-just-8-tracking-covid-19-spike-in-india/story-kwYotHZwLFL98GuVQNw1BL.html)]
