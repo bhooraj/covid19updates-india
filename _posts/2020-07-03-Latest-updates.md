@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [2<sup>nd</sup> July, 2020](#updates)
+### [3<sup>rd</sup> July, 2020](#updates)
+- Second COVID-19 Vaccine Cleared For Phase I, II Human Trials In India [[Source](https://www.ndtv.com/india-news/coronavirus-vaccine-second-covid-19-vaccine-cleared-for-phase-i-ii-human-trials-in-india-2256176)]
+
+### 2<sup>nd</sup> July, 2020
 - India sees biggest one-day jump of 507 Covid-19 deaths, toll reaches 17,400 [[Source](https://www.hindustantimes.com/india-news/india-sees-biggest-one-day-jump-of-507-covid-19-deaths-death-toll-reaches-17-400/story-jJCO36lg5tqucAJWfLgXXL.html)]
 
 ### 1<sup>st</sup> July, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 23<sup>rd</sup> June, 2020
 - Rath Yatra begins today after Supreme Court nod: Curfew, no devotees this year [[Source](https://www.hindustantimes.com/india-news/rath-yatra-begins-today-after-supreme-court-nod-curfew-no-devotees-this-year/story-PDMhvR7YbzEcWpUn2hsUOJ.html)]
-
-### 22<sup>nd</sup> June, 2020
-- Muscle Pain, Diarrhoea Along With Loss Of Taste And Smell - Kolkata COVID-19 Patients Are Showing 'Unusual Symptoms' [[Source](https://www.indiatimes.com/news/india/muscle-pain-diarrhoea-along-with-loss-of-taste-and-smell-kolkata-covid-19-patients-are-showing-unusual-symptoms-516162.html)]
