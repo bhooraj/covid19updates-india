@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [3<sup>rd</sup> July, 2020](#updates)
+### [4<sup>th</sup> July, 2020](#updates)
+- ICMR aims to launch COVAXIN by August 15 [[Source](https://www.moneycontrol.com/news/trends/coronavirus-vaccine-icmr-says-covaxin-to-be-launched-by-august-15-5501921.html)]
+
+### 3<sup>- rd</sup> July, 2020
 - Second COVID-19 Vaccine Cleared For Phase I, II Human Trials In India [[Source](https://www.ndtv.com/india-news/coronavirus-vaccine-second-covid-19-vaccine-cleared-for-phase-i-ii-human-trials-in-india-2256176)]
 
 ### 2<sup>nd</sup> July, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 24<sup>th</sup> June, 2020
 - Patanjali launches Covid-19 drugs; Centre seeks details: Here’s what the company said [[Source](https://www.hindustantimes.com/india-news/patanjali-launches-covid-19-drugs-centre-seeks-details-here-s-what-the-company-said/story-gpCRPcukj4VbufsiDq53eP.html)]
-
-### 23<sup>rd</sup> June, 2020
-- Rath Yatra begins today after Supreme Court nod: Curfew, no devotees this year [[Source](https://www.hindustantimes.com/india-news/rath-yatra-begins-today-after-supreme-court-nod-curfew-no-devotees-this-year/story-PDMhvR7YbzEcWpUn2hsUOJ.html)]
