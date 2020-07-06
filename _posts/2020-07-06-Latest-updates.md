@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [5<sup>th</sup> July, 2020](#updates)
+### [6<sup>th</sup> July, 2020](#updates)
+- Nearly 7 Lakh Coronavirus Cases In India, 3rd Worst-Hit In World [[Source](https://www.ndtv.com/india-news/coronavirus-6-97-lakh-cases-in-india-so-far-19-693-deaths-60-85-recovery-rate-2257694)]
+
+### 5<sup>th</sup> July, 2020
 - Fast-Tracking COVID Vaccine Only For Independence Day Announcement: Sitaram Yechury [[Source](https://www.ndtv.com/india-news/fast-tracking-covid-vaccine-only-for-independence-day-announcement-sitaram-yechury-2257048)]
 
 ### 4<sup>th</sup> July, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 26<sup>th</sup> June, 2020
 - Railways Cancels All Tickets For Regular Trains From July 1 To August 12  [[Source](https://www.ndtv.com/india-news/railways-cancels-all-tickets-booked-for-regular-trains-between-july-1-and-august-12-2252329)]
-
-### 25<sup>th</sup> June, 2020
-- Kin of over 50 recovered Covid-19 patients in Hyderabad refuse to take them back home [[Source](https://www.hindustantimes.com/india-news/kin-of-over-50-recovered-covid-19-patients-in-hyderabad-refuse-to-take-them-back-home/story-i2sWoMFblxnt5Yssa9makJ.html)]
