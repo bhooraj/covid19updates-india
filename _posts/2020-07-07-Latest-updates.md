@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [6<sup>th</sup> July, 2020](#updates)
+### [7<sup>th</sup> July, 2020](#updates)
+- UGC to colleges: Hold final semester exams by end of September [[Source](https://indianexpress.com/article/education/ugc-to-colleges-hold-final-semester-exams-by-end-of-september-6493343/)]
+
+### 6<sup>th</sup> July, 2020
 - Nearly 7 Lakh Coronavirus Cases In India, 3rd Worst-Hit In World [[Source](https://www.ndtv.com/india-news/coronavirus-6-97-lakh-cases-in-india-so-far-19-693-deaths-60-85-recovery-rate-2257694)]
 
 ### 5<sup>th</sup> July, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 27<sup>th</sup> June, 2020
 - Guwahati to go under total lockdown for 14 days to contain COVID-19 [[Source](https://www.thehindu.com/news/national/coronavirus-guwahati-to-go-under-total-lockdown-for-14-days-to-contain-covid-19/article31922742.ece)]
-
-### 26<sup>th</sup> June, 2020
-- Railways Cancels All Tickets For Regular Trains From July 1 To August 12  [[Source](https://www.ndtv.com/india-news/railways-cancels-all-tickets-booked-for-regular-trains-between-july-1-and-august-12-2252329)]
