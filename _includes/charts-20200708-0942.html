@@ -1,0 +1,193 @@
+
+<!-- HTML starts -->
+<div class="chartWrapper">
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:350px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart1" height="300" width="350"></canvas>
+    </div>
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:350px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart2" height="300" width="350"></canvas>
+    </div>
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:350px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart3" height="300" width="350"></canvas>
+    </div>
+    <div class="container container-fluid chartAreaWrapper" style="position: relative; height:710px; width: 90vw; margin-left:2px;">
+        <canvas id="myChart4" height="680" width="350"></canvas>
+        <p style="font-size: 0.65em;">* Please refer to the update date and time on the <a href="/">homepage</a></p>
+    </div>
+    <p><i><small>Note: The above Graphs/Charts are for the representation purpose only.</small></i></p>
+</div>
+
+<!-- HTML ends -->
+
+
+<!-- Javascript Starts -->
+<script>
+        var yAxisValues1 = ['25 Mar', '26 Mar', '27 Mar', '28 Mar', '29 Mar', '30 Mar', '31 Mar', '01 Apr', '02 Apr', '03 Apr', '04 Apr', '05 Apr', '06 Apr', '07 Apr', '08 Apr', '09 Apr', '10 Apr', '11 Apr', '12 Apr', '13 Apr', '14 Apr', '15 Apr', '16 Apr', '17 Apr', '18 Apr', '19 Apr', '20 Apr', '21 Apr', '22 Apr', '23 Apr', '24 Apr', '25 Apr', '26 Apr', '27 Apr', '28 Apr', '29 Apr', '30 Apr', '01 May', '02 May', '03 May', '04 May', '05 May', '06 May', '07 May', '08 May', '09 May', '10 May', '11 May', '12 May', '13 May', '14 May', '15 May', '16 May', '17 May', '18 May', '19 May', '20 May', '21 May', '22 May', '23 May', '24 May', '25 May', '26 May', '27 May', '28 May', '29 May', '30 May', '31 May', '01 Jun', '02 Jun', '03 Jun', '04 Jun', '05 Jun', '06 Jun', '07 Jun', '08 Jun', '09 Jun', '10 Jun', '11 Jun', '12 Jun', '13 Jun', '14 Jun', '15 Jun', '16 Jun', '17 Jun', '18 Jun', '19 Jun', '20 Jun', '21 Jun', '22 Jun', '23 Jun', '24 Jun', '25 Jun', '26 Jun', '27 Jun', '28 Jun', '29 Jun', '30 Jun', '01 Jul', '02 Jul', '03 Jul', '04 Jul', '05 Jul', '06 Jul', '07 Jul', '08 Jul'];
+        var legendTitle1 = "Number Of Active Cases";
+        var xAxisValues1 = [553, 633, 640, 810, 901, 1071, 1200, 1649, 1860, 2245, 2774, 3219, 3851, 4312, 4714, 5218, 6039, 6634, 7409, 8048, 9272, 10197, 10824, 11616, 12289, 13295, 14255, 15122, 15859, 16689, 17915, 18904, 19865, 20912, 21870, 22904, 23882, 24755, 26430, 27931, 29685, 31967, 33514, 35902, 37916, 39834, 41472, 44029, 46008, 47480, 49219, 51401, 52805, 53656, 55906, 57988, 60053, 62221, 64710, 67698, 71222, 74461, 77752, 78991, 81778, 85314, 86362, 89995, 93322, 97581, 101497, 106737, 110960, 115942, 120406, 125381, 129917, 133632, 137448, 141842, 145779, 149348, 153106, 153178, 155227, 160384, 163248, 168269, 169451, 174387, 178014, 183022, 186514, 189463, 197387, 203051, 210120, 215125, 220114, 226947, 227439, 235433, 244814, 253287, 259557, 264944];
+        var chartTitle1 = "DATE-WISE ACTIVE CASES COMPARISON";
+        var colorsGenerated1 = ['#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74', '#e87a74'];
+
+        //Assigning the values for chart
+        var data1 = {
+                labels: yAxisValues1,
+                datasets: [{
+                    label: legendTitle1,
+                    data: xAxisValues1,
+                    backgroundColor: colorsGenerated1
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart1').getContext('2d');
+
+        var myChart1 = new Chart(ctx, {
+            type: 'bar',
+            data: data1,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle1
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+        
+        var yAxisValues2 = ['25 Mar', '26 Mar', '27 Mar', '28 Mar', '29 Mar', '30 Mar', '31 Mar', '01 Apr', '02 Apr', '03 Apr', '04 Apr', '05 Apr', '06 Apr', '07 Apr', '08 Apr', '09 Apr', '10 Apr', '11 Apr', '12 Apr', '13 Apr', '14 Apr', '15 Apr', '16 Apr', '17 Apr', '18 Apr', '19 Apr', '20 Apr', '21 Apr', '22 Apr', '23 Apr', '24 Apr', '25 Apr', '26 Apr', '27 Apr', '28 Apr', '29 Apr', '30 Apr', '01 May', '02 May', '03 May', '04 May', '05 May', '06 May', '07 May', '08 May', '09 May', '10 May', '11 May', '12 May', '13 May', '14 May', '15 May', '16 May', '17 May', '18 May', '19 May', '20 May', '21 May', '22 May', '23 May', '24 May', '25 May', '26 May', '27 May', '28 May', '29 May', '30 May', '31 May', '01 Jun', '02 Jun', '03 Jun', '04 Jun', '05 Jun', '06 Jun', '07 Jun', '08 Jun', '09 Jun', '10 Jun', '11 Jun', '12 Jun', '13 Jun', '14 Jun', '15 Jun', '16 Jun', '17 Jun', '18 Jun', '19 Jun', '20 Jun', '21 Jun', '22 Jun', '23 Jun', '24 Jun', '25 Jun', '26 Jun', '27 Jun', '28 Jun', '29 Jun', '30 Jun', '01 Jul', '02 Jul', '03 Jul', '04 Jul', '05 Jul', '06 Jul', '07 Jul', '08 Jul'];
+        var legendTitle2 = "Number Of Cured/Discharged/Migrated Cases";
+        var xAxisValues2 = [43, 45, 67, 80, 96, 102, 124, 145, 156, 163, 213, 275, 319, 353, 411, 478, 516, 653, 765, 980, 1190, 1344, 1515, 1767, 2015, 2302, 2842, 3260, 3960, 4325, 4814, 5210, 5914, 6362, 7027, 7797, 8373, 9065, 10018, 10887, 11762, 13161, 14183, 15267, 16540, 17847, 19358, 20917, 22455, 24386, 26235, 27920, 30153, 34109, 36824, 39174, 42298, 45300, 48534, 51784, 54441, 57721, 60491, 64426, 67692, 71106, 82370, 86984, 91819, 95527, 100303, 104107, 109462, 114073, 119293, 124095, 129215, 135206, 141029, 147195, 154330, 162379, 169798, 180013, 186935, 194325, 204711, 213831, 227756, 237196, 248190, 258685, 271697, 285637, 295881, 309713, 321723, 334822, 347979, 359860, 379892, 394227, 409083, 424433, 439948, 456831];
+        var chartTitle2 = "DATE-WISE CURED/DISCHARGED/MIGRATED CASES COMPARISON";
+        var colorsGenerated2 = ['#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a', '#2aaf8a'];
+
+        //Assigning the values for chart
+        var data2 = {
+                labels: yAxisValues2,
+                datasets: [{
+                    label: legendTitle2,
+                    data: xAxisValues2,
+                    backgroundColor: colorsGenerated2
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart2').getContext('2d');
+
+        var myChart2 = new Chart(ctx, {
+            type: 'bar',
+            data: data2,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle2
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+        
+        var yAxisValues3 = ['25 Mar', '26 Mar', '27 Mar', '28 Mar', '29 Mar', '30 Mar', '31 Mar', '01 Apr', '02 Apr', '03 Apr', '04 Apr', '05 Apr', '06 Apr', '07 Apr', '08 Apr', '09 Apr', '10 Apr', '11 Apr', '12 Apr', '13 Apr', '14 Apr', '15 Apr', '16 Apr', '17 Apr', '18 Apr', '19 Apr', '20 Apr', '21 Apr', '22 Apr', '23 Apr', '24 Apr', '25 Apr', '26 Apr', '27 Apr', '28 Apr', '29 Apr', '30 Apr', '01 May', '02 May', '03 May', '04 May', '05 May', '06 May', '07 May', '08 May', '09 May', '10 May', '11 May', '12 May', '13 May', '14 May', '15 May', '16 May', '17 May', '18 May', '19 May', '20 May', '21 May', '22 May', '23 May', '24 May', '25 May', '26 May', '27 May', '28 May', '29 May', '30 May', '31 May', '01 Jun', '02 Jun', '03 Jun', '04 Jun', '05 Jun', '06 Jun', '07 Jun', '08 Jun', '09 Jun', '10 Jun', '11 Jun', '12 Jun', '13 Jun', '14 Jun', '15 Jun', '16 Jun', '17 Jun', '18 Jun', '19 Jun', '20 Jun', '21 Jun', '22 Jun', '23 Jun', '24 Jun', '25 Jun', '26 Jun', '27 Jun', '28 Jun', '29 Jun', '30 Jun', '01 Jul', '02 Jul', '03 Jul', '04 Jul', '05 Jul', '06 Jul', '07 Jul', '08 Jul'];
+        var legendTitle3 = "Number Of Death Cases";
+        var xAxisValues3 = [10, 16, 17, 19, 27, 32, 35, 39, 53, 62, 85, 83, 111, 124, 149, 169, 206, 242, 273, 324, 353, 392, 420, 452, 488, 519, 559, 603, 652, 686, 723, 779, 826, 886, 937, 1008, 1075, 1152, 1223, 1306, 1389, 1583, 1694, 1783, 1886, 1981, 2109, 2206, 2293, 2415, 2549, 2649, 2752, 2872, 3029, 3163, 3303, 3435, 3583, 3720, 3867, 4021, 4167, 4337, 4531, 4706, 4971, 5164, 5394, 5598, 5815, 6075, 6348, 6642, 6929, 7135, 7466, 7745, 8102, 8498, 8884, 9195, 9520, 9900, 11903, 12237, 12573, 12948, 13254, 13699, 14011, 14476, 14894, 15301, 15685, 16095, 16475, 16893, 17400, 17834, 18213, 18655, 19268, 19693, 20160, 20642];
+        var chartTitle3 = "DATE-WISE DEATH CASES COMPARISON";
+        var colorsGenerated3 = ['#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84', '#e4ae84'];
+
+        //Assigning the values for chart
+        var data3 = {
+                labels: yAxisValues3,
+                datasets: [{
+                    label: legendTitle3,
+                    data: xAxisValues3,
+                    backgroundColor: colorsGenerated3
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart3').getContext('2d');
+
+        var myChart3 = new Chart(ctx, {
+            type: 'bar',
+            data: data3,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle3
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+        
+        var yAxisValues4 = ['Andaman and Nicobar Islands', 'Andhra Pradesh', 'Arunachal Pradesh', 'Assam', 'Bihar', 'Chandigarh', 'Chhattisgarh', 'Dadra and Nagar Haveli and Daman and Diu', 'Delhi', 'Goa', 'Gujarat', 'Haryana', 'Himachal Pradesh', 'Jammu and Kashmir', 'Jharkhand', 'Karnataka', 'Kerala', 'Ladakh', 'Madhya Pradesh', 'Maharashtra', 'Manipur', 'Meghalaya', 'Mizoram', 'Nagaland', 'Odisha', 'Puducherry', 'Punjab', 'Rajasthan', 'Sikkim', 'Tamil Nadu', 'Telangana', 'Tripura', 'Uttarakhand', 'Uttar Pradesh', 'West Bengal'];
+        var legendTitle4 = "Number Of Active Cases On The Last Update*";
+        var xAxisValues4 = [72, 11200, 169, 4179, 3182, 86, 650, 222, 25449, 739, 8853, 4075, 282, 3389, 870, 15301, 2415, 204, 3237, 89313, 659, 36, 64, 382, 3352, 482, 2020, 4357, 55, 45842, 11012, 455, 566, 9514, 7243];
+        var chartTitle4 = "STATE-WISE COVID-19 ACTIVE CASES COMPARISON";
+        var colorsGenerated4 = ['#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699', '#666699'];
+
+        //Assigning the values for chart
+        var data4 = {
+                labels: yAxisValues4,
+                datasets: [{
+                    label: legendTitle4,
+                    data: xAxisValues4,
+                    backgroundColor: colorsGenerated4
+                }]
+            };
+
+
+        var ctx = document.getElementById('myChart4').getContext('2d');
+
+        var myChart4 = new Chart(ctx, {
+            type: 'horizontalBar',
+            data: data4,
+
+            options: {
+                title: {
+                    display: true,
+                    text: chartTitle4
+                },
+                maintainAspectRatio: false,
+                responsive: false,
+                scales: {
+                    xAxes: [{
+                        ticks: {
+                            fontSize: 10,
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+        
+ </script>

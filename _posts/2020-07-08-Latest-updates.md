@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [7<sup>th</sup> July, 2020](#updates)
+### [8<sup>th</sup> July, 2020](#updates)
+- Covaxin trials: Vaccine checks under way, hospitals await nod [[Source](https://indianexpress.com/article/india/covaxin-trials-vaccine-checks-under-way-hospitals-await-nod-6495182/)]
+
+### 7<sup>th</sup> July, 2020
 - UGC to colleges: Hold final semester exams by end of September [[Source](https://indianexpress.com/article/education/ugc-to-colleges-hold-final-semester-exams-by-end-of-september-6493343/)]
 
 ### 6<sup>th</sup> July, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 28<sup>th</sup> June, 2020
 - In big spike, India adds 20,000+ cases in a day; toll crosses 16,000 [[Source](In big spike, India adds 20,000+ cases in a day; toll crosses 16,000)]
-
-### 27<sup>th</sup> June, 2020
-- Guwahati to go under total lockdown for 14 days to contain COVID-19 [[Source](https://www.thehindu.com/news/national/coronavirus-guwahati-to-go-under-total-lockdown-for-14-days-to-contain-covid-19/article31922742.ece)]
