@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [8<sup>th</sup> July, 2020](#updates)
+### [9<sup>th</sup> July, 2020](#updates)
+- 7-Day Lockdown For Now In Bengal, Will Extend If Needed: Mamata Banerjee[[Source](https://www.ndtv.com/india-news/7-day-lockdown-for-now-in-bengal-will-extend-if-needed-mamata-banerjee-2259312)]
+
+### 8<sup>th</sup> July, 2020
 - Covaxin trials: Vaccine checks under way, hospitals await nod [[Source](https://indianexpress.com/article/india/covaxin-trials-vaccine-checks-under-way-hospitals-await-nod-6495182/)]
 
 ### 7<sup>th</sup> July, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 29<sup>th</sup> June, 2020
 - India’s Covid-19 cases soar for 5th straight day, but govt sees silver lining as recoveries rise [[Source](https://www.hindustantimes.com/india-news/india-s-covid-19-cases-soar-for-5th-straight-day-but-govt-sees-silver-lining-as-recoveries-rise/story-UAFxc4WmdyyZYzeme2ZhYJ.html)]
-
-### 28<sup>th</sup> June, 2020
-- In big spike, India adds 20,000+ cases in a day; toll crosses 16,000 [[Source](In big spike, India adds 20,000+ cases in a day; toll crosses 16,000)]
