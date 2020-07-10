@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [9<sup>th</sup> July, 2020](#updates)
+### [10<sup>th</sup> July, 2020](#updates)
+- Lockdown In UP From Tonight Till Monday Morning Amid COVID Pandemic [[Source](https://www.ndtv.com/india-news/lockdown-in-up-from-friday-night-till-monday-morning-amid-covid-pandemic-2260108)]
+
+### 9<sup>th</sup> July, 2020
 - 7-Day Lockdown For Now In Bengal, Will Extend If Needed: Mamata Banerjee[[Source](https://www.ndtv.com/india-news/7-day-lockdown-for-now-in-bengal-will-extend-if-needed-mamata-banerjee-2259312)]
 
 ### 8<sup>th</sup> July, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 30<sup>th</sup> June, 2020
 - Schools, Colleges, Cinemas, Religious Shrines to Be Closed till July 31 as Centre Releases Unlock 2.0 Guidelines [[Source](https://www.news18.com/news/india/schools-colleges-cinemas-religious-shrines-to-be-closed-till-july-31-as-centre-releases-fresh-guidelines-2691775.html)]
-
-### 29<sup>th</sup> June, 2020
-- India’s Covid-19 cases soar for 5th straight day, but govt sees silver lining as recoveries rise [[Source](https://www.hindustantimes.com/india-news/india-s-covid-19-cases-soar-for-5th-straight-day-but-govt-sees-silver-lining-as-recoveries-rise/story-UAFxc4WmdyyZYzeme2ZhYJ.html)]
