@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [10<sup>th</sup> July, 2020](#updates)
+### [11<sup>th</sup> July, 2020](#updates)
+- India's Covid-19 count tops 8 lakh, deaths cross 22,000[[Source](https://timesofindia.indiatimes.com/india/indias-covid-19-count-tops-8-lakh-deaths-cross-22000/articleshow/76902334.cms)]
+
+### 10<sup>th</sup> July, 2020
 - Lockdown In UP From Tonight Till Monday Morning Amid COVID Pandemic [[Source](https://www.ndtv.com/india-news/lockdown-in-up-from-friday-night-till-monday-morning-amid-covid-pandemic-2260108)]
 
 ### 9<sup>th</sup> July, 2020
@@ -30,6 +33,3 @@ layout: post
 
 ### 1<sup>st</sup> July, 2020
 - Manipur imposes stringent night curfew during 15-day lockdown; Over 1.2 lakh Covid patients treated for free under MJPJAY [[Source](https://indianexpress.com/article/india/coronavirus-india-updates-delhi-maharashtra-up-bengaluru-6482945/)]
-
-### 30<sup>th</sup> June, 2020
-- Schools, Colleges, Cinemas, Religious Shrines to Be Closed till July 31 as Centre Releases Unlock 2.0 Guidelines [[Source](https://www.news18.com/news/india/schools-colleges-cinemas-religious-shrines-to-be-closed-till-july-31-as-centre-releases-fresh-guidelines-2691775.html)]
