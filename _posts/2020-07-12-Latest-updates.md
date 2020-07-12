@@ -1,7 +1,11 @@
 ---
 layout: post
 ---
-### [11<sup>th</sup> July, 2020](#updates)
+### [12<sup>th</sup> July, 2020](#updates)
+- Donald Trump Wears Face Mask In Public For First Time [[Source](https://www.ndtv.com/world-news/coronavirus-us-president-donald-trump-wears-facemask-in-public-for-first-time-2261249)]
+- After WHO chief’s praise, Uddhav Thackeray says ‘Dharavi emerged as global role model of COVID management’ [[Source](https://www.timesnownews.com/india/article/after-who-chief-s-praise-uddhav-thackeray-says-dharavi-emerged-as-global-role-model-of-covid-management/619972)]
+
+### 11<sup>th</sup> July, 2020
 - India's Covid-19 count tops 8 lakh, deaths cross 22,000[[Source](https://timesofindia.indiatimes.com/india/indias-covid-19-count-tops-8-lakh-deaths-cross-22000/articleshow/76902334.cms)]
 
 ### 10<sup>th</sup> July, 2020
@@ -30,6 +34,3 @@ layout: post
 
 ### 2<sup>nd</sup> July, 2020
 - India sees biggest one-day jump of 507 Covid-19 deaths, toll reaches 17,400 [[Source](https://www.hindustantimes.com/india-news/india-sees-biggest-one-day-jump-of-507-covid-19-deaths-death-toll-reaches-17-400/story-jJCO36lg5tqucAJWfLgXXL.html)]
-
-### 1<sup>st</sup> July, 2020
-- Manipur imposes stringent night curfew during 15-day lockdown; Over 1.2 lakh Covid patients treated for free under MJPJAY [[Source](https://indianexpress.com/article/india/coronavirus-india-updates-delhi-maharashtra-up-bengaluru-6482945/)]
