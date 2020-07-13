@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [12<sup>th</sup> July, 2020](#updates)
+### [13<sup>th</sup> July, 2020](#updates)
+- World’s first COVID-19 vaccine! Russia’s Sechenov University completes clinical trials of Coronavirus vaccine [[Source](https://www.financialexpress.com/lifestyle/health/worlds-first-covid-19-vaccine-russias-sechenov-university-completes-clinical-trials-of-coronavirus-vaccine/2021433/)]
+
+### 12<sup>th</sup> July, 2020
 - Donald Trump Wears Face Mask In Public For First Time [[Source](https://www.ndtv.com/world-news/coronavirus-us-president-donald-trump-wears-facemask-in-public-for-first-time-2261249)]
 - After WHO chief’s praise, Uddhav Thackeray says ‘Dharavi emerged as global role model of COVID management’ [[Source](https://www.timesnownews.com/india/article/after-who-chief-s-praise-uddhav-thackeray-says-dharavi-emerged-as-global-role-model-of-covid-management/619972)]
 
@@ -31,6 +34,3 @@ layout: post
 
 ### 3<sup>- rd</sup> July, 2020
 - Second COVID-19 Vaccine Cleared For Phase I, II Human Trials In India [[Source](https://www.ndtv.com/india-news/coronavirus-vaccine-second-covid-19-vaccine-cleared-for-phase-i-ii-human-trials-in-india-2256176)]
-
-### 2<sup>nd</sup> July, 2020
-- India sees biggest one-day jump of 507 Covid-19 deaths, toll reaches 17,400 [[Source](https://www.hindustantimes.com/india-news/india-sees-biggest-one-day-jump-of-507-covid-19-deaths-death-toll-reaches-17-400/story-jJCO36lg5tqucAJWfLgXXL.html)]
