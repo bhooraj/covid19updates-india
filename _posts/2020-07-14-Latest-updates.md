@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [13<sup>th</sup> July, 2020](#updates)
+### [14<sup>th</sup> July, 2020](#updates)
+- CanSino Biologics to start Phase III trials; GSK to develop plant-based vaccine[[Source](https://indianexpress.com/article/coronavirus/coronavirus-covid-19-vaccines-latest-news-russia-cansino-biologics-covaxin-gsk-6503814/)]
+
+### 13<sup>th</sup> July, 2020
 - World’s first COVID-19 vaccine! Russia’s Sechenov University completes clinical trials of Coronavirus vaccine [[Source](https://www.financialexpress.com/lifestyle/health/worlds-first-covid-19-vaccine-russias-sechenov-university-completes-clinical-trials-of-coronavirus-vaccine/2021433/)]
 
 ### 12<sup>th</sup> July, 2020
@@ -31,6 +34,3 @@ layout: post
 
 ### 4<sup>th</sup> July, 2020
 - ICMR aims to launch COVAXIN by August 15 [[Source](https://www.moneycontrol.com/news/trends/coronavirus-vaccine-icmr-says-covaxin-to-be-launched-by-august-15-5501921.html)]
-
-### 3<sup>- rd</sup> July, 2020
-- Second COVID-19 Vaccine Cleared For Phase I, II Human Trials In India [[Source](https://www.ndtv.com/india-news/coronavirus-vaccine-second-covid-19-vaccine-cleared-for-phase-i-ii-human-trials-in-india-2256176)]
