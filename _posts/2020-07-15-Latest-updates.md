@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [14<sup>th</sup> July, 2020](#updates)
+### [15<sup>th</sup> July, 2020](#updates)
+- India on fast-track mode to develop Covid-19 vaccine: ICMR [[Source](https://www.livemint.com/news/india/india-on-fast-track-mode-to-develop-covid-19-vaccine-icmr-11594732551272.html)]
+
+### 14<sup>th</sup> July, 2020
 - CanSino Biologics to start Phase III trials; GSK to develop plant-based vaccine[[Source](https://indianexpress.com/article/coronavirus/coronavirus-covid-19-vaccines-latest-news-russia-cansino-biologics-covaxin-gsk-6503814/)]
 
 ### 13<sup>th</sup> July, 2020
@@ -31,6 +34,3 @@ layout: post
 
 ### 5<sup>th</sup> July, 2020
 - Fast-Tracking COVID Vaccine Only For Independence Day Announcement: Sitaram Yechury [[Source](https://www.ndtv.com/india-news/fast-tracking-covid-vaccine-only-for-independence-day-announcement-sitaram-yechury-2257048)]
-
-### 4<sup>th</sup> July, 2020
-- ICMR aims to launch COVAXIN by August 15 [[Source](https://www.moneycontrol.com/news/trends/coronavirus-vaccine-icmr-says-covaxin-to-be-launched-by-august-15-5501921.html)]
