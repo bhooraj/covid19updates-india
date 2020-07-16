@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [15<sup>th</sup> July, 2020](#updates)
+### [16<sup>th</sup> July, 2020](#updates)
+- India could have 35 lakh cases by Sept: IISc study [[Source](https://timesofindia.indiatimes.com/india/india-could-have-35-lakh-cases-by-sept-iisc-study/articleshow/76989636.cms)]
+
+### 15<sup>th</sup> July, 2020
 - India on fast-track mode to develop Covid-19 vaccine: ICMR [[Source](https://www.livemint.com/news/india/india-on-fast-track-mode-to-develop-covid-19-vaccine-icmr-11594732551272.html)]
 
 ### 14<sup>th</sup> July, 2020
