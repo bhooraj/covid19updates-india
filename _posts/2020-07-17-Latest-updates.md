@@ -1,7 +1,9 @@
 ---
 layout: post
 ---
-### [16<sup>th</sup> July, 2020](#updates)
+### [17<sup>th</sup> July, 2020](#updates)
+- All eyes on vaccines as India cases cross 1 million [[Source](https://www.livemint.com/news/india/covid-19-update-all-eyes-on-vaccines-as-india-cases-cross-1-million-11594943072757.html)]
+### 16<sup>th</sup> July, 2020
 - India could have 35 lakh cases by Sept: IISc study [[Source](https://timesofindia.indiatimes.com/india/india-could-have-35-lakh-cases-by-sept-iisc-study/articleshow/76989636.cms)]
 
 ### 15<sup>th</sup> July, 2020
@@ -34,6 +36,3 @@ layout: post
 
 ### 6<sup>th</sup> July, 2020
 - Nearly 7 Lakh Coronavirus Cases In India, 3rd Worst-Hit In World [[Source](https://www.ndtv.com/india-news/coronavirus-6-97-lakh-cases-in-india-so-far-19-693-deaths-60-85-recovery-rate-2257694)]
-
-### 5<sup>th</sup> July, 2020
-- Fast-Tracking COVID Vaccine Only For Independence Day Announcement: Sitaram Yechury [[Source](https://www.ndtv.com/india-news/fast-tracking-covid-vaccine-only-for-independence-day-announcement-sitaram-yechury-2257048)]
