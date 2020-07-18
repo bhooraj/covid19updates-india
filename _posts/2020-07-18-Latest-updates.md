@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [17<sup>th</sup> July, 2020](#updates)
+### [18<sup>th</sup> July, 2020](#updates)
+- Delhi’s active Covid-19 cases among lowest in top affected cities [[Source](https://www.hindustantimes.com/india-news/delhi-s-active-covid-19-cases-among-lowest-in-top-affected-cities-covid-19-city-tally/story-iVPsyrKCHCP6dBAwhgyfJO.html)]
+
+### 17<sup>th</sup> July, 2020
 - All eyes on vaccines as India cases cross 1 million [[Source](https://www.livemint.com/news/india/covid-19-update-all-eyes-on-vaccines-as-india-cases-cross-1-million-11594943072757.html)]
 ### 16<sup>th</sup> July, 2020
 - India could have 35 lakh cases by Sept: IISc study [[Source](https://timesofindia.indiatimes.com/india/india-could-have-35-lakh-cases-by-sept-iisc-study/articleshow/76989636.cms)]
