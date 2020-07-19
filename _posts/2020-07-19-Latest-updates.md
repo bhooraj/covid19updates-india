@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [18<sup>th</sup> July, 2020](#updates)
+### [19<sup>th</sup> July, 2020](#updates)
+- AIIMS panel gives nod for human clinical trials of indigenous vaccine candidate COVAXIN [[Source](https://www.firstpost.com/health/coronavirus-highlights-covid-19-cases-deaths-india-corona-vaccine-statewise-tally-delhi-mumbai-maharashtra-lockdown-latest-news-8612071.html)]
+
+### 18<sup>th</sup> July, 2020
 - Delhi’s active Covid-19 cases among lowest in top affected cities [[Source](https://www.hindustantimes.com/india-news/delhi-s-active-covid-19-cases-among-lowest-in-top-affected-cities-covid-19-city-tally/story-iVPsyrKCHCP6dBAwhgyfJO.html)]
 
 ### 17<sup>th</sup> July, 2020
@@ -33,9 +36,3 @@ layout: post
 
 ### 8<sup>th</sup> July, 2020
 - Covaxin trials: Vaccine checks under way, hospitals await nod [[Source](https://indianexpress.com/article/india/covaxin-trials-vaccine-checks-under-way-hospitals-await-nod-6495182/)]
-
-### 7<sup>th</sup> July, 2020
-- UGC to colleges: Hold final semester exams by end of September [[Source](https://indianexpress.com/article/education/ugc-to-colleges-hold-final-semester-exams-by-end-of-september-6493343/)]
-
-### 6<sup>th</sup> July, 2020
-- Nearly 7 Lakh Coronavirus Cases In India, 3rd Worst-Hit In World [[Source](https://www.ndtv.com/india-news/coronavirus-6-97-lakh-cases-in-india-so-far-19-693-deaths-60-85-recovery-rate-2257694)]
