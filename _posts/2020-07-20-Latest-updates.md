@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [19<sup>th</sup> July, 2020](#updates)
+### [20<sup>th</sup> July, 2020](#updates)
+- India's COVID-19 Case Fatality Rate Below 2.5% For First Time: Government [[Source](https://www.ndtv.com/india-news/coronavirus-indias-covid-19-case-fatality-rate-falls-below-2-5-per-cent-for-1st-time-health-ministry-2265541)]
+
+### 19<sup>th</sup> July, 2020
 - AIIMS panel gives nod for human clinical trials of indigenous vaccine candidate COVAXIN [[Source](https://www.firstpost.com/health/coronavirus-highlights-covid-19-cases-deaths-india-corona-vaccine-statewise-tally-delhi-mumbai-maharashtra-lockdown-latest-news-8612071.html)]
 
 ### 18<sup>th</sup> July, 2020
@@ -33,6 +36,3 @@ layout: post
 
 ### 9<sup>th</sup> July, 2020
 - 7-Day Lockdown For Now In Bengal, Will Extend If Needed: Mamata Banerjee[[Source](https://www.ndtv.com/india-news/7-day-lockdown-for-now-in-bengal-will-extend-if-needed-mamata-banerjee-2259312)]
-
-### 8<sup>th</sup> July, 2020
-- Covaxin trials: Vaccine checks under way, hospitals await nod [[Source](https://indianexpress.com/article/india/covaxin-trials-vaccine-checks-under-way-hospitals-await-nod-6495182/)]
