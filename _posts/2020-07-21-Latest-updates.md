@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [20<sup>th</sup> July, 2020](#updates)
+### [21<sup>st</sup> July, 2020](#updates)
+- AIIMS collects 1,125 samples for human trials of India's first Covid-19 vaccine[[Source](https://www.livemint.com/news/india/covaxin-aiims-collects-1-125-samples-for-human-trials-of-india-s-first-covid-19-vaccine-11595245497419.html)]
+
+### 20<sup>th</sup> July, 2020
 - India's COVID-19 Case Fatality Rate Below 2.5% For First Time: Government [[Source](https://www.ndtv.com/india-news/coronavirus-indias-covid-19-case-fatality-rate-falls-below-2-5-per-cent-for-1st-time-health-ministry-2265541)]
 
 ### 19<sup>th</sup> July, 2020
@@ -33,6 +36,3 @@ layout: post
 
 ### 10<sup>th</sup> July, 2020
 - Lockdown In UP From Tonight Till Monday Morning Amid COVID Pandemic [[Source](https://www.ndtv.com/india-news/lockdown-in-up-from-friday-night-till-monday-morning-amid-covid-pandemic-2260108)]
-
-### 9<sup>th</sup> July, 2020
-- 7-Day Lockdown For Now In Bengal, Will Extend If Needed: Mamata Banerjee[[Source](https://www.ndtv.com/india-news/7-day-lockdown-for-now-in-bengal-will-extend-if-needed-mamata-banerjee-2259312)]
