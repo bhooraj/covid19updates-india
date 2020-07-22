@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [21<sup>st</sup> July, 2020](#updates)
+### [22<sup>nd</sup> July, 2020](#updates)
+- No lockdown in Bengaluru from tomorrow, CM Yediyurappa confirms [[Source](https://indianexpress.com/article/cities/bangalore/karnataka-bangalore-coronavirus-covid-19-lockdown-5-0-news-live-updates-bbmp-covid-live-6515811/)]
+
+### 21<sup>st</sup> July, 2020
 - AIIMS collects 1,125 samples for human trials of India's first Covid-19 vaccine[[Source](https://www.livemint.com/news/india/covaxin-aiims-collects-1-125-samples-for-human-trials-of-india-s-first-covid-19-vaccine-11595245497419.html)]
 
 ### 20<sup>th</sup> July, 2020
@@ -33,6 +36,3 @@ layout: post
 
 ### 11<sup>th</sup> July, 2020
 - India's Covid-19 count tops 8 lakh, deaths cross 22,000[[Source](https://timesofindia.indiatimes.com/india/indias-covid-19-count-tops-8-lakh-deaths-cross-22000/articleshow/76902334.cms)]
-
-### 10<sup>th</sup> July, 2020
-- Lockdown In UP From Tonight Till Monday Morning Amid COVID Pandemic [[Source](https://www.ndtv.com/india-news/lockdown-in-up-from-friday-night-till-monday-morning-amid-covid-pandemic-2260108)]
