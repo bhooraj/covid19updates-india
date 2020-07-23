@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [22<sup>nd</sup> July, 2020](#updates)
+### [23<sup>rd</sup> July, 2020](#updates)
+- After Oxford, Chinese vaccine shows results, India's Covaxin at trial stage [[Source](https://www.indiatoday.in/science/story/coronavirus-vaccine-latest-news-update-covid-19-medicine-india-oxford-who-status-tracker-1703173-2020-07-22)]
+
+### 22<sup>nd</sup> July, 2020
 - No lockdown in Bengaluru from tomorrow, CM Yediyurappa confirms [[Source](https://indianexpress.com/article/cities/bangalore/karnataka-bangalore-coronavirus-covid-19-lockdown-5-0-news-live-updates-bbmp-covid-live-6515811/)]
 
 ### 21<sup>st</sup> July, 2020
@@ -33,6 +36,3 @@ layout: post
 ### 12<sup>th</sup> July, 2020
 - Donald Trump Wears Face Mask In Public For First Time [[Source](https://www.ndtv.com/world-news/coronavirus-us-president-donald-trump-wears-facemask-in-public-for-first-time-2261249)]
 - After WHO chief’s praise, Uddhav Thackeray says ‘Dharavi emerged as global role model of COVID management’ [[Source](https://www.timesnownews.com/india/article/after-who-chief-s-praise-uddhav-thackeray-says-dharavi-emerged-as-global-role-model-of-covid-management/619972)]
-
-### 11<sup>th</sup> July, 2020
-- India's Covid-19 count tops 8 lakh, deaths cross 22,000[[Source](https://timesofindia.indiatimes.com/india/indias-covid-19-count-tops-8-lakh-deaths-cross-22000/articleshow/76902334.cms)]
