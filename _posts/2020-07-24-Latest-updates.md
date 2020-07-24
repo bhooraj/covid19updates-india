@@ -32,7 +32,3 @@ layout: post
 
 ### 13<sup>th</sup> July, 2020
 - World’s first COVID-19 vaccine! Russia’s Sechenov University completes clinical trials of Coronavirus vaccine [[Source](https://www.financialexpress.com/lifestyle/health/worlds-first-covid-19-vaccine-russias-sechenov-university-completes-clinical-trials-of-coronavirus-vaccine/2021433/)]
-
-### 12<sup>th</sup> July, 2020
-- Donald Trump Wears Face Mask In Public For First Time [[Source](https://www.ndtv.com/world-news/coronavirus-us-president-donald-trump-wears-facemask-in-public-for-first-time-2261249)]
-- After WHO chief’s praise, Uddhav Thackeray says ‘Dharavi emerged as global role model of COVID management’ [[Source](https://www.timesnownews.com/india/article/after-who-chief-s-praise-uddhav-thackeray-says-dharavi-emerged-as-global-role-model-of-covid-management/619972)]
