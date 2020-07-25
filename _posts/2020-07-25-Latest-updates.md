@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [23<sup>rd</sup> July, 2020](#updates)
+### [25<sup>th</sup> July, 2020](#updates)
+- No Flights In Or Out Of Kolkata On Hard Lockdown Days [[Source](https://www.ndtv.com/kolkata-news/coronavirus-no-flights-in-or-out-of-kolkata-on-hard-lockdown-days-says-mamata-banerjee-government-2268294)]
+
+### 23<sup>rd</sup> July, 2020
 - After Oxford, Chinese vaccine shows results, India's Covaxin at trial stage [[Source](https://www.indiatoday.in/science/story/coronavirus-vaccine-latest-news-update-covid-19-medicine-india-oxford-who-status-tracker-1703173-2020-07-22)]
 
 ### 22<sup>nd</sup> July, 2020
@@ -29,6 +32,3 @@ layout: post
 
 ### 14<sup>th</sup> July, 2020
 - CanSino Biologics to start Phase III trials; GSK to develop plant-based vaccine[[Source](https://indianexpress.com/article/coronavirus/coronavirus-covid-19-vaccines-latest-news-russia-cansino-biologics-covaxin-gsk-6503814/)]
-
-### 13<sup>th</sup> July, 2020
-- World’s first COVID-19 vaccine! Russia’s Sechenov University completes clinical trials of Coronavirus vaccine [[Source](https://www.financialexpress.com/lifestyle/health/worlds-first-covid-19-vaccine-russias-sechenov-university-completes-clinical-trials-of-coronavirus-vaccine/2021433/)]
