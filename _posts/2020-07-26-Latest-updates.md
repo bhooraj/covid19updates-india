@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
-### [25<sup>th</sup> July, 2020](#updates)
+### [26<sup>th</sup> July, 2020](#updates)
+- Over 3,000 COVID-19 Patients "Untraceable" In Bengaluru Amid Huge Spike [[Source](https://www.ndtv.com/bangalore-news/coroanvirus-over-3-000-covid-19-patients-untraceable-in-bengaluru-amid-huge-spike-2268853)]
+
+### 25<sup>th</sup> July, 2020
 - No Flights In Or Out Of Kolkata On Hard Lockdown Days [[Source](https://www.ndtv.com/kolkata-news/coronavirus-no-flights-in-or-out-of-kolkata-on-hard-lockdown-days-says-mamata-banerjee-government-2268294)]
 
 ### 23<sup>rd</sup> July, 2020
@@ -29,6 +32,3 @@ layout: post
 
 ### 15<sup>th</sup> July, 2020
 - India on fast-track mode to develop Covid-19 vaccine: ICMR [[Source](https://www.livemint.com/news/india/india-on-fast-track-mode-to-develop-covid-19-vaccine-icmr-11594732551272.html)]
-
-### 14<sup>th</sup> July, 2020
-- CanSino Biologics to start Phase III trials; GSK to develop plant-based vaccine[[Source](https://indianexpress.com/article/coronavirus/coronavirus-covid-19-vaccines-latest-news-russia-cansino-biologics-covaxin-gsk-6503814/)]
