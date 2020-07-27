@@ -29,6 +29,3 @@ layout: post
 - All eyes on vaccines as India cases cross 1 million [[Source](https://www.livemint.com/news/india/covid-19-update-all-eyes-on-vaccines-as-india-cases-cross-1-million-11594943072757.html)]
 ### 16<sup>th</sup> July, 2020
 - India could have 35 lakh cases by Sept: IISc study [[Source](https://timesofindia.indiatimes.com/india/india-could-have-35-lakh-cases-by-sept-iisc-study/articleshow/76989636.cms)]
-
-### 15<sup>th</sup> July, 2020
-- India on fast-track mode to develop Covid-19 vaccine: ICMR [[Source](https://www.livemint.com/news/india/india-on-fast-track-mode-to-develop-covid-19-vaccine-icmr-11594732551272.html)]
